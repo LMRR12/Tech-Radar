@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-08-24T06:38:37.569070+00:00",
+  "generated_at": "2026-08-24T07:02:40.988357+00:00",
   "items": [
     {
-      "title": "Tencent / AI-Infra-Guard",
-      "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "source": "GitHub Trending",
-      "category": "AI",
+      "category": "Research",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440508+00:00",
-      "score": 58
+      "date": "2026-08-24T07:02:39.471043+00:00",
+      "score": 61
     },
     {
-      "title": "PostHog / posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship ",
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440486+00:00",
+      "date": "2026-08-24T07:02:39.471025+00:00",
       "score": 55
-    },
-    {
-      "title": "cursor / plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440454+00:00",
-      "score": 55
-    },
-    {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "source": "GitHub Trending",
-      "category": "Industry",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440437+00:00",
-      "score": 58
     },
     {
       "title": "ripienaar / free-for-dev",
@@ -48,97 +28,57 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440418+00:00",
+      "date": "2026-08-24T07:02:39.471006+00:00",
       "score": 55
     },
     {
-      "title": "mahlernim / google-timeline-visualizer",
-      "url": "https://github.com/mahlernim/google-timeline-visualizer",
-      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "source": "GitHub Trending",
-      "category": "Industry",
+      "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440397+00:00",
-      "score": 58
+      "date": "2026-08-24T07:02:39.470985+00:00",
+      "score": 55
     },
     {
-      "title": "multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470961+00:00",
+      "score": 55
+    },
+    {
+      "title": "virgiliojr94 / book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470941+00:00",
+      "score": 55
+    },
+    {
+      "title": "VoltAgent / awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440370+00:00",
+      "date": "2026-08-24T07:02:39.470917+00:00",
       "score": 58
     },
     {
-      "title": "modular / modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440348+00:00",
-      "score": 55
-    },
-    {
-      "title": "AprilNEA / OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440330+00:00",
-      "score": 55
-    },
-    {
-      "title": "anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440306+00:00",
-      "score": 55
-    },
-    {
-      "title": "n8n-io / n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440280+00:00",
-      "score": 55
-    },
-    {
-      "title": "makeplane / plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440259+00:00",
-      "score": 55
-    },
-    {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "source": "GitHub Trending",
-      "category": "Software",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440233+00:00",
-      "score": 58
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T06:38:35.440211+00:00",
+      "date": "2026-08-24T07:02:39.470893+00:00",
       "score": 55
     },
     {
@@ -148,7 +88,67 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440190+00:00",
+      "date": "2026-08-24T07:02:39.470865+00:00",
+      "score": 55
+    },
+    {
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "source": "GitHub Trending",
+      "category": "AI",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470843+00:00",
+      "score": 58
+    },
+    {
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470818+00:00",
+      "score": 55
+    },
+    {
+      "title": "apache / maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470789+00:00",
+      "score": 55
+    },
+    {
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470767+00:00",
+      "score": 55
+    },
+    {
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470747+00:00",
+      "score": 55
+    },
+    {
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470721+00:00",
       "score": 55
     },
     {
@@ -158,7 +158,17 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440162+00:00",
+      "date": "2026-08-24T07:02:39.470701+00:00",
+      "score": 55
+    },
+    {
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:02:39.470675+00:00",
       "score": 55
     },
     {
@@ -168,8 +178,18 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T06:38:35.440114+00:00",
+      "date": "2026-08-24T07:02:39.470637+00:00",
       "score": 58
+    },
+    {
+      "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+      "url": "https://techxplore.com/news/2026-08-workers-china-impact-ai-jobs.html",
+      "description": "Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article/paper",
+      "date": "2026-08-24T06:53:10+00:00",
+      "score": 48
     },
     {
       "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
@@ -1572,16 +1592,6 @@
       "score": 48
     },
     {
-      "title": "When the algorithm determines wages",
-      "url": "https://techxplore.com/news/2026-08-algorithm-wages.html",
-      "description": "What happens when companies on digital labor platforms no longer decide for themselves how much to pay their workers, but leave this to learning algorithms? Researchers at TU Darmstadt, Bielefeld University and the Université Côte d'Azur have demonstrated in computer simulations ",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article/paper",
-      "date": "2026-08-21T14:40:07+00:00",
-      "score": 48
-    },
-    {
       "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
       "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
       "description": "About this Webinar Turn Yield Excursions into Faster, More Confident Root Cause Analysis When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing ",
@@ -1790,16 +1800,6 @@
       "kind": "article/paper",
       "date": "2026-08-10T16:25:36+00:00",
       "score": 64
-    },
-    {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article/paper",
-      "date": "2026-08-10T10:05:36+00:00",
-      "score": 55
     }
   ]
 }
