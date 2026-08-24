@@ -1,25 +1,45 @@
 {
-  "generated_at": "2026-08-24T07:02:40.988357+00:00",
+  "generated_at": "2026-08-24T07:25:13.551966+00:00",
   "items": [
     {
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "title": "Tencent / AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "source": "GitHub Trending",
-      "category": "Research",
+      "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.471043+00:00",
-      "score": 61
+      "date": "2026-08-24T07:25:11.828080+00:00",
+      "score": 58
     },
     {
-      "title": "Comfy-Org / ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "title": "PostHog / posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship ",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.471025+00:00",
+      "date": "2026-08-24T07:25:11.828052+00:00",
       "score": 55
+    },
+    {
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.828009+00:00",
+      "score": 55
+    },
+    {
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "source": "GitHub Trending",
+      "category": "Industry",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.827986+00:00",
+      "score": 58
     },
     {
       "title": "ripienaar / free-for-dev",
@@ -28,107 +48,37 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.471006+00:00",
+      "date": "2026-08-24T07:25:11.827961+00:00",
       "score": 55
     },
     {
-      "title": "anthropics / claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "title": "mahlernim / google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
       "source": "GitHub Trending",
-      "category": "Open Source",
+      "category": "Industry",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470985+00:00",
-      "score": 55
-    },
-    {
-      "title": "dani-garcia / vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470961+00:00",
-      "score": 55
-    },
-    {
-      "title": "virgiliojr94 / book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470941+00:00",
-      "score": 55
-    },
-    {
-      "title": "VoltAgent / awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "source": "GitHub Trending",
-      "category": "AI",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470917+00:00",
+      "date": "2026-08-24T07:25:11.827933+00:00",
       "score": 58
     },
     {
-      "title": "ruvnet / ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470893+00:00",
-      "score": 55
-    },
-    {
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470865+00:00",
-      "score": 55
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470843+00:00",
+      "date": "2026-08-24T07:25:11.827905+00:00",
       "score": 58
     },
     {
-      "title": "Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "title": "modular / modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470818+00:00",
-      "score": 55
-    },
-    {
-      "title": "apache / maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470789+00:00",
-      "score": 55
-    },
-    {
-      "title": "block / buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470767+00:00",
+      "date": "2026-08-24T07:25:11.827876+00:00",
       "score": 55
     },
     {
@@ -138,17 +88,67 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470747+00:00",
+      "date": "2026-08-24T07:25:11.827853+00:00",
       "score": 55
     },
     {
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470721+00:00",
+      "date": "2026-08-24T07:25:11.827810+00:00",
+      "score": 55
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.827775+00:00",
+      "score": 55
+    },
+    {
+      "title": "makeplane / plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.827746+00:00",
+      "score": 55
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "source": "GitHub Trending",
+      "category": "Software",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.827714+00:00",
+      "score": 58
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.827687+00:00",
+      "score": 55
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T07:25:11.827647+00:00",
       "score": 55
     },
     {
@@ -158,17 +158,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470701+00:00",
-      "score": 55
-    },
-    {
-      "title": "freestylefly / awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T07:02:39.470675+00:00",
+      "date": "2026-08-24T07:25:11.827587+00:00",
       "score": 55
     },
     {
@@ -178,7 +168,7 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T07:02:39.470637+00:00",
+      "date": "2026-08-24T07:25:11.827545+00:00",
       "score": 58
     },
     {
@@ -187,607 +177,607 @@
       "description": "Computer programmer Fei Zhaojun's boss asked him if artificial intelligence could soon replace humans in coding jobs. Two weeks later, he was laid off from his job in Beijing, together with about 160 of his colleagues.",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-24T06:53:10+00:00",
       "score": 48
     },
     {
       "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
       "url": "https://arxiv.org/abs/2608.20341",
-      "description": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasonin",
+      "description": "Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substantial Functional Requirement D",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
       "url": "https://arxiv.org/abs/2608.20342",
-      "description": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -",
+      "description": "Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agent -- pre",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
       "url": "https://arxiv.org/abs/2608.20378",
-      "description": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during ",
+      "description": "Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the foundational knowledge of harmful concepts acquired during pretraining. This study demonstrates that this a",
       "source": "arXiv AI",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
       "url": "https://arxiv.org/abs/2608.20379",
-      "description": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around p",
+      "description": "Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent of large ",
       "source": "arXiv AI",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
       "url": "https://arxiv.org/abs/2608.20384",
-      "description": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -",
+      "description": "Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-understandable explanations of the cues driving their decisions -- a dual objective that current high-capacity mo",
       "source": "arXiv AI",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
       "url": "https://arxiv.org/abs/2608.20389",
-      "description": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations e",
+      "description": "A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in context: the LLM planner chooses among skill representations exposed in its system prompt, without an explicit",
       "source": "arXiv AI",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
       "url": "https://arxiv.org/abs/2608.20397",
-      "description": "arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's",
+      "description": "Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is to decouple routing from the s",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "Environmental Slow AI: Design Principles for Generative Systems",
       "url": "https://arxiv.org/abs/2608.20398",
-      "description": "arXiv:2608.20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines ",
+      "description": "Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist values of current generative AI t",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
       "url": "https://arxiv.org/abs/2608.20400",
-      "description": "arXiv:2608.20400v1 Announce Type: new Abstract: Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicitly assume necessary evidence survives eviction, but we challenge this by isolating a pre-retrieval failu",
+      "description": "Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicitly assume necessary evidence survives eviction, but we challenge this by isolating a pre-retrieval failure mode: structurally indirect prerequisite evic",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "World models of environment, agent and joint agent-environment systems",
       "url": "https://arxiv.org/abs/2608.20401",
-      "description": "arXiv:2608.20401v1 Announce Type: new Abstract: World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or information states. We argue that there",
+      "description": "World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variables they predict, such as observations, rewards, states, latent or information states. We argue that there is a prior distinction: which channel they mode",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
       "url": "https://arxiv.org/abs/2608.20414",
-      "description": "arXiv:2608.20414v1 Announce Type: new Abstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, o",
+      "description": "Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, optical character recognition, domain knowledge, ",
       "source": "arXiv AI",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Categorical AI phenomenology: A first-person approach",
       "url": "https://arxiv.org/abs/2608.20420",
-      "description": "arXiv:2608.20420v1 Announce Type: new Abstract: This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the methodological focus to first-p",
+      "description": "This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective experience enacted through an agent's interface with the world. We shift the methodological focus to first-person structures, modeled mathematically by cate",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
       "url": "https://arxiv.org/abs/2608.20425",
-      "description": "arXiv:2608.20425v1 Announce Type: new Abstract: A growing literature measures how far occupations are exposed to AI, but these measures capture where AI could perform tasks, not whether workers have adopted it. We propose a new layer of exposure, delegated exposure, which records",
+      "description": "A growing literature measures how far occupations are exposed to AI, but these measures capture where AI could perform tasks, not whether workers have adopted it. We propose a new layer of exposure, delegated exposure, which records whether a worker has committed a task to AI by ",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "STCO: Conditional Neural Operators for Time-Dependent PDEs",
       "url": "https://arxiv.org/abs/2608.20477",
-      "description": "arXiv:2608.20477v1 Announce Type: new Abstract: Neural operators have emerged as efficient surrogates for time-dependent physical systems governed by partial differential equations (PDEs), but their future-state predictions are often conditioned only on observed states and static",
+      "description": "Neural operators have emerged as efficient surrogates for time-dependent physical systems governed by partial differential equations (PDEs), but their future-state predictions are often conditioned only on observed states and static problem descriptors. For control or optimizatio",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
       "url": "https://arxiv.org/abs/2608.20485",
-      "description": "arXiv:2608.20485v1 Announce Type: new Abstract: Large language model agents increasingly act through terminals, yet existing surveys disperse terminal-mediated behavior across software engineering, tool use, and computer-use research. We regard terminal agents as systems whose do",
+      "description": "Large language model agents increasingly act through terminals, yet existing surveys disperse terminal-mediated behavior across software engineering, tool use, and computer-use research. We regard terminal agents as systems whose dominant progress-bearing action--observation loop",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
       "url": "https://arxiv.org/abs/2608.20490",
-      "description": "arXiv:2608.20490v1 Announce Type: new Abstract: AI ethics frameworks treat values such as fairness, transparency, and accountability as universal and uniformly operationalizable across contexts. We examined how 14 experts across 10 countries made sense of AI in practice, reinterp",
+      "description": "AI ethics frameworks treat values such as fairness, transparency, and accountability as universal and uniformly operationalizable across contexts. We examined how 14 experts across 10 countries made sense of AI in practice, reinterpreted core values, and envisioned governance alt",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "A Temporal Planning Approach for Intelligent Flood Response",
       "url": "https://arxiv.org/abs/2608.20510",
-      "description": "arXiv:2608.20510v1 Announce Type: new Abstract: Effective response to multiple, simultaneously flooded areas requires coordinating appropriate actions in the correct temporal order, under severe resource constraints. Automated planning provides a foundation for addressing this ch",
+      "description": "Effective response to multiple, simultaneously flooded areas requires coordinating appropriate actions in the correct temporal order, under severe resource constraints. Automated planning provides a foundation for addressing this challenge by generating time-aware schedules, give",
       "source": "arXiv AI",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
       "url": "https://arxiv.org/abs/2608.20518",
-      "description": "arXiv:2608.20518v1 Announce Type: new Abstract: In Federated Learning (FL), the communication topology is a runtime variable rather than a fixed design choice, since links and edge devices drop in and out during training. Each round, the server must commit three coupled decisions",
+      "description": "In Federated Learning (FL), the communication topology is a runtime variable rather than a fixed design choice, since links and edge devices drop in and out during training. Each round, the server must commit three coupled decisions, namely the communication topology, per-client ",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
       "url": "https://arxiv.org/abs/2608.20549",
-      "description": "arXiv:2608.20549v1 Announce Type: new Abstract: Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetric radiology, however, presents ",
+      "description": "Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetric radiology, however, presents a fundamental representational mismatch: clinica",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
       "url": "https://arxiv.org/abs/2608.20564",
-      "description": "arXiv:2608.20564v1 Announce Type: new Abstract: Multi-agent LLM systems can improve reasoning by pooling diverse perspectives, but their effectiveness depends on coordinating communication, particularly in hidden-profile settings where each agent holds only part of the evidence r",
+      "description": "Multi-agent LLM systems can improve reasoning by pooling diverse perspectives, but their effectiveness depends on coordinating communication, particularly in hidden-profile settings where each agent holds only part of the evidence required for a correct decision. Existing protoco",
       "source": "arXiv AI",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
       "url": "https://arxiv.org/abs/2608.20343",
-      "description": "arXiv:2608.20343v1 Announce Type: new Abstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detectio",
+      "description": "This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detection in severely imbalanced financial data. Using t",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study",
       "url": "https://arxiv.org/abs/2608.20406",
-      "description": "arXiv:2608.20406v1 Announce Type: new Abstract: Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, an",
+      "description": "Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, and extreme gradient boosting (XGBoost) models usi",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "From Thermal Preference Prediction to Adaptive Thermal Intervention: A Reinforcement Learning Approach Using Physiological and Environmental Sensing",
       "url": "https://arxiv.org/abs/2608.20423",
-      "description": "arXiv:2608.20423v1 Announce Type: new Abstract: Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet conventional Heating, Ventilation, and Air Conditioning (HVAC) systems rely on static setpo",
+      "description": "Personalised thermal comfort is essential for occupant wellbeing and for the development of more responsive building-control strategies, yet conventional Heating, Ventilation, and Air Conditioning (HVAC) systems rely on static setpoints and population-level comfort models that fa",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers",
       "url": "https://arxiv.org/abs/2608.20427",
-      "description": "arXiv:2608.20427v1 Announce Type: new Abstract: Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels. We study BF1, a deterministic block-aligned dyadic sparse-attention route that combines a small exact local neighbor",
+      "description": "Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels. We study BF1, a deterministic block-aligned dyadic sparse-attention route that combines a small exact local neighborhood, a global first block, and logarithmically ",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Approximate Homomorphisms and Convergent Representations in Transducers",
       "url": "https://arxiv.org/abs/2608.20428",
-      "description": "arXiv:2608.20428v1 Announce Type: new Abstract: We study the stability of minimal representations of controlled stochastic processes (in particular, transducers) under perturbations. This question is motivated by recent experiments finding predictive-state structure in the latent",
+      "description": "We study the stability of minimal representations of controlled stochastic processes (in particular, transducers) under perturbations. This question is motivated by recent experiments finding predictive-state structure in the latent representations of neural networks. We consider",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Wrong-Physics Backdoors in Neural PDE Operators",
       "url": "https://arxiv.org/abs/2608.20439",
-      "description": "arXiv:2608.20439v1 Announce Type: new Abstract: Neural PDE operators are increasingly trained on reusable solver archives, yet validation often relies on clean prediction error and parameter-agnostic plausibility checks. We introduce cross-parameter relinking, a data-poisoning pr",
+      "description": "Neural PDE operators are increasingly trained on reusable solver archives, yet validation often relies on clean prediction error and parameter-agnostic plausibility checks. We introduce cross-parameter relinking, a data-poisoning primitive that makes a triggered input select a va",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Decision Tree and K-Means Analysis of Raman Spectra for Edible Oils: A Physics-Informed AI Approach",
       "url": "https://arxiv.org/abs/2608.20440",
-      "description": "arXiv:2608.20440v1 Announce Type: new Abstract: Authentication of edible oils in processed foods is important for food quality, fraud prevention, and regulatory compliance. This study establishes an integrated Raman spectroscopy and machine-learning framework that links intrinsic",
+      "description": "Authentication of edible oils in processed foods is important for food quality, fraud prevention, and regulatory compliance. This study establishes an integrated Raman spectroscopy and machine-learning framework that links intrinsic spectral organization, interpretable classifica",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries",
       "url": "https://arxiv.org/abs/2608.20441",
-      "description": "arXiv:2608.20441v1 Announce Type: new Abstract: Selecting the optimal neural-operator prediction during deployment is challenging when high-fidelity reference solutions are unavailable. We demonstrate that under a squared Hilbert-space loss, ranking a finite model library depends",
+      "description": "Selecting the optimal neural-operator prediction during deployment is challenging when high-fidelity reference solutions are unavailable. We demonstrate that under a squared Hilbert-space loss, ranking a finite model library depends strictly on the low-dimensional span of candida",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Stored in Optimizer State, Valued by Later Training: A Causal Account of Subliminal Trait Transfer",
       "url": "https://arxiv.org/abs/2608.20442",
-      "description": "arXiv:2608.20442v1 Announce Type: new Abstract: Subliminal trait transfer allows a student model to acquire behavioral dispositions from teacher-generated data in which the trait is not semantically expressed. Recent work explains how such signals enter gradients, but not how the",
+      "description": "Subliminal trait transfer allows a student model to acquire behavioral dispositions from teacher-generated data in which the trait is not semantically expressed. Recent work explains how such signals enter gradients, but not how they survive source removal or acquire different si",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Amortized Bandwidth Learning for Kernel Density Estimation under Logarithmic Score",
       "url": "https://arxiv.org/abs/2608.20445",
-      "description": "arXiv:2608.20445v1 Announce Type: new Abstract: Kernel density estimation converts finite samples into probability densities, but its performance depends critically on bandwidth selection. Classical selectors prescribe the sample-to-bandwidth rule analytically or asymptotically, ",
+      "description": "Kernel density estimation converts finite samples into probability densities, but its performance depends critically on bandwidth selection. Classical selectors prescribe the sample-to-bandwidth rule analytically or asymptotically, or solve a new optimization for each sample. An ",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study",
       "url": "https://arxiv.org/abs/2608.20447",
-      "description": "arXiv:2608.20447v1 Announce Type: new Abstract: Feature selection is a highly relevant task in a data-driven knowledge discovery project. Several techniques have been developed aiming at finding the features that influence most an outcome to predict, including mutual information ",
+      "description": "Feature selection is a highly relevant task in a data-driven knowledge discovery project. Several techniques have been developed aiming at finding the features that influence most an outcome to predict, including mutual information and, in recent years, the data-based sensitivity",
       "source": "arXiv ML",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "When Clean Data Hurts: Learning with Monotone Corruptions Beyond Binary Classification",
       "url": "https://arxiv.org/abs/2608.20480",
-      "description": "arXiv:2608.20480v1 Announce Type: new Abstract: Optimal learners are tailored to exploit the i.i.d.\\ data assumption underlying the classic PAC model. What if an i.i.d.\\ training sample were corrupted with correctly labeled examples drawn from an otherwise unrelated, even adversa",
+      "description": "Optimal learners are tailored to exploit the i.i.d.\\ data assumption underlying the classic PAC model. What if an i.i.d.\\ training sample were corrupted with correctly labeled examples drawn from an otherwise unrelated, even adversarial source? This model of learning with monoton",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Metag: A dataset to build agentic meta-reviewing capabilities",
       "url": "https://arxiv.org/abs/2608.20488",
-      "description": "arXiv:2608.20488v1 Announce Type: new Abstract: AI tools increasingly support tasks across the scientific research cycle, from experiment design and manuscript preparation to peer review. At the same time, the continuing growth in conference submissions has increased the burden o",
+      "description": "AI tools increasingly support tasks across the scientific research cycle, from experiment design and manuscript preparation to peer review. At the same time, the continuing growth in conference submissions has increased the burden on meta-reviewers, who must synthesize reviewer f",
       "source": "arXiv ML",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Bern2Edge: A Neurosymbolic Compiler for Edge Deployment via Bernstein Polynomial Networks",
       "url": "https://arxiv.org/abs/2608.20497",
-      "description": "arXiv:2608.20497v1 Announce Type: new Abstract: Deploying high-accuracy neural networks on resource-constrained edge devices remains challenging, as existing approaches treat training, compression, and hardware synthesis as separate stages, leaving a gap between software-trained ",
+      "description": "Deploying high-accuracy neural networks on resource-constrained edge devices remains challenging, as existing approaches treat training, compression, and hardware synthesis as separate stages, leaving a gap between software-trained models and efficient end-to-end deployment with ",
       "source": "arXiv ML",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "When Graph-JEPA Learns the Wrong Thing: Diagnosing and Repairing Category-Conditional Collapse",
       "url": "https://arxiv.org/abs/2608.20516",
-      "description": "arXiv:2608.20516v1 Announce Type: new Abstract: Joint-embedding predictive architectures are selected almost universally by linear probing and effective rank. We report a case where both read healthily while the representation carries zero usable instance information. We repair i",
+      "description": "Joint-embedding predictive architectures are selected almost universally by linear probing and effective rank. We report a case where both read healthily while the representation carries zero usable instance information. We repair it, and a second failure appears: the repaired me",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Learning Exact NVIDIA SASS Encoders with $\\mathbb{F}_2$ Linear Algebra",
       "url": "https://arxiv.org/abs/2608.20532",
-      "description": "arXiv:2608.20532v1 Announce Type: new Abstract: NVIDIA provides a SASS disassembler but no public SASS assembler for recent data-center GPUs, limiting controlled machine-code rewriting. We present F2Asm, which learns exact 128-bit SASS encoders from paired disassembly and origina",
+      "description": "NVIDIA provides a SASS disassembler but no public SASS assembler for recent data-center GPUs, limiting controlled machine-code rewriting. We present F2Asm, which learns exact 128-bit SASS encoders from paired disassembly and original CUBIN instruction words. To our knowledge, F2A",
       "source": "arXiv ML",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "AgentDecarbonizer: Carbon-Aware Execution for AI Agents",
       "url": "https://arxiv.org/abs/2608.20566",
-      "description": "arXiv:2608.20566v1 Announce Type: new Abstract: AI agents extend large language models from single prompt-response interactions to long-running, goaldirected workflows that issue many model calls, invoke tools, and interact with external environments. These workflows enable tasks",
+      "description": "AI agents extend large language models from single prompt-response interactions to long-running, goaldirected workflows that issue many model calls, invoke tools, and interact with external environments. These workflows enable tasks such as software repair, data analysis, and exp",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Faults That Fortify: CNN Adversarial Robustness via GPU Undervolting",
       "url": "https://arxiv.org/abs/2608.20572",
-      "description": "arXiv:2608.20572v1 Announce Type: new Abstract: Convolutional Neural Networks (CNNs) face a dual challenge: vulnerability to adversarial attacks and prohibitive training cost. Adversarial training is effective but expensive, a burden that grows as learning shifts to the energy-co",
+      "description": "Convolutional Neural Networks (CNNs) face a dual challenge: vulnerability to adversarial attacks and prohibitive training cost. Adversarial training is effective but expensive, a burden that grows as learning shifts to the energy-constrained edge. This paper addresses both throug",
       "source": "arXiv ML",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Provable Edge-of-Stability for Adam on a One-Dimensional Quadratic",
       "url": "https://arxiv.org/abs/2608.20638",
-      "description": "arXiv:2608.20638v1 Announce Type: new Abstract: The edge-of-stability (EoS) phenomenon of Adam has been widely observed, while its underlying dynamical mechanism is not yet fully understood. We study uncorrected Adam on a one-dimensional quadratic, a clean setting where constant ",
+      "description": "The edge-of-stability (EoS) phenomenon of Adam has been widely observed, while its underlying dynamical mechanism is not yet fully understood. We study uncorrected Adam on a one-dimensional quadratic, a clean setting where constant curvature isolates the optimizer-induced dynamic",
       "source": "arXiv ML",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Meta-clustering of milk mid-infrared spectra identifies dairy cow groups associated with negative energy balance in early lactation",
       "url": "https://arxiv.org/abs/2608.20653",
-      "description": "arXiv:2608.20653v1 Announce Type: new Abstract: Clustering methods have been used to identify distinct groups of milk samples, cows, or herds. Fourier-transform infrared (FTIR) spectroscopy, particularly mid-infrared (MIR) spectroscopy, has been applied to individual cow milk sam",
+      "description": "Clustering methods have been used to identify distinct groups of milk samples, cows, or herds. Fourier-transform infrared (FTIR) spectroscopy, particularly mid-infrared (MIR) spectroscopy, has been applied to individual cow milk samples to predict various milk traits. Applying cl",
       "source": "arXiv ML",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion",
       "url": "https://arxiv.org/abs/2608.20433",
-      "description": "arXiv:2608.20433v1 Announce Type: new Abstract: Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a ",
+      "description": "Advances in technology have led to increasingly sophisticated musical humanoid robots. However, their use has largely been limited to performance and related research in human-robot interaction. In this position paper, we propose a novel perspective: musical humanoid robots as ex",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional Endoscopic Control",
       "url": "https://arxiv.org/abs/2608.20478",
-      "description": "arXiv:2608.20478v1 Announce Type: new Abstract: Routine gastrointestinal endoscopy is intrinsically bidirectional: the instrument is advanced to reach target anatomy and later withdrawn or retroflexed for inspection, while an external cue may require earlier reversal. When the re",
+      "description": "Routine gastrointestinal endoscopy is intrinsically bidirectional: the instrument is advanced to reach target anatomy and later withdrawn or retroflexed for inspection, while an external cue may require earlier reversal. When the requested phase changes before the visual scene do",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Koala Gripper: Co-designing Robotic Grippers and Data-Capture Devices for Scaling Dexterous Manipulation Learning",
       "url": "https://arxiv.org/abs/2608.20546",
-      "description": "arXiv:2608.20546v1 Announce Type: new Abstract: As the demand for larger manipulation datasets grows, handheld robotic gripper data collection and the associated gripper designs become more vital. Current data collection device designs trend towards matching the morphologies of e",
+      "description": "As the demand for larger manipulation datasets grows, handheld robotic gripper data collection and the associated gripper designs become more vital. Current data collection device designs trend towards matching the morphologies of existing robotic grippers, sacrificing ergonomics",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model",
       "url": "https://arxiv.org/abs/2608.20556",
-      "description": "arXiv:2608.20556v1 Announce Type: new Abstract: Vision-language-action (VLA) models can follow natural-language (NL) task instructions, but such instructions may not precisely specify safety-critical or spatiotemporal requirements on the resulting behavior. We introduce Logic-VLA",
+      "description": "Vision-language-action (VLA) models can follow natural-language (NL) task instructions, but such instructions may not precisely specify safety-critical or spatiotemporal requirements on the resulting behavior. We introduce Logic-VLA, a formal-requirement-aware VLA that conditions",
       "source": "arXiv Robotics",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Nonlinear Model Predictive Control for Trajectory Tracking of Differentially Flat Fixed-Wing Aerial Systems",
       "url": "https://arxiv.org/abs/2608.20655",
-      "description": "arXiv:2608.20655v1 Announce Type: new Abstract: Planning and control of fixed-wing Unmanned Aerial Vehicles (UAVs) are challenging due to nonlinear dynamics, aerodynamic limits, and environmental disturbances. Differential flatness offers a principled way to generate fast, feasib",
+      "description": "Planning and control of fixed-wing Unmanned Aerial Vehicles (UAVs) are challenging due to nonlinear dynamics, aerodynamic limits, and environmental disturbances. Differential flatness offers a principled way to generate fast, feasible trajectories, but its use has largely been co",
       "source": "arXiv Robotics",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Rethinking Demonstration Unlearning in Imitation Learning for Robotics",
       "url": "https://arxiv.org/abs/2608.20784",
-      "description": "arXiv:2608.20784v1 Announce Type: new Abstract: Imitation learning for robotics depends on human demonstrations, some of which people may later ask to remove. Retraining without them is the natural reference, but its cost grows with policy and dataset scale, motivating cheaper op",
+      "description": "Imitation learning for robotics depends on human demonstrations, some of which people may later ask to remove. Retraining without them is the natural reference, but its cost grows with policy and dataset scale, motivating cheaper operators that edit a trained policy. Metrics inhe",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards",
       "url": "https://arxiv.org/abs/2608.20823",
-      "description": "arXiv:2608.20823v1 Announce Type: new Abstract: A humanoid has infinitely many ways to stand up from sitting while maintaining balance, making sit-to-stand (STS) a challenging control problem. We synthesise natural humanoid STS motion from scratch using reinforcement learning, wi",
+      "description": "A humanoid has infinitely many ways to stand up from sitting while maintaining balance, making sit-to-stand (STS) a challenging control problem. We synthesise natural humanoid STS motion from scratch using reinforcement learning, without demonstrations or reference trajectories. ",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Demonstration-Guided Humanoid Stand-Up on an Emulated Deformable Surface",
       "url": "https://arxiv.org/abs/2608.20852",
-      "description": "arXiv:2608.20852v1 Announce Type: new Abstract: This paper presents a reference-guided reinforcement learning framework to generate stand-up motion for a 29-DOF Unitree G1 humanoid on deformable soft ground, using a human demonstration recorded on hard ground. The terrain complia",
+      "description": "This paper presents a reference-guided reinforcement learning framework to generate stand-up motion for a 29-DOF Unitree G1 humanoid on deformable soft ground, using a human demonstration recorded on hard ground. The terrain compliance is modelled using solref and solimp paramete",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "IMU-Free Body-Frame State Estimation with Sparse Scene Flow for Quadcopters",
       "url": "https://arxiv.org/abs/2608.20891",
-      "description": "arXiv:2608.20891v1 Announce Type: new Abstract: We present a vision-only state estimation system for X-configuration quadcopters equipped with a canonical stereo camera pair and no inertial sensors. The system operates entirely in the body frame, requiring only synchronised stere",
+      "description": "We present a vision-only state estimation system for X-configuration quadcopters equipped with a canonical stereo camera pair and no inertial sensors. The system operates entirely in the body frame, requiring only synchronised stereo images and motor thrust commands. A continuous",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Scalable Distributed Simulation-Based Testing for Automated Driving Systems",
       "url": "https://arxiv.org/abs/2608.20904",
-      "description": "arXiv:2608.20904v1 Announce Type: new Abstract: Virtual scenario-based testing is a key enabler for validating automated driving systems (ADS) and intelligent transport systems (ITS). However, executing large-scale test suites involving possibly thousands of scenarios remains lab",
+      "description": "Virtual scenario-based testing is a key enabler for validating automated driving systems (ADS) and intelligent transport systems (ITS). However, executing large-scale test suites involving possibly thousands of scenarios remains labor-intensive and difficult to scale. This paper ",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "Fast Coordinated Bimanual Motion Planning With Hard Constraints",
       "url": "https://arxiv.org/abs/2608.20946",
-      "description": "arXiv:2608.20946v1 Announce Type: new Abstract: Bimanual manipulation enables complex tasks but introduces added complexity from the high number of degrees of freedom involved. When handling rigid objects, the relative transformation between the two end effectors must remain fixe",
+      "description": "Bimanual manipulation enables complex tasks but introduces added complexity from the high number of degrees of freedom involved. When handling rigid objects, the relative transformation between the two end effectors must remain fixed throughout the motion, manifesting as a nonlin",
       "source": "arXiv Robotics",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight",
       "url": "https://arxiv.org/abs/2608.20948",
-      "description": "arXiv:2608.20948v1 Announce Type: new Abstract: Autonomous flight in unknown cluttered environments is hindered by the computation-quality-memory trilemma of onboard trajectory generation. In this paper, we propose an efficient end-to-end local planner via imitation learning. A l",
+      "description": "Autonomous flight in unknown cluttered environments is hindered by the computation-quality-memory trilemma of onboard trajectory generation. In this paper, we propose an efficient end-to-end local planner via imitation learning. A lightweight offline-primitive-based dataset colle",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "Hybrid Roller-Jamming Gripper for Object Acquisition and Retention Under Pose Uncertainty",
       "url": "https://arxiv.org/abs/2608.20962",
-      "description": "arXiv:2608.20962v1 Announce Type: new Abstract: In household manipulation, pose uncertainty often results in off-centre or partial initial contact, making reliable object acquisition difficult. Roller-based grippers can actively draw objects inward but often provide limited post-",
+      "description": "In household manipulation, pose uncertainty often results in off-centre or partial initial contact, making reliable object acquisition difficult. Roller-based grippers can actively draw objects inward but often provide limited post-capture stability, whereas granular-jamming grip",
       "source": "arXiv Robotics",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 51
     },
     {
       "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
       "url": "https://arxiv.org/abs/2608.21031",
-      "description": "arXiv:2608.21031v1 Announce Type: new Abstract: We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-language-action policies excel at imitating demonstrations, they rely on passive observation and fail to infer l",
+      "description": "We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-language-action policies excel at imitating demonstrations, they rely on passive observation and fail to infer latent physical properties critical for manipulat",
       "source": "arXiv Robotics",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning",
       "url": "https://arxiv.org/abs/2608.21032",
-      "description": "arXiv:2608.21032v1 Announce Type: new Abstract: Vehicle-to-Everything (V2X) cooperation enables beyond-line-of-sight perception, mitigating occlusions in single-vehicle sensing. However, existing V2X benchmarks provide limited support for closed-loop evaluation and language-groun",
+      "description": "Vehicle-to-Everything (V2X) cooperation enables beyond-line-of-sight perception, mitigating occlusions in single-vehicle sensing. However, existing V2X benchmarks provide limited support for closed-loop evaluation and language-grounded supervision, hindering the development of vi",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "TaPeR: Probabilistic Recovery of Sparse Task Precedence Graphs from a Handful of Demonstrations",
       "url": "https://arxiv.org/abs/2608.21035",
-      "description": "arXiv:2608.21035v1 Announce Type: new Abstract: Long-horizon manipulation tasks are often only partially ordered. For example, when assembling an electronic device, the battery and circuit board may be installed in either order, but both must be in place before the enclosure is c",
+      "description": "Long-horizon manipulation tasks are often only partially ordered. For example, when assembling an electronic device, the battery and circuit board may be installed in either order, but both must be in place before the enclosure is closed. Recovering such dependencies enables robo",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 45
     },
     {
       "title": "FF-MPCC: High-speed Agile Formation Flight with Model Predictive Contouring Control",
       "url": "https://arxiv.org/abs/2608.21056",
-      "description": "arXiv:2608.21056v1 Announce Type: new Abstract: Flying in a prescribed formation in an agile manner remains a challenging problem in the field of UAVs, particularly when following highly-demanding trajectories that require flight at platform limits. We address this problem by pro",
+      "description": "Flying in a prescribed formation in an agile manner remains a challenging problem in the field of UAVs, particularly when following highly-demanding trajectories that require flight at platform limits. We address this problem by proposing a novel decentralized approach to formati",
       "source": "arXiv Robotics",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Teaching is a Process: The TOSS Framework for Modeling Human Teaching Decisions in Human-Interactive Robot Learning",
       "url": "https://arxiv.org/abs/2608.21083",
-      "description": "arXiv:2608.21083v1 Announce Type: new Abstract: Successful Human-Robot Teaching assumes alignment between robot processing needs and human teaching intent. To better understand this alignment, this work seeks to uncover the underlying logic that humans intuitively apply when teac",
+      "description": "Successful Human-Robot Teaching assumes alignment between robot processing needs and human teaching intent. To better understand this alignment, this work seeks to uncover the underlying logic that humans intuitively apply when teaching. Through an exploratory, bottom-up study wi",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 54
     },
     {
       "title": "SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control",
       "url": "https://arxiv.org/abs/2608.21175",
-      "description": "arXiv:2608.21175v1 Announce Type: new Abstract: Safe and efficient shape-aware navigation in heterogeneous crowds and robot fleets remains challenging. Traditional approaches often assume homogeneous robots, sparse workspaces, simplified geometry, offline computation, or handcraf",
+      "description": "Safe and efficient shape-aware navigation in heterogeneous crowds and robot fleets remains challenging. Traditional approaches often assume homogeneous robots, sparse workspaces, simplified geometry, offline computation, or handcrafted parameters to make the problem tractable, wh",
       "source": "arXiv Robotics",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
     {
       "title": "Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning",
       "url": "https://arxiv.org/abs/2608.21204",
-      "description": "arXiv:2608.21204v1 Announce Type: new Abstract: Behaviour Cloning (BC) has driven remarkable progress in robot manipulation, yet it is fundamentally limited by its inability to self-improve: a policy that fails cannot learn from that failure without additional human demonstration",
+      "description": "Behaviour Cloning (BC) has driven remarkable progress in robot manipulation, yet it is fundamentally limited by its inability to self-improve: a policy that fails cannot learn from that failure without additional human demonstrations. Reinforcement Learning fine-tuning offers a p",
       "source": "arXiv Robotics",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "research paper",
       "date": "2026-08-24T04:00:00+00:00",
       "score": 48
     },
@@ -797,7 +787,7 @@
       "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "source": "TechCrunch",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T20:01:36+00:00",
       "score": 48
     },
@@ -807,7 +797,7 @@
       "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T19:30:00+00:00",
       "score": 45
     },
@@ -817,7 +807,7 @@
       "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T19:14:08+00:00",
       "score": 45
     },
@@ -827,7 +817,7 @@
       "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
       "source": "TechCrunch",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T16:03:00+00:00",
       "score": 51
     },
@@ -837,7 +827,7 @@
       "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T15:30:00+00:00",
       "score": 45
     },
@@ -847,7 +837,7 @@
       "description": "Article URL: https://github.com/291-Group/LAN-Sheriff Comments URL: https://news.ycombinator.com/item?id=49409438 Points: 1 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T15:09:49+00:00",
       "score": 45
     },
@@ -857,7 +847,7 @@
       "description": "Article URL: https://github.com/lbrndnr/beeper Comments URL: https://news.ycombinator.com/item?id=49409378 Points: 1 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T15:01:29+00:00",
       "score": 45
     },
@@ -867,7 +857,7 @@
       "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
       "source": "TechCrunch",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T15:00:00+00:00",
       "score": 51
     },
@@ -877,7 +867,7 @@
       "description": "Article URL: https://usbhawk.com Comments URL: https://news.ycombinator.com/item?id=49409274 Points: 1 # Comments: 1",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:46:56+00:00",
       "score": 45
     },
@@ -887,7 +877,7 @@
       "description": "A simple, retro telnet chat. Thought of this as a distraction free alternative for real-time conversations for folks with a terminal. Feel free to join, create own rooms and message people. Enter with \"telnet hackerlinks.com\". Comments URL: https://news.ycombinator.com/item?id=49",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:41:51+00:00",
       "score": 45
     },
@@ -897,7 +887,7 @@
       "description": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:38:25+00:00",
       "score": 55
     },
@@ -907,7 +897,7 @@
       "description": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:36:38+00:00",
       "score": 55
     },
@@ -917,7 +907,7 @@
       "description": "Article URL: https://neonblocks.michii.dev Comments URL: https://news.ycombinator.com/item?id=49409172 Points: 3 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:34:42+00:00",
       "score": 45
     },
@@ -927,7 +917,7 @@
       "description": "Article URL: https://github.com/majesticlabs-dev/writing-eval Comments URL: https://news.ycombinator.com/item?id=49409152 Points: 1 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:31:16+00:00",
       "score": 48
     },
@@ -937,7 +927,7 @@
       "description": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:24:21+00:00",
       "score": 55
     },
@@ -947,7 +937,7 @@
       "description": "A while back I posted about a project I was working on for a real-time voice agent that runs ads on Meta to build conviction and prioritize side gig/business ideas ( https://news.ycombinator.com/item?id=48900788 ); you yammer away and it automates market research, problem stateme",
       "source": "Hacker News / Show",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:24:14+00:00",
       "score": 48
     },
@@ -957,7 +947,7 @@
       "description": "Article URL: https://julienreszka.github.io/squat-counter/ Comments URL: https://news.ycombinator.com/item?id=49409070 Points: 2 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:22:37+00:00",
       "score": 45
     },
@@ -967,7 +957,7 @@
       "description": "Article URL: https://boxblanks.com/ Comments URL: https://news.ycombinator.com/item?id=49408931 Points: 1 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T14:02:11+00:00",
       "score": 45
     },
@@ -977,7 +967,7 @@
       "description": "Human-Machine Interface Faster UP to 36% Comments URL: https://news.ycombinator.com/item?id=49408900 Points: 1 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:58:01+00:00",
       "score": 45
     },
@@ -987,7 +977,7 @@
       "description": "Article URL: https://communityfix.org/ Comments URL: https://news.ycombinator.com/item?id=49408898 Points: 2 # Comments: 3",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:57:56+00:00",
       "score": 45
     },
@@ -997,7 +987,7 @@
       "description": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:56:27+00:00",
       "score": 55
     },
@@ -1007,7 +997,7 @@
       "description": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:51:10+00:00",
       "score": 55
     },
@@ -1017,7 +1007,7 @@
       "description": "Article URL: https://www.froging.ai Comments URL: https://news.ycombinator.com/item?id=49408724 Points: 1 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:30:37+00:00",
       "score": 51
     },
@@ -1027,7 +1017,7 @@
       "description": "Article URL: https://douwe.com/projects/worldsizer Comments URL: https://news.ycombinator.com/item?id=49408664 Points: 1 # Comments: 1",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:21:54+00:00",
       "score": 45
     },
@@ -1037,7 +1027,7 @@
       "description": "Article URL: https://github.com/infomaniac777/ringdl2/blob/master/README.md Comments URL: https://news.ycombinator.com/item?id=49408649 Points: 1 # Comments: 2",
       "source": "Hacker News / Show",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:19:36+00:00",
       "score": 48
     },
@@ -1047,7 +1037,7 @@
       "description": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:05:38+00:00",
       "score": 55
     },
@@ -1057,7 +1047,7 @@
       "description": "When listening to music, I often don't play whole albums, but string together songs that capture my current mood. In the past, I've written a tool that records my hearings and generates suggestions from my usual listening patterns[1] and used it with some scripts around mpd. This",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T13:00:48+00:00",
       "score": 45
     },
@@ -1067,7 +1057,7 @@
       "description": "Article URL: https://github.com/ptmrio/harness-subagent Comments URL: https://news.ycombinator.com/item?id=49408449 Points: 3 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T12:51:15+00:00",
       "score": 45
     },
@@ -1077,7 +1067,7 @@
       "description": "Article URL: https://histiq.com/ Comments URL: https://news.ycombinator.com/item?id=49408304 Points: 3 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T12:30:21+00:00",
       "score": 48
     },
@@ -1087,7 +1077,7 @@
       "description": "I've been working on linecast, a free and open source collection of six terminal applications: weather, radar, sunshine, moon, tides, and maps. It's as if the Old Farmer's Almanac was built for Minitel. I made it because I'd been using the terminal a lot more over the past couple",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T11:56:47+00:00",
       "score": 45
     },
@@ -1097,7 +1087,7 @@
       "description": "I've been fascinated with how sounds bounce around the room and enter your ears, and how you can find out with two sets of microphones on your head whether the audio is coming from front or behind you. So I tried to build a simulator that allows you to play different kinds of aud",
       "source": "Hacker News / Show",
       "category": "Open Source",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T11:55:28+00:00",
       "score": 45
     },
@@ -1107,7 +1097,7 @@
       "description": "Article URL: https://github.com/tooppoo/enozunu Comments URL: https://news.ycombinator.com/item?id=49408038 Points: 5 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T11:48:23+00:00",
       "score": 51
     },
@@ -1117,7 +1107,7 @@
       "description": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T10:14:48+00:00",
       "score": 55
     },
@@ -1127,7 +1117,7 @@
       "description": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T10:03:01+00:00",
       "score": 55
     },
@@ -1137,7 +1127,7 @@
       "description": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T10:02:51+00:00",
       "score": 55
     },
@@ -1147,7 +1137,7 @@
       "description": "Nestled in the wooded hills of Austria's Styria region, the town of Leoben oozes tradition with its pastel-colored buildings and quaint central square boasting a 13th-century church.",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T10:00:01+00:00",
       "score": 48
     },
@@ -1157,7 +1147,7 @@
       "description": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T09:27:40+00:00",
       "score": 55
     },
@@ -1167,7 +1157,7 @@
       "description": "Chinese humanoid robots broke records set by humans, including beating Usain Bolt's 100-meter sprint world record, on the opening day of the Olympics-like World Humanoid Robot Games in Beijing on Saturday.",
       "source": "Tech Xplore",
       "category": "Robotics",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T09:25:36+00:00",
       "score": 51
     },
@@ -1177,7 +1167,7 @@
       "description": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 24 # Comments: 6",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T06:07:06+00:00",
       "score": 55
     },
@@ -1187,7 +1177,7 @@
       "description": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 123 # Comments: 78",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T06:04:51+00:00",
       "score": 55
     },
@@ -1197,7 +1187,7 @@
       "description": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 143 # Comments: 57",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T05:51:01+00:00",
       "score": 55
     },
@@ -1207,7 +1197,7 @@
       "description": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 44",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T05:39:06+00:00",
       "score": 55
     },
@@ -1217,7 +1207,7 @@
       "description": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T03:32:25+00:00",
       "score": 55
     },
@@ -1227,7 +1217,7 @@
       "description": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 154 # Comments: 55",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T03:13:16+00:00",
       "score": 55
     },
@@ -1237,7 +1227,7 @@
       "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T03:00:00+00:00",
       "score": 55
     },
@@ -1247,7 +1237,7 @@
       "description": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 136 # Comments: 68",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-23T00:56:03+00:00",
       "score": 55
     },
@@ -1257,7 +1247,7 @@
       "description": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 127 # Comments: 31",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T22:14:27+00:00",
       "score": 55
     },
@@ -1267,7 +1257,7 @@
       "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T21:46:56+00:00",
       "score": 51
     },
@@ -1277,7 +1267,7 @@
       "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T20:24:20+00:00",
       "score": 45
     },
@@ -1287,7 +1277,7 @@
       "description": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 32",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T19:07:46+00:00",
       "score": 55
     },
@@ -1297,7 +1287,7 @@
       "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
       "source": "TechCrunch",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T19:00:00+00:00",
       "score": 51
     },
@@ -1307,7 +1297,7 @@
       "description": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 19 # Comments: 7",
       "source": "Hacker News",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T18:38:41+00:00",
       "score": 55
     },
@@ -1317,7 +1307,7 @@
       "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
       "source": "TechCrunch",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T16:30:34+00:00",
       "score": 48
     },
@@ -1327,7 +1317,7 @@
       "description": "TikTok has agreed to pay $400 million to settle a lawsuit with the U.S. Department of Justice over claims that the video-sharing platform violated federal children's privacy laws, the department announced Friday.",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T16:20:02+00:00",
       "score": 45
     },
@@ -1337,7 +1327,7 @@
       "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
       "source": "TechCrunch",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T16:00:00+00:00",
       "score": 51
     },
@@ -1347,7 +1337,7 @@
       "description": "Lithium-ion batteries (LiBs) power electric vehicles and most existing electronics, ranging from laptops to smartphones, tablets, smart appliances and wearable devices. These batteries charge and discharge by moving lithium ions between two electrodes, known as the anode and cath",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T15:40:06+00:00",
       "score": 48
     },
@@ -1357,7 +1347,7 @@
       "description": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T15:20:00+00:00",
       "score": 48
     },
@@ -1367,7 +1357,7 @@
       "description": "In the Appalachian region stretching through the U.S. state of West Virginia, reddish water flowing out of retired coal mines is acidic, full of heavy metals and toxic to the environment.",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T15:00:01+00:00",
       "score": 45
     },
@@ -1377,7 +1367,7 @@
       "description": "Tesla and other Chinese carmakers are making a major recall of more than 4 million vehicles over safety concerns mostly related to their door handles, according to Chinese authorities on Friday.",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T14:50:01+00:00",
       "score": 45
     },
@@ -1387,7 +1377,7 @@
       "description": "Dutch data protection authorities have fined Uber nearly $1 billion, saying the ride-hailing company used automated software to suspend driver accounts, sometimes permanently, with no human review to check for mistakes.",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T14:38:42+00:00",
       "score": 45
     },
@@ -1397,7 +1387,7 @@
       "description": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T14:00:00+00:00",
       "score": 45
     },
@@ -1407,7 +1397,7 @@
       "description": "Everyone is familiar with the situation: A larger group of people plans to visit a restaurant together, but it can take time and sometimes a great deal of patience to agree on a time and place to meet. The better the participants know each other and their preferences, the faster ",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T12:00:04+00:00",
       "score": 51
     },
@@ -1417,7 +1407,7 @@
       "description": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now ",
       "source": "TechCrunch",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T01:31:04+00:00",
       "score": 51
     },
@@ -1427,7 +1417,7 @@
       "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-22T01:03:06+00:00",
       "score": 48
     },
@@ -1437,7 +1427,7 @@
       "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T23:07:25+00:00",
       "score": 45
     },
@@ -1447,7 +1437,7 @@
       "description": "Finally, Australians are being encouraged to swap four wheels for two. Governments are investing in cycling infrastructure, and calls for e-bike subsidies are growing louder.",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T22:40:01+00:00",
       "score": 45
     },
@@ -1457,7 +1447,7 @@
       "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
       "source": "TechCrunch",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T22:37:38+00:00",
       "score": 54
     },
@@ -1467,7 +1457,7 @@
       "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T22:10:01+00:00",
       "score": 51
     },
@@ -1477,7 +1467,7 @@
       "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
       "source": "TechCrunch",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T20:58:07+00:00",
       "score": 48
     },
@@ -1487,7 +1477,7 @@
       "description": "When we watch a metal part being built by laser-based metal additive manufacturing (AM), we're only seeing part of the story. In one kind of metal AM process, a high-powered laser sweeps across a bed of metal powder, creating a tiny pool of molten material—often a few human hairs",
       "source": "Tech Xplore",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T20:20:05+00:00",
       "score": 48
     },
@@ -1497,7 +1487,7 @@
       "description": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up. ",
       "source": "IEEE Spectrum",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T18:00:01+00:00",
       "score": 48
     },
@@ -1507,7 +1497,7 @@
       "description": "Much of western Europe has endured long stretches of hot weather and heat waves this summer. France recently experienced its hottest day on record and put 54 of its 96 departments under the highest heat alert.",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T17:40:03+00:00",
       "score": 45
     },
@@ -1517,7 +1507,7 @@
       "description": "This summer, record-breaking heat waves in Europe led to extreme stress on the power system, with high evening electricity prices due to air-conditioning demand, insufficient battery storage and outages at thermal and nuclear power plants. Events such as these highlight the chall",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T17:40:01+00:00",
       "score": 45
     },
@@ -1527,7 +1517,7 @@
       "description": "AI is showing up in nearly every aspect of daily life—from internet searches to visits to the doctor's office. It could one day even play a role in the street layout in front of your apartment building.",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T17:20:07+00:00",
       "score": 48
     },
@@ -1537,7 +1527,7 @@
       "description": "A research team has developed a highly durable platinum-nickel (PtNi) hydrogen evolution catalyst that suppresses nickel (Ni) leaching through atomic ordering. Nickel leaching is a major cause of performance degradation in catalysts used for anion exchange membrane water electrol",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T17:20:03+00:00",
       "score": 45
     },
@@ -1547,7 +1537,7 @@
       "description": "The common belief throughout the marketing and advertising world is that generative AI can produce striking visuals, but it struggles to match the performance and brand discipline of skilled human designers. New research published in the journal Marketing Science challenges that ",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T17:00:02+00:00",
       "score": 48
     },
@@ -1557,7 +1547,7 @@
       "description": "A new formulation of CO2 foams could help address one of the energy industry's main challenges, specifically regarding the injection of CO2 underground: controlling CO2 mobility in reservoir porous media. This advancement has the potential to improve reservoir sweep, enhance oil ",
       "source": "Tech Xplore",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T16:40:03+00:00",
       "score": 45
     },
@@ -1567,7 +1557,7 @@
       "description": "Researchers at the Advanced Science Research Center at the CUNY Graduate Center (CUNY ASRC) and Honeywell Aerospace have developed a new way to reduce the transfer of radiant heat between closely spaced bodies by using thin, nonmetallic coatings.",
       "source": "Tech Xplore",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T16:20:06+00:00",
       "score": 48
     },
@@ -1577,7 +1567,7 @@
       "description": "The COVID-19 pandemic changed the way many people approached their work across the globe. For Carnegie Mellon University Africa's Jema Ndibwile, it changed the way he viewed a completely different type of virus: a computer virus.",
       "source": "Tech Xplore",
       "category": "Software",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T16:00:07+00:00",
       "score": 54
     },
@@ -1587,7 +1577,7 @@
       "description": "Cyborg insects combine the mobility of living organisms with miniature electronic devices, offering potential applications in search-and-rescue operations, infrastructure inspection and exploration of environments that are difficult for conventional robots.",
       "source": "Tech Xplore",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T15:40:08+00:00",
       "score": 48
     },
@@ -1597,7 +1587,7 @@
       "description": "About this Webinar Turn Yield Excursions into Faster, More Confident Root Cause Analysis When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing ",
       "source": "IEEE Spectrum",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T14:32:37+00:00",
       "score": 51
     },
@@ -1607,7 +1597,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-21T00:00:00+00:00",
       "score": 58
     },
@@ -1617,7 +1607,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-20T16:52:57+00:00",
       "score": 58
     },
@@ -1627,7 +1617,7 @@
       "description": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society. Imagine this: You have a strong idea for a new product for your company. Your coworkers encourage you to move forward because they believe it cou",
       "source": "IEEE Spectrum",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-19T18:00:02+00:00",
       "score": 48
     },
@@ -1637,7 +1627,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-18T18:09:38+00:00",
       "score": 61
     },
@@ -1647,7 +1637,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-18T00:00:00+00:00",
       "score": 61
     },
@@ -1657,7 +1647,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-17T19:46:21+00:00",
       "score": 55
     },
@@ -1667,7 +1657,7 @@
       "description": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization . Many of the disabilities affect independence and mobility. Three high school students working on inventions to help people with dis",
       "source": "IEEE Spectrum",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-17T18:00:04+00:00",
       "score": 45
     },
@@ -1677,7 +1667,7 @@
       "description": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging",
       "source": "IEEE Spectrum",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-17T14:00:01+00:00",
       "score": 51
     },
@@ -1687,7 +1677,7 @@
       "description": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91. Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. T",
       "source": "IEEE Spectrum",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-14T18:00:02+00:00",
       "score": 45
     },
@@ -1697,7 +1687,7 @@
       "description": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources. Download this free whitepaper now!",
       "source": "IEEE Spectrum",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-14T17:27:12+00:00",
       "score": 45
     },
@@ -1707,7 +1697,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-14T00:00:00+00:00",
       "score": 58
     },
@@ -1717,7 +1707,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-13T17:16:04+00:00",
       "score": 64
     },
@@ -1727,7 +1717,7 @@
       "description": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to. Compa",
       "source": "IEEE Spectrum",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-13T14:44:50+00:00",
       "score": 45
     },
@@ -1737,7 +1727,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "Research",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-13T00:00:00+00:00",
       "score": 58
     },
@@ -1747,7 +1737,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-12T16:14:36+00:00",
       "score": 55
     },
@@ -1757,7 +1747,7 @@
       "description": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production. Download this free whitepaper now!",
       "source": "IEEE Spectrum",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-12T14:18:05+00:00",
       "score": 48
     },
@@ -1767,7 +1757,7 @@
       "description": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit. Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focus",
       "source": "IEEE Spectrum",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-11T19:50:54+00:00",
       "score": 45
     },
@@ -1777,7 +1767,7 @@
       "description": "",
       "source": "Hugging Face",
       "category": "AI",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-11T13:37:10+00:00",
       "score": 55
     },
@@ -1787,7 +1777,7 @@
       "description": "In a tranquil Boston suburb , on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper",
       "source": "IEEE Spectrum",
       "category": "Hardware",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-11T13:00:01+00:00",
       "score": 45
     },
@@ -1797,9 +1787,19 @@
       "description": "",
       "source": "Hugging Face",
       "category": "Industry",
-      "kind": "article/paper",
+      "kind": "article",
       "date": "2026-08-10T16:25:36+00:00",
       "score": 64
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-08-10T10:05:36+00:00",
+      "score": 55
     }
   ]
 }
