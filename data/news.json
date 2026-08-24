@@ -1,25 +1,45 @@
 {
-  "generated_at": "2026-08-24T13:14:40.156727+00:00",
+  "generated_at": "2026-08-24T15:57:07.758601+00:00",
   "items": [
     {
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "title": "Tencent / AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "source": "GitHub Trending",
-      "category": "Research",
+      "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545434+00:00",
-      "score": 61
+      "date": "2026-08-24T15:57:05.406451+00:00",
+      "score": 58
     },
     {
-      "title": "Comfy-Org / ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "title": "PostHog / posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship ",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545415+00:00",
+      "date": "2026-08-24T15:57:05.406433+00:00",
       "score": 55
+    },
+    {
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406407+00:00",
+      "score": 55
+    },
+    {
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "source": "GitHub Trending",
+      "category": "Industry",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406393+00:00",
+      "score": 58
     },
     {
       "title": "ripienaar / free-for-dev",
@@ -28,107 +48,37 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545394+00:00",
+      "date": "2026-08-24T15:57:05.406377+00:00",
       "score": 55
     },
     {
-      "title": "anthropics / claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "title": "mahlernim / google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
       "source": "GitHub Trending",
-      "category": "Open Source",
+      "category": "Industry",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545372+00:00",
-      "score": 55
-    },
-    {
-      "title": "dani-garcia / vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545347+00:00",
-      "score": 55
-    },
-    {
-      "title": "virgiliojr94 / book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545326+00:00",
-      "score": 55
-    },
-    {
-      "title": "VoltAgent / awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "source": "GitHub Trending",
-      "category": "AI",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545301+00:00",
+      "date": "2026-08-24T15:57:05.406359+00:00",
       "score": 58
     },
     {
-      "title": "ruvnet / ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545277+00:00",
-      "score": 55
-    },
-    {
-      "title": "affaan-m / ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545249+00:00",
-      "score": 55
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545226+00:00",
+      "date": "2026-08-24T15:57:05.406340+00:00",
       "score": 58
     },
     {
-      "title": "Alishahryar1 / free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "title": "modular / modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545201+00:00",
-      "score": 55
-    },
-    {
-      "title": "apache / maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545176+00:00",
-      "score": 55
-    },
-    {
-      "title": "block / buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545148+00:00",
+      "date": "2026-08-24T15:57:05.406322+00:00",
       "score": 55
     },
     {
@@ -138,17 +88,67 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545129+00:00",
+      "date": "2026-08-24T15:57:05.406306+00:00",
       "score": 55
     },
     {
-      "title": "basecamp / omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545100+00:00",
+      "date": "2026-08-24T15:57:05.406282+00:00",
+      "score": 55
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406260+00:00",
+      "score": 55
+    },
+    {
+      "title": "makeplane / plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406242+00:00",
+      "score": 55
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "source": "GitHub Trending",
+      "category": "Software",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406222+00:00",
+      "score": 58
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406203+00:00",
+      "score": 55
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-08-24T15:57:05.406186+00:00",
       "score": 55
     },
     {
@@ -158,17 +158,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.545078+00:00",
-      "score": 55
-    },
-    {
-      "title": "freestylefly / awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-08-24T13:14:36.545033+00:00",
+      "date": "2026-08-24T15:57:05.406164+00:00",
       "score": 55
     },
     {
@@ -178,8 +168,118 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-08-24T13:14:36.544980+00:00",
+      "date": "2026-08-24T15:57:05.406123+00:00",
       "score": 58
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "source": "TechCrunch",
+      "category": "Robotics",
+      "kind": "article",
+      "date": "2026-08-24T15:24:18+00:00",
+      "score": 57
+    },
+    {
+      "title": "Smartphone navigation app guides blind and low-vision users around obstacles",
+      "url": "https://techxplore.com/news/2026-08-smartphone-app-vision-users-obstacles.html",
+      "description": "For people who are blind or have low vision, moving around independently is a daily challenge. Harvard researchers have developed a new tool that could help people navigate more quickly and safely with nothing more than a device they likely already have—a smartphone.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-08-24T15:00:03+00:00",
+      "score": 45
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-08-24T15:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "More phones may soon let us prove photos are real—but will it solve the AI fake image crisis?",
+      "url": "https://techxplore.com/news/2026-08-photos-real-ai-fake-image.html",
+      "description": "\"Pics or it didn't happen\" was something people used to say online when they wanted to verify a claim. Technology has changed this.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-08-24T14:40:06+00:00",
+      "score": 48
+    },
+    {
+      "title": "Better metals, with help from a small square with billions of holes",
+      "url": "https://techxplore.com/news/2026-08-metals-small-square-billions-holes.html",
+      "description": "Despite significant advances in technology, knowing the atomic arrangement of metals in their microstructure—which defines their strength, deformability and other properties—is still tricky. In a new study, Yale researchers show that a mold about half the size of a fingernail cou",
+      "source": "Tech Xplore",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-08-24T14:20:05+00:00",
+      "score": 48
+    },
+    {
+      "title": "Brake problems in GM EVs draw greater federal scrutiny",
+      "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "description": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-08-24T14:18:47+00:00",
+      "score": 45
+    },
+    {
+      "title": "Purple fabric beats the heat, reflecting 87.6% of sunlight and cooling simulated skin",
+      "url": "https://techxplore.com/news/2026-08-purple-fabric-sunlight-cooling-simulated.html",
+      "description": "A new purple cooling fabric developed by Chinese and Australian researchers could help people stay cooler during scorching summer days without having to resort to wearing white.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-08-24T14:00:07+00:00",
+      "score": 45
+    },
+    {
+      "title": "What It Takes to Be an Adaptable Engineer",
+      "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
+      "description": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or t",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-08-24T14:00:01+00:00",
+      "score": 45
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-08-24T13:47:26+00:00",
+      "score": 45
+    },
+    {
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-08-24T13:45:15+00:00",
+      "score": 48
+    },
+    {
+      "title": "Researchers demonstrate 'wireless' capability for quantum network",
+      "url": "https://techxplore.com/news/2026-08-wireless-capability-quantum-network.html",
+      "description": "Researchers at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory and the State University of New York at Stony Brook (Stony Brook University) have successfully transmitted light particles containing quantum information through open air between the two instituti",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-08-24T13:20:04+00:00",
+      "score": 48
     },
     {
       "title": "A silicon carbide transistor that operates at 600°C",
@@ -190,6 +290,16 @@
       "kind": "article",
       "date": "2026-08-24T12:20:03+00:00",
       "score": 48
+    },
+    {
+      "title": "Building Technology People Can Trust",
+      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+      "description": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have see",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-08-24T11:37:02+00:00",
+      "score": 45
     },
     {
       "title": "Fruit fly-inspired algorithm classifies odors from only a few samples",
@@ -1452,26 +1562,6 @@
       "score": 51
     },
     {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-08-22T01:03:06+00:00",
-      "score": 48
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-08-21T23:07:25+00:00",
-      "score": 45
-    },
-    {
       "title": "People are more likely to ditch the car and use an e‑bike if they feel confident and safe",
       "url": "https://techxplore.com/news/2026-08-people-ditch-car-ebike-confident.html",
       "description": "Finally, Australians are being encouraged to swap four wheels for two. Governments are investing in cycling infrastructure, and calls for e-bike subsidies are growing louder.",
@@ -1480,36 +1570,6 @@
       "kind": "article",
       "date": "2026-08-21T22:40:01+00:00",
       "score": 45
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "description": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "source": "TechCrunch",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-08-21T22:37:38+00:00",
-      "score": 54
-    },
-    {
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "description": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-08-21T22:10:01+00:00",
-      "score": 51
-    },
-    {
-      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-      "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-      "description": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-08-21T20:58:07+00:00",
-      "score": 48
     },
     {
       "title": "Seeing beneath the surface during metal additive manufacturing",
@@ -1550,56 +1610,6 @@
       "kind": "article",
       "date": "2026-08-21T17:40:01+00:00",
       "score": 45
-    },
-    {
-      "title": "AI could help design cities, but planners need safeguards",
-      "url": "https://techxplore.com/news/2026-08-ai-cities-planners-safeguards.html",
-      "description": "AI is showing up in nearly every aspect of daily life—from internet searches to visits to the doctor's office. It could one day even play a role in the street layout in front of your apartment building.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-08-21T17:20:07+00:00",
-      "score": 48
-    },
-    {
-      "title": "Built to last: Hydrogen catalyst operates for 3,000 hours",
-      "url": "https://techxplore.com/news/2026-08-built-hydrogen-catalyst-hours.html",
-      "description": "A research team has developed a highly durable platinum-nickel (PtNi) hydrogen evolution catalyst that suppresses nickel (Ni) leaching through atomic ordering. Nickel leaching is a major cause of performance degradation in catalysts used for anion exchange membrane water electrol",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-08-21T17:20:03+00:00",
-      "score": 45
-    },
-    {
-      "title": "AI-generated ads outperform human designers in live campaign, advantage holds 18 months later",
-      "url": "https://techxplore.com/news/2026-08-ai-generated-ads-outperform-human.html",
-      "description": "The common belief throughout the marketing and advertising world is that generative AI can produce striking visuals, but it struggles to match the performance and brand discipline of skilled human designers. New research published in the journal Marketing Science challenges that ",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-08-21T17:00:02+00:00",
-      "score": 48
-    },
-    {
-      "title": "An improved foam with the potential to increase oil production and CO₂ storage",
-      "url": "https://techxplore.com/news/2026-08-foam-potential-oil-production-storage.html",
-      "description": "A new formulation of CO2 foams could help address one of the energy industry's main challenges, specifically regarding the injection of CO2 underground: controlling CO2 mobility in reservoir porous media. This advancement has the potential to improve reservoir sweep, enhance oil ",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-08-21T16:40:03+00:00",
-      "score": 45
-    },
-    {
-      "title": "Nonmetallic metasurfaces offer a new way to block radiant heat",
-      "url": "https://techxplore.com/news/2026-08-nonmetallic-metasurfaces-block-radiant.html",
-      "description": "Researchers at the Advanced Science Research Center at the CUNY Graduate Center (CUNY ASRC) and Honeywell Aerospace have developed a new way to reduce the transfer of radiant heat between closely spaced bodies by using thin, nonmetallic coatings.",
-      "source": "Tech Xplore",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-08-21T16:20:06+00:00",
-      "score": 48
     },
     {
       "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
@@ -1790,16 +1800,6 @@
       "kind": "article",
       "date": "2026-08-11T13:37:10+00:00",
       "score": 55
-    },
-    {
-      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "description": "In a tranquil Boston suburb , on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-08-11T13:00:01+00:00",
-      "score": 45
     }
   ]
 }
