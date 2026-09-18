@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-18T04:46:29.659869+00:00",
+  "generated_at": "2026-09-18T11:18:25.728543+00:00",
   "items": [
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.199029+00:00",
+      "score": 55
+    },
+    {
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.199013+00:00",
+      "score": 55
+    },
     {
       "title": "cline / cline",
       "url": "https://github.com/cline/cline",
@@ -8,117 +28,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854873+00:00",
-      "score": 55
-    },
-    {
-      "title": "addyosmani / agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "source": "GitHub Trending",
-      "category": "AI",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854853+00:00",
-      "score": 58
-    },
-    {
-      "title": "multimodal-art-projection / YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854832+00:00",
-      "score": 55
-    },
-    {
-      "title": "SnailSploit / Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development",
-      "source": "GitHub Trending",
-      "category": "AI",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854810+00:00",
-      "score": 58
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854777+00:00",
-      "score": 55
-    },
-    {
-      "title": "rlaope / oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854754+00:00",
-      "score": 55
-    },
-    {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854730+00:00",
-      "score": 55
-    },
-    {
-      "title": "alphaXiv / OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
-      "source": "GitHub Trending",
-      "category": "Research",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854704+00:00",
-      "score": 58
-    },
-    {
-      "title": "roboflow / supervision",
-      "url": "https://github.com/roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854683+00:00",
-      "score": 55
-    },
-    {
-      "title": "anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854662+00:00",
-      "score": 55
-    },
-    {
-      "title": "NationalSecurityAgency / ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "source": "GitHub Trending",
-      "category": "Software",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854633+00:00",
-      "score": 58
-    },
-    {
-      "title": "ankitects / anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-09-18T04:46:27.854612+00:00",
+      "date": "2026-09-18T11:18:23.198999+00:00",
       "score": 55
     },
     {
@@ -128,27 +38,47 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854592+00:00",
+      "date": "2026-09-18T11:18:23.198985+00:00",
       "score": 55
     },
     {
-      "title": "anthropics / knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "title": "TencentCloud / Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "source": "GitHub Trending",
+      "category": "Software",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198969+00:00",
+      "score": 58
+    },
+    {
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854569+00:00",
+      "date": "2026-09-18T11:18:23.198953+00:00",
       "score": 55
     },
     {
-      "title": "Lakr233 / vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
+      "title": "roboflow / supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854545+00:00",
+      "date": "2026-09-18T11:18:23.198934+00:00",
+      "score": 55
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198917+00:00",
       "score": 55
     },
     {
@@ -158,7 +88,17 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854527+00:00",
+      "date": "2026-09-18T11:18:23.198898+00:00",
+      "score": 55
+    },
+    {
+      "title": "cilium / cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198883+00:00",
       "score": 55
     },
     {
@@ -168,18 +108,78 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854505+00:00",
+      "date": "2026-09-18T11:18:23.198868+00:00",
       "score": 55
     },
     {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854478+00:00",
+      "date": "2026-09-18T11:18:23.198849+00:00",
       "score": 55
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198831+00:00",
+      "score": 55
+    },
+    {
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "source": "GitHub Trending",
+      "category": "Software",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198813+00:00",
+      "score": 58
+    },
+    {
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198797+00:00",
+      "score": 55
+    },
+    {
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "source": "GitHub Trending",
+      "category": "Research",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198773+00:00",
+      "score": 58
+    },
+    {
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "source": "GitHub Trending",
+      "category": "Software",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198756+00:00",
+      "score": 58
+    },
+    {
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "source": "GitHub Trending",
+      "category": "AI",
+      "kind": "repository",
+      "date": "2026-09-18T11:18:23.198736+00:00",
+      "score": 58
     },
     {
       "title": "cloudflare / security-audit-skill",
@@ -188,7 +188,7 @@
       "source": "GitHub Trending",
       "category": "Software",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854440+00:00",
+      "date": "2026-09-18T11:18:23.198716+00:00",
       "score": 61
     },
     {
@@ -198,8 +198,218 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-18T04:46:27.854387+00:00",
+      "date": "2026-09-18T11:18:23.198672+00:00",
       "score": 55
+    },
+    {
+      "title": "Show HN: Proxy-benchmark – is it the proxy, the browser, or your machine?",
+      "url": "https://github.com/nodemaven/proxy-benchmark",
+      "description": "Article URL: https://github.com/nodemaven/proxy-benchmark Comments URL: https://news.ycombinator.com/item?id=49752694 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-18T11:13:46+00:00",
+      "score": 51
+    },
+    {
+      "title": "It's getting easier to live off‑grid—but it comes with certain costs",
+      "url": "https://techxplore.com/news/2026-09-easier-offgrid.html",
+      "description": "For most of Australian history, \"going off-grid\" meant living somewhere the main electricity network did not reach. Isolated communities and remote farming properties have long relied on stand-alone power systems. These typically consist of solar panels, batteries and a diesel ge",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-18T11:00:01+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: QuickTiny – paste anything, it detects what tool you need",
+      "url": "https://quicktinyv2.vercel.app/",
+      "description": "Article URL: https://quicktinyv2.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49752231 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T10:11:04+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: tuisheet, a terminal spreadsheet compatible with OpenXML (xlsx) files",
+      "url": "https://github.com/krackout/tuisheet",
+      "description": "Presenting tuisheet: A love letter to VisiCalc and Lotus 1-2-3. The motive was to code a programme inspired by VisiCalc and Lotus 1-2-3 interface, running on terminal, but fully compatible with the current universal standard of OpenXML (xlsx files for spreadsheets). Coded in Go l",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T09:55:28+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Rabbit Hole – a daily Wikipedia racing game",
+      "url": "https://rabbitholegame.net",
+      "description": "Wikipedia racing used to be huge - you'd sit in a computer room at school trying to get from \"Cheese\" to \"World War II\" before your mate did. Rabbit Hole is a wordle-style daily version that I made: one Start article, one Target article, navigate there using only Wikipedia links.",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-18T09:54:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "description": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 113 # Comments: 56",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-18T09:45:07+00:00",
+      "score": 64
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "description": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 104 # Comments: 50",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-18T09:42:22+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Shellroute – give each shell its own proxy IP",
+      "url": "https://github.com/shellroute/shellroute-cli",
+      "description": "Article URL: https://github.com/shellroute/shellroute-cli Comments URL: https://news.ycombinator.com/item?id=49751994 Points: 1 # Comments: 3",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T09:34:02+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Atlarix – A Browser Agent",
+      "url": "https://www.atlarix.dev/extension",
+      "description": "Article URL: https://www.atlarix.dev/extension Comments URL: https://news.ycombinator.com/item?id=49751924 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-18T09:20:52+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: Three short quizzes that show a score pattern, not one type",
+      "url": "https://loretypes.com/",
+      "description": "Article URL: https://loretypes.com/ Comments URL: https://news.ycombinator.com/item?id=49751814 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T09:02:07+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Attar – Compile React apps to native machine code",
+      "url": "https://attar.dev/",
+      "description": "Hi HN, my cofounder and I are building Attar. It compiles React and TypeScript into native desktop apps, with Blink for HTML and CSS. I like building things with web tools. We wanted to take that experience all the way to a compiled desktop app: familiar components, familiar styl",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T08:47:08+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: A web page that counts its own visitors and cannot lie",
+      "url": "https://ava-wall.surge.sh",
+      "description": "Article URL: https://ava-wall.surge.sh Comments URL: https://news.ycombinator.com/item?id=49751551 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T08:20:43+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Fouine – local full-text and semantic search for scanned PDFs on macOS",
+      "url": "https://github.com/basedpolymer/fouine",
+      "description": "Article URL: https://github.com/basedpolymer/fouine Comments URL: https://news.ycombinator.com/item?id=49751523 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T08:14:57+00:00",
+      "score": 45
+    },
+    {
+      "title": "Oversight Board blasts 'inadequate' Meta safeguards for AI deepfakes",
+      "url": "https://techxplore.com/news/2026-09-oversight-board-blasts-inadequate-meta.html",
+      "description": "Meta on Thursday moved to remove AI-generated videos targeting two women, including a British politician, after the tech giant's Oversight Board blasted its \"fundamentally inadequate\" safeguards against proliferating deepfakes.",
+      "source": "Tech Xplore",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-18T07:40:02+00:00",
+      "score": 51
+    },
+    {
+      "title": "NYT alleges Microsoft, OpenAI knew using news content was theft",
+      "url": "https://techxplore.com/news/2026-09-nyt-alleges-microsoft-openai-knew.html",
+      "description": "OpenAI committed \"an astonishing theft of unprecedented proportions\" when it used millions of news articles to train its artificial intelligence models, The New York Times alleged in a court document unsealed Thursday.",
+      "source": "Tech Xplore",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-18T07:20:01+00:00",
+      "score": 51
+    },
+    {
+      "title": "AI doomsday warnings unlikely to slow IPOs, but questions linger",
+      "url": "https://techxplore.com/news/2026-09-ai-doomsday-ipos-linger.html",
+      "description": "Anthropic is expected to beat rival OpenAI to the public markets with a blockbuster IPO later this year despite recent doomsday warnings, but questions remain about their business models and whether regulators should step in.",
+      "source": "Tech Xplore",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-18T06:50:01+00:00",
+      "score": 51
+    },
+    {
+      "title": "Anthropic says its model Claude is helping to build the next version of itself",
+      "url": "https://techxplore.com/news/2026-09-anthropic-claude-version.html",
+      "description": "Anthropic's Claude is helping the company develop the next, more intelligent version of the model, the artificial intelligence lab said in an announcement Thursday.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-18T06:39:13+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Open-Source Alternative to TypeSafe.ai",
+      "url": "https://github.com/TitovDigital/kbai-skill",
+      "description": "Article URL: https://github.com/TitovDigital/kbai-skill Comments URL: https://news.ycombinator.com/item?id=49750649 Points: 1 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-18T06:04:05+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: LinkBunny, a service where coding agents exchange backlinks autonomousy",
+      "url": "https://getlinkbunny.com/",
+      "description": "I'm building LinkBunny, a service where coding agents exchange backlinks. You can let your agents build backlinks for you autonomously. I'm manual approving registration now to avoid spam. $20/mth sub and no fees for backlinks. If you are using coding agents and craving for backl",
+      "source": "Hacker News / Show",
+      "category": "Robotics",
+      "kind": "article",
+      "date": "2026-09-18T05:23:30+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: I built a PDF accessibility checker that is cross platform",
+      "url": "https://github.com/visionably/outloud",
+      "description": "Article URL: https://github.com/visionably/outloud Comments URL: https://news.ycombinator.com/item?id=49750366 Points: 3 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T05:03:28+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: A Mac native app that helps you reason through math/CS pdf textbooks",
+      "url": "https://marginstudy.lemonsqueezy.com/checkout",
+      "description": "https://marginstudy.lemonsqueezy.com/checkout/buy/b71656b9-b... url seems malformed The core concept is a tool to let users think through every word, sentence and line of dense technical textbooks in pdf form. I can't find a single app that allows you to reason about words and se",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-18T05:01:47+00:00",
+      "score": 45
     },
     {
       "title": "Show HN: WoseApp – a social network where every reply is a private conversation",
@@ -210,6 +420,26 @@
       "kind": "article",
       "date": "2026-09-18T04:27:09+00:00",
       "score": 45
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "description": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 168 # Comments: 47",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-18T04:20:24+00:00",
+      "score": 55
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "description": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 161 # Comments: 28",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-18T04:09:48+00:00",
+      "score": 55
     },
     {
       "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
@@ -832,16 +1062,6 @@
       "score": 45
     },
     {
-      "title": "Waymo in Singapore",
-      "url": "https://waymo.com/waymo-in-singapore/",
-      "description": "Article URL: https://waymo.com/waymo-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49749981 Points: 16 # Comments: 3",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-18T03:49:24+00:00",
-      "score": 55
-    },
-    {
       "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
       "url": "https://github.com/marketplace/actions/vigil-pr-scanner",
       "description": "I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essentially used in unison with ai code review bots like greptile. While tools like grepti",
@@ -874,7 +1094,7 @@
     {
       "title": "Pre-Greek: The lost language hidden within Ancient Greek",
       "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-      "description": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 10 # Comments: 0",
+      "description": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 89 # Comments: 40",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -882,39 +1102,9 @@
       "score": 55
     },
     {
-      "title": "Code Scans",
-      "url": "https://devin.ai/blog/introducing-code-scans",
-      "description": "Article URL: https://devin.ai/blog/introducing-code-scans Comments URL: https://news.ycombinator.com/item?id=49749744 Points: 8 # Comments: 1",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-18T03:00:40+00:00",
-      "score": 55
-    },
-    {
-      "title": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
-      "url": "https://jinx.fyi",
-      "description": "Jinx is just links, a small static website on GitHub to share short links to your stuff. Add your links to one file, turn on GitHub Pages, and point your own domain at it. I built it because the options all seemed wrong for a small team: paid shorteners charge monthly for what's ",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-18T02:56:04+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: An open Add/Search evaluation framework for agent memory",
-      "url": "https://agentmemoryleaderboard.ai/",
-      "description": "Hi HN, We are trying to make different Agent Memory systems comparable without letting each team choose its own answer model and evaluation pipeline. Comments URL: https://news.ycombinator.com/item?id=49749689 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-18T02:52:01+00:00",
-      "score": 54
-    },
-    {
-      "title": "Hacking OpenAI",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "description": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 100 # Comments: 31",
+      "description": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 366 # Comments: 157",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -932,19 +1122,9 @@
       "score": 48
     },
     {
-      "title": "Show HN: A directory of 164 Asian AI companies, ranked by disclosed scale",
-      "url": "https://asiaai.fyi/tech-index/",
-      "description": "Article URL: https://asiaai.fyi/tech-index/ Comments URL: https://news.ycombinator.com/item?id=49749539 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-18T02:25:01+00:00",
-      "score": 48
-    },
-    {
       "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
       "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
-      "description": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/ Comments URL: https://news.ycombinator.com/item?id=49749393 Points: 13 # Comments: 0",
+      "description": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/ Comments URL: https://news.ycombinator.com/item?id=49749393 Points: 72 # Comments: 11",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -954,7 +1134,7 @@
     {
       "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
       "url": "https://askamonk.online",
-      "description": "Article URL: https://askamonk.online Comments URL: https://news.ycombinator.com/item?id=49749171 Points: 17 # Comments: 7",
+      "description": "Article URL: https://askamonk.online Comments URL: https://news.ycombinator.com/item?id=49749171 Points: 44 # Comments: 24",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -962,19 +1142,9 @@
       "score": 55
     },
     {
-      "title": "Show HN: PortButler – send files from macOS to a device with no way to receive",
-      "url": "https://portbutler.sshlab.dev",
-      "description": "Article URL: https://portbutler.sshlab.dev Comments URL: https://news.ycombinator.com/item?id=49749079 Points: 4 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-18T01:21:53+00:00",
-      "score": 45
-    },
-    {
       "title": "Telstra outage: The night a network decided the year was 2006",
       "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
-      "description": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 27 # Comments: 9",
+      "description": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 63 # Comments: 29",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -989,16 +1159,6 @@
       "category": "Robotics",
       "kind": "article",
       "date": "2026-09-18T01:00:01+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "description": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The k",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-18T00:11:44+00:00",
       "score": 48
     },
     {
@@ -1032,36 +1192,6 @@
       "score": 58
     },
     {
-      "title": "SHOW HN: I built the fastest PHP webserver in the world",
-      "url": "https://news.ycombinator.com/item?id=49748067",
-      "description": "After over a decade of writing apps in PHP, I always wondered why we needed all that extra tooling around it just to serve websites. I suspected PHP alone could be faster. I didn’t realize how right I was. It’s finally done! Two months after I initially announced it, Qbix webserv",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-17T23:18:42+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: A repo-aware architecture checkup for Rails apps",
-      "url": "https://railsbaseline.com/checkup/run/",
-      "description": "Article URL: https://railsbaseline.com/checkup/run/ Comments URL: https://news.ycombinator.com/item?id=49748064 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T23:18:18+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "url": "https://scry.io/",
-      "description": "Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. When there's capacity, the service is free for non-commercial use.",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-17T23:15:57+00:00",
-      "score": 45
-    },
-    {
       "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
       "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
       "description": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
@@ -1072,34 +1202,14 @@
       "score": 51
     },
     {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "title": "Qwen 3.8 Omni Flash",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "description": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 100 # Comments: 24",
+      "description": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 237 # Comments: 83",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-09-17T23:05:48+00:00",
-      "score": 65
-    },
-    {
-      "title": "Show HN: Things To Have – free, privacy caring, mighty wishlist app",
-      "url": "https://thingstohave.app/",
-      "description": "Things To Have is a wishlist app. I started working on it in 2022 as a pet project for my friends, then turned it into a serious app in 2024. I built it because I disliked other such apps – they were either too ephemeral, limited to a specific use case, or felt like a TV shop. I ",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-17T22:57:08+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: I made a browser tool that creates newspaper and book text match cuts",
-      "url": "https://papereffects.site",
-      "description": "Article URL: https://papereffects.site Comments URL: https://news.ycombinator.com/item?id=49747752 Points: 5 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-17T22:47:59+00:00",
-      "score": 51
+      "score": 55
     },
     {
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
@@ -1109,26 +1219,6 @@
       "category": "Robotics",
       "kind": "article",
       "date": "2026-09-17T22:40:04+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Respawn – an undo button for AI agents (Rust, local-first, no cloud)",
-      "url": "https://github.com/savageAZfck/respawn",
-      "description": "Article URL: https://github.com/savageAZfck/respawn Comments URL: https://news.ycombinator.com/item?id=49747632 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T22:36:40+00:00",
-      "score": 54
-    },
-    {
-      "title": "Show HN: Unmute – a single definition for voice agents, pushed to any stack",
-      "url": "https://github.com/slng-ai/unmute",
-      "description": "Article URL: https://github.com/slng-ai/unmute Comments URL: https://news.ycombinator.com/item?id=49747623 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T22:36:09+00:00",
       "score": 48
     },
     {
@@ -1142,16 +1232,6 @@
       "score": 51
     },
     {
-      "title": "Show HN: summ – a single-binary container registry in Rust with a built-in UI",
-      "url": "https://github.com/summcr/summ",
-      "description": "Article URL: https://github.com/summcr/summ Comments URL: https://news.ycombinator.com/item?id=49747573 Points: 1 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T22:31:10+00:00",
-      "score": 48
-    },
-    {
       "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
       "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
       "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
@@ -1162,19 +1242,9 @@
       "score": 48
     },
     {
-      "title": "Show HN: OpenAI has a live market price before it has a stock ticker",
-      "url": "https://tickerlayer.com/symbols/openaiusdt-perp",
-      "description": "Article URL: https://tickerlayer.com/symbols/openaiusdt-perp Comments URL: https://news.ycombinator.com/item?id=49747379 Points: 2 # Comments: 2",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T22:12:19+00:00",
-      "score": 48
-    },
-    {
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "description": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 63 # Comments: 56",
+      "description": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 184 # Comments: 114",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -1182,19 +1252,9 @@
       "score": 58
     },
     {
-      "title": "How Uber Protects Against Retry Storms",
-      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-      "description": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 70 # Comments: 30",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T21:14:32+00:00",
-      "score": 58
-    },
-    {
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
-      "description": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 312 # Comments: 103",
+      "description": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 461 # Comments: 135",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -1214,7 +1274,7 @@
     {
       "title": "The most important product decision is what you don't build",
       "url": "https://liamnugent.me/posts/what-you-dont-build/",
-      "description": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 72 # Comments: 22",
+      "description": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 110 # Comments: 39",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1224,7 +1284,7 @@
     {
       "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
       "url": "https://snapdrop.me",
-      "description": "Article URL: https://snapdrop.me Comments URL: https://news.ycombinator.com/item?id=49746346 Points: 45 # Comments: 26",
+      "description": "Article URL: https://snapdrop.me Comments URL: https://news.ycombinator.com/item?id=49746346 Points: 78 # Comments: 39",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1234,7 +1294,7 @@
     {
       "title": "Flet 1.0 – Build cross-platform apps in Python",
       "url": "https://flet.dev/",
-      "description": "Article URL: https://flet.dev/ Comments URL: https://news.ycombinator.com/item?id=49746290 Points: 76 # Comments: 38",
+      "description": "Article URL: https://flet.dev/ Comments URL: https://news.ycombinator.com/item?id=49746290 Points: 132 # Comments: 59",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1244,7 +1304,7 @@
     {
       "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
       "url": "https://bend-lang.com/",
-      "description": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 361 # Comments: 182",
+      "description": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 489 # Comments: 230",
       "source": "Hacker News",
       "category": "Hardware",
       "kind": "article",
@@ -1284,7 +1344,7 @@
     {
       "title": "Astra for Law",
       "url": "https://openai.com/index/astra-for-law/",
-      "description": "Article URL: https://openai.com/index/astra-for-law/ Comments URL: https://news.ycombinator.com/item?id=49745940 Points: 395 # Comments: 427",
+      "description": "Article URL: https://openai.com/index/astra-for-law/ Comments URL: https://news.ycombinator.com/item?id=49745940 Points: 502 # Comments: 592",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1432,16 +1492,6 @@
       "score": 48
     },
     {
-      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "url": "https://zscc.ai/careers?job_id=109821",
-      "description": "Article URL: https://zscc.ai/careers?job_id=109821 Comments URL: https://news.ycombinator.com/item?id=49743567 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-09-17T17:00:59+00:00",
-      "score": 58
-    },
-    {
       "title": "A robot that shifts its own weight to cross land, steps, and water",
       "url": "https://techxplore.com/news/2026-09-robot-shifts-weight.html",
       "description": "A robot meant to inspect a coastline, a flooded street or a wetland can't count on one kind of ground. It might need to crawl over a hard surface, climb a bank, scale a curb or a step, then slide into open water, often within the same few feet.",
@@ -1450,16 +1500,6 @@
       "kind": "article",
       "date": "2026-09-17T17:00:25+00:00",
       "score": 48
-    },
-    {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "description": "Article URL: https://arxiv.org/abs/2609.18842 Comments URL: https://news.ycombinator.com/item?id=49743483 Points: 123 # Comments: 38",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T16:55:14+00:00",
-      "score": 58
     },
     {
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
@@ -1474,7 +1514,7 @@
     {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "url": "https://github.com/asciimoo/hister",
-      "description": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 516 # Comments: 140",
+      "description": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 626 # Comments: 170",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1514,7 +1554,7 @@
     {
       "title": "CrowdSec Source Code Leak",
       "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-      "description": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 139 # Comments: 42",
+      "description": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 153 # Comments: 49",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1542,16 +1582,6 @@
       "score": 45
     },
     {
-      "title": "AI still isn't as good at recognizing objects as people are, new test shows",
-      "url": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
-      "description": "Artificial intelligence has gradually made its way into many areas of life with abilities that often match or surpass those of humans. But a study published in the journal iScience finds that AI-powered machines have trouble recognizing objects from their overall shapes when aspe",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T15:00:17+00:00",
-      "score": 48
-    },
-    {
       "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
       "url": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
       "description": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
@@ -1562,44 +1592,14 @@
       "score": 45
     },
     {
-      "title": "'Artificial leaf' generates clean hydrogen from contaminated seawater",
-      "url": "https://techxplore.com/news/2026-09-artificial-leaf-generates-hydrogen-contaminated.html",
-      "description": "Scientists from Nanyang Technological University, Singapore, have designed a device that harvests sunlight to generate clean hydrogen from seawater and simultaneously degrades hydrazine, a highly toxic contaminant from industrial wastewater.",
-      "source": "Tech Xplore",
-      "category": "Research",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "description": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 260 # Comments: 371",
+      "source": "Hacker News",
+      "category": "Software",
       "kind": "article",
-      "date": "2026-09-17T14:40:01+00:00",
-      "score": 45
-    },
-    {
-      "title": "Harvesting hot electrons could break solar panel barrier",
-      "url": "https://techxplore.com/news/2026-09-harvesting-hot-electrons-solar-panel.html",
-      "description": "Physics predicts that no more than 33% of the solar energy that falls on a solar panel can be converted into electricity. However, experiments and simulations by scientists at the University of Groningen in the Netherlands revealed a way to harvest extra energy from \"hot electron",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-09-17T14:00:10+00:00",
-      "score": 45
-    },
-    {
-      "title": "Engineers create revolutionary new sound effect paradigm by manipulating sound wave interactions",
-      "url": "https://techxplore.com/news/2026-09-revolutionary-effect-paradigm-interactions.html",
-      "description": "Electronic engineers at Nottingham have found a new way to create sound effects by manipulating the interaction of sound waves, a method that could open new possibilities in music performance and production. It is a novel concept for sound effects that falls between electronic/di",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-09-17T12:40:07+00:00",
-      "score": 45
-    },
-    {
-      "title": "Advertising is coming to AI chatbots—and it could influence the answers you get",
-      "url": "https://techxplore.com/news/2026-09-advertising-ai-chatbots.html",
-      "description": "When Google founders Sergey Brin and Larry Page were still university researchers, they warned that advertising could undermine the trustworthiness of search engines.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-17T12:40:04+00:00",
-      "score": 48
+      "date": "2026-09-17T08:51:51+00:00",
+      "score": 55
     },
     {
       "title": "Rethinking Robot Safety in the Age of AI",
