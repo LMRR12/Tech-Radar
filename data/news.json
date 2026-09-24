@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-24T11:49:15.912947+00:00",
+  "generated_at": "2026-09-24T17:13:39.710762+00:00",
   "items": [
+    {
+      "title": "TNT-Likely / PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285238+00:00",
+      "score": 55
+    },
     {
       "title": "browser-use / video-use",
       "url": "https://github.com/browser-use/video-use",
@@ -8,18 +18,28 @@
       "source": "GitHub Trending",
       "category": "Software",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318648+00:00",
+      "date": "2026-09-24T17:13:37.285215+00:00",
       "score": 58
     },
     {
-      "title": "superdesigndev / treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "title": "harry7557558 / spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318635+00:00",
+      "date": "2026-09-24T17:13:37.285195+00:00",
       "score": 55
+    },
+    {
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "source": "GitHub Trending",
+      "category": "Hardware",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285169+00:00",
+      "score": 58
     },
     {
       "title": "mvt-project / mvt",
@@ -28,27 +48,67 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318621+00:00",
+      "date": "2026-09-24T17:13:37.285141+00:00",
       "score": 55
     },
     {
-      "title": "google / ax",
-      "url": "https://github.com/google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "source": "GitHub Trending",
-      "category": "Industry",
-      "kind": "repository",
-      "date": "2026-09-24T11:49:14.318586+00:00",
-      "score": 58
-    },
-    {
-      "title": "davila7 / claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318572+00:00",
+      "date": "2026-09-24T17:13:37.285120+00:00",
+      "score": 55
+    },
+    {
+      "title": "superdesigndev / treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285100+00:00",
+      "score": 55
+    },
+    {
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285079+00:00",
+      "score": 55
+    },
+    {
+      "title": "strands-agents / harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "source": "GitHub Trending",
+      "category": "AI",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285059+00:00",
+      "score": 58
+    },
+    {
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "source": "GitHub Trending",
+      "category": "AI",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285034+00:00",
+      "score": 58
+    },
+    {
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.285013+00:00",
       "score": 55
     },
     {
@@ -58,17 +118,47 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318557+00:00",
+      "date": "2026-09-24T17:13:37.284977+00:00",
       "score": 55
     },
     {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.284945+00:00",
+      "score": 55
+    },
+    {
+      "title": "BuilderIO / agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318536+00:00",
+      "date": "2026-09-24T17:13:37.284916+00:00",
+      "score": 58
+    },
+    {
+      "title": "davila7 / claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.284888+00:00",
+      "score": 55
+    },
+    {
+      "title": "google / ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "source": "GitHub Trending",
+      "category": "Industry",
+      "kind": "repository",
+      "date": "2026-09-24T17:13:37.284856+00:00",
       "score": 58
     },
     {
@@ -78,7 +168,497 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-09-24T11:49:14.318503+00:00",
+      "date": "2026-09-24T17:13:37.284809+00:00",
+      "score": 55
+    },
+    {
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "description": "Databricks has brought cloud spreadsheet startup Row Zero adding yet another acquisition to its 2026 shopping spree.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T17:07:55+00:00",
+      "score": 48
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T17:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T16:46:47+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: LaunchPact – Get support for your Product Hunt launch",
+      "url": "https://www.launchpact.io",
+      "description": "Article URL: https://www.launchpact.io Comments URL: https://news.ycombinator.com/item?id=49833145 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T16:35:55+00:00",
+      "score": 55
+    },
+    {
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T16:35:13+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Harness.apk – a drop-in on-device agent for Android",
+      "url": "https://github.com/nev3rfail/harness.apk",
+      "description": "The typical human-agent interaction loop currently looks as follows: operator writes a prompt, agent presents some options to choose from until the requirements become clear, does some work, and finally presents a report of what was actually done. This \"specify > present\" loop sc",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T16:16:24+00:00",
+      "score": 48
+    },
+    {
+      "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+      "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+      "description": "Article URL: https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/ Comments URL: https://news.ycombinator.com/item?id=49832844 Points: 26 # Comments: 3",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T16:15:34+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: Cancel Death – What changed in longevity science",
+      "url": "https://canceldeath.com",
+      "description": "Article URL: https://canceldeath.com Comments URL: https://news.ycombinator.com/item?id=49832801 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T16:13:33+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Vigil Icons – 111 free icons for what people accuse each other of",
+      "url": "https://www.vigilicons.com/",
+      "description": "Article URL: https://www.vigilicons.com/ Comments URL: https://news.ycombinator.com/item?id=49832773 Points: 2 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T16:11:57+00:00",
+      "score": 45
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T16:03:36+00:00",
+      "score": 48
+    },
+    {
+      "title": "LinkedIn wins court order blocking mass scraping of user data",
+      "url": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
+      "description": "Article URL: https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping Comments URL: https://news.ycombinator.com/item?id=49832646 Points: 32 # Comments: 20",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T16:02:52+00:00",
+      "score": 58
+    },
+    {
+      "title": "Google tests letting Gemini call businesses for you",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T16:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Timebar, a Mac timer shown as a thin line below the menu bar",
+      "url": "https://github.com/velvet-shark/timebar",
+      "description": "Article URL: https://github.com/velvet-shark/timebar Comments URL: https://news.ycombinator.com/item?id=49832470 Points: 2 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:53:31+00:00",
+      "score": 45
+    },
+    {
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "description": "Article URL: https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/ Comments URL: https://news.ycombinator.com/item?id=49832406 Points: 87 # Comments: 27",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T15:50:26+00:00",
+      "score": 61
+    },
+    {
+      "title": "Show HN: Scalar.dev – Python/SQLite server-rendered starter app, no build step",
+      "url": "https://getscalar.dev/",
+      "description": "Hi HN, I'm Felipe. AI-assisted coding is great, but complexity is still complexity. The more you have it, the harder it is to keep the system sane and changes safe over time. I've built this project because I wanted to have a different foundation for my apps - one that started si",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:48:15+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Trify3D – Compare AI 3D engines on one input and keep the best mesh",
+      "url": "https://trify3d.com",
+      "description": "Article URL: https://trify3d.com Comments URL: https://news.ycombinator.com/item?id=49832351 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:47:11+00:00",
+      "score": 48
+    },
+    {
+      "title": "Why is the human body so crap except for the liver?",
+      "url": "https://dynomight.net/liver/",
+      "description": "Article URL: https://dynomight.net/liver/ Comments URL: https://news.ycombinator.com/item?id=49832317 Points: 8 # Comments: 0",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T15:45:11+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Potluck – Run local AI across the computers you own",
+      "url": "https://trypotluck.ai/",
+      "description": "Hey All, my name is Rob and i've been working on Potluck for a couple of months. The idea is pretty simple... I can't afford a huge cluster of machines, nor can I afford a bunch of GPUs or cloud instances. But I do have a couple of laptops, a couple of gaming computers and I figu",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:42:36+00:00",
+      "score": 48
+    },
+    {
+      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+      "url": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+      "description": "Article URL: https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/ Comments URL: https://news.ycombinator.com/item?id=49832231 Points: 3 # Comments: 0",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T15:40:03+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Armada – Every Claude Code and Codex session and limit, on one screen",
+      "url": "https://armada.mgcrea.io/",
+      "description": "Article URL: https://armada.mgcrea.io/ Comments URL: https://news.ycombinator.com/item?id=49832165 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:36:15+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Enclawed – A hard-fork hardening framework for AI agent gateways",
+      "url": "https://enclawed.com/",
+      "description": "Article URL: https://enclawed.com/ Comments URL: https://news.ycombinator.com/item?id=49832151 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:35:39+00:00",
+      "score": 54
+    },
+    {
+      "title": "Show HN: Most Hated Tools",
+      "url": "https://www.mosthatedtools.app/",
+      "description": "Article URL: https://www.mosthatedtools.app/ Comments URL: https://news.ycombinator.com/item?id=49832080 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:32:17+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: ChaosTree 2.0.1: A highly optimized Java Sorted Set/Map library",
+      "url": "https://github.com/Chaos-vy/ChaosTree",
+      "description": "Article URL: https://github.com/Chaos-vy/ChaosTree Comments URL: https://news.ycombinator.com/item?id=49832022 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:28:41+00:00",
+      "score": 48
+    },
+    {
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "description": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Points: 285 # Comments: 75",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T15:26:12+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Local First AI Calculator",
+      "url": "https://axiom.clor.app/",
+      "description": "Article URL: https://axiom.clor.app/ Comments URL: https://news.ycombinator.com/item?id=49831955 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:25:33+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: CraftCX – Observability and intelligence tooling for AI Support team",
+      "url": "https://craftcx.com/blog/introducing-craftcx",
+      "description": "Article URL: https://craftcx.com/blog/introducing-craftcx Comments URL: https://news.ycombinator.com/item?id=49831884 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-09-24T15:21:45+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: Jev-phone – driving iOS and Android apps with jev",
+      "url": "https://github.com/Rajmeet/jev-phone",
+      "description": "Article URL: https://github.com/Rajmeet/jev-phone Comments URL: https://news.ycombinator.com/item?id=49831841 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:19:42+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Are My ETFs Overvalued? Daily ETF insights and comparisons tool",
+      "url": "https://etf-copilot.com/",
+      "description": "I built ETF Copilot ( https://etf-copilot.com/go/show-hn ) as analytical support for my own investing. It answers what financial screeners and platforms do not: which valuation, growth, quality and risk metrics matter for each ETF, and how do they compare to own history and peers",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:13:12+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: AIR – discovery scores for 1,800 US small-caps, never restated",
+      "url": "https://www.aistockradars.com/discover",
+      "description": "Article URL: https://www.aistockradars.com/discover Comments URL: https://news.ycombinator.com/item?id=49831736 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:12:56+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Learn SQL free with no tracking or ads",
+      "url": "https://www.sql-easy.com/",
+      "description": "I make Beekeeper Studio (DB GUI). I took over SQL Easy about a year ago and have been improving it since then. No commercial intent. Just a useful community resource. Fun: Here's what it looked like in 2023: https://web.archive.org/web/20230305075142/https://www.sql-e... How coul",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T15:11:33+00:00",
+      "score": 45
+    },
+    {
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T15:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "description": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T14:43:25+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Hermes, Kokoro and Parakeet, behind a face you can talk to",
+      "url": "https://memoe.app/",
+      "description": "Article URL: https://memoe.app/ Comments URL: https://news.ycombinator.com/item?id=49831344 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-09-24T14:43:05+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Resume Claude Code subagents killed by a usage limit, don't redo them",
+      "url": "https://github.com/error0702/agent-limit-retry",
+      "description": "Article URL: https://github.com/error0702/agent-limit-retry Comments URL: https://news.ycombinator.com/item?id=49831324 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T14:41:43+00:00",
+      "score": 48
+    },
+    {
+      "title": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging",
+      "url": "https://techxplore.com/news/2026-09-chinese-auto-companies-ev-technology.html",
+      "description": "Chinese electric vehicles' ultrafast charging is only getting faster.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-09-24T14:40:14+00:00",
+      "score": 45
+    },
+    {
+      "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
+      "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
+      "description": "Article URL: https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram Comments URL: https://news.ycombinator.com/item?id=49831201 Points: 94 # Comments: 31",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T14:33:52+00:00",
+      "score": 55
+    },
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "description": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T14:31:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "description": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+      "source": "TechCrunch",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T14:30:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Making AI more trustworthy by making it red-flag its own doubtful answers",
+      "url": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
+      "description": "Artificial intelligence models can give users the wrong answer and do so with great confidence. They can also hedge and warn that they are unsure—even when they get the answer right.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T14:20:06+00:00",
+      "score": 48
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T14:08:57+00:00",
+      "score": 58
+    },
+    {
+      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+      "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+      "description": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-09-24T14:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Measure Distant Asteroids With a DIY Rig",
+      "url": "https://spectrum.ieee.org/asteroid-shadow",
+      "description": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s wh",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-09-24T13:00:04+00:00",
+      "score": 45
+    },
+    {
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "description": "Article URL: https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/ Comments URL: https://news.ycombinator.com/item?id=49829960 Points: 211 # Comments: 213",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T12:58:08+00:00",
+      "score": 55
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T12:54:19+00:00",
+      "score": 48
+    },
+    {
+      "title": "What Is RLCD? The Secret Behind Jev",
+      "url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
+      "description": "Article URL: https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/ Comments URL: https://news.ycombinator.com/item?id=49829625 Points: 43 # Comments: 4",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T12:21:16+00:00",
+      "score": 55
+    },
+    {
+      "title": "NASA modernizes commercial airline systems",
+      "url": "https://techxplore.com/news/2026-09-nasa-modernizes-commercial-airline.html",
+      "description": "NASA researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent and, hopefully, an early arrival.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-09-24T12:20:06+00:00",
+      "score": 48
+    },
+    {
+      "title": "Unlocking sulfur's third electron boosts lithium-sulfur battery voltage and capacity",
+      "url": "https://techxplore.com/news/2026-09-sulfur-electron-boosts-lithium-battery.html",
+      "description": "While lithium-ion batteries (LIBs) remain the most widely used rechargeable batteries worldwide, energy engineers have been testing various alternatives with different underlying chemistries. These include lithium-sulfur batteries, which store and release energy by moving lithium",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-09-24T12:20:01+00:00",
+      "score": 45
+    },
+    {
+      "title": "Teaching radar to read motion in traffic scenes",
+      "url": "https://techxplore.com/news/2026-09-radar-motion-traffic-scenes.html",
+      "description": "Autonomous vehicles and robots need to understand not only what is around them, but how objects and people are moving. A cyclist crossing the road, a car slowing down, a pedestrian stepping off the curb, and a parked vehicle all create different motion cues that a machine must in",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-09-24T12:00:06+00:00",
+      "score": 45
+    },
+    {
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "description": "Article URL: https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073 Comments URL: https://news.ycombinator.com/item?id=49829387 Points: 100 # Comments: 34",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-09-24T11:54:38+00:00",
       "score": 55
     },
     {
@@ -92,64 +672,24 @@
       "score": 48
     },
     {
-      "title": "Show HN: I Rebuilt Captcha with Jev",
-      "url": "https://www.localcan.com/blog/build-your-own-captcha",
-      "description": "Article URL: https://www.localcan.com/blog/build-your-own-captcha Comments URL: https://news.ycombinator.com/item?id=49828906 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T10:59:01+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Forkbench – boundaries and supervision for AI coding agents",
-      "url": "https://forkbench.com/l/FAUiWl3f",
-      "description": "Article URL: https://forkbench.com/l/FAUiWl3f Comments URL: https://news.ycombinator.com/item?id=49828775 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T10:44:24+00:00",
-      "score": 51
-    },
-    {
-      "title": "Show HN: I built AgeDB, a database for AI agents to store context and data",
-      "url": "https://github.com/sivsivsree/agedb",
-      "description": "Hi HN, I’m building AgeDB, a database for AI agents to store context and data, share it across agents and model providers, and query it using natural language. The idea is that information collected by one agent can be reused by another, even when they use different providers. Yo",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T10:34:05+00:00",
-      "score": 54
-    },
-    {
-      "title": "Show HN: HodoClip - A browser scratchpad that saves links with clips",
-      "url": "https://chromewebstore.google.com/detail/hodoclip/olklheidccboooipkkbegbejgkonpcln",
-      "description": "Article URL: https://chromewebstore.google.com/detail/hodoclip/olklheidccboooipkkbegbejgkonpcln Comments URL: https://news.ycombinator.com/item?id=49828670 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "description": "Article URL: https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/ Comments URL: https://news.ycombinator.com/item?id=49828969 Points: 159 # Comments: 69",
+      "source": "Hacker News",
       "category": "Software",
       "kind": "article",
-      "date": "2026-09-24T10:32:51+00:00",
-      "score": 48
+      "date": "2026-09-24T11:08:39+00:00",
+      "score": 58
     },
     {
-      "title": "Show HN: C3 Playground – a C3 compiler with graphics and sound in the browser",
-      "url": "https://play.c3-lang.org/?example=voxelspace_synthwave",
-      "description": "Most online language playgrounds stop at compiling code and printing text. But C3 contributor Manu Linares wanted C3’s playground to go further. So here it is: a playground that compiles and runs interactive graphical programs — including games and Raylib-based demos — directly i",
-      "source": "Hacker News / Show",
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "description": "Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/ Comments URL: https://news.ycombinator.com/item?id=49828731 Points: 234 # Comments: 229",
+      "source": "Hacker News",
       "category": "Software",
       "kind": "article",
-      "date": "2026-09-24T10:24:34+00:00",
-      "score": 51
-    },
-    {
-      "title": "Show HN: I built a phone remote for YouTube Music on PC and Mac",
-      "url": "https://remotune.app/",
-      "description": "I built RemoTune, a phone remote for media playing on your Windows PC or Mac. It can control play/pause, previous/next, volume, seeking, and show the current track and album art. It works well with YouTube Music and other desktop media players. The phone connects directly to the ",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T10:16:25+00:00",
-      "score": 45
+      "date": "2026-09-24T10:39:19+00:00",
+      "score": 55
     },
     {
       "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
@@ -162,34 +702,14 @@
       "score": 45
     },
     {
-      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
-      "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
-      "description": "Article URL: https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/ Comments URL: https://news.ycombinator.com/item?id=49828409 Points: 80 # Comments: 48",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-24T09:52:29+00:00",
-      "score": 55
-    },
-    {
       "title": "Nokia Design Archive (2025)",
-      "url": "https://nokiadesignarchive.aalto.fi/index.html",
-      "description": "Article URL: https://nokiadesignarchive.aalto.fi/index.html Comments URL: https://news.ycombinator.com/item?id=49828385 Points: 72 # Comments: 29",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "description": "Article URL: https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c Comments URL: https://news.ycombinator.com/item?id=49828385 Points: 172 # Comments: 88",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-09-24T09:49:33+00:00",
       "score": 55
-    },
-    {
-      "title": "Show HN: FreshThread – context monitor and handoffs for Codex Desktop (Windows)",
-      "url": "https://github.com/GG95-lab/FreshThread-BETA-version",
-      "description": "Article URL: https://github.com/GG95-lab/FreshThread-BETA-version Comments URL: https://news.ycombinator.com/item?id=49828381 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T09:48:49+00:00",
-      "score": 45
     },
     {
       "title": "At UN, tech chiefs urge caution in AI development",
@@ -202,16 +722,6 @@
       "score": 48
     },
     {
-      "title": "Show HN: Tachyon – Java MCP Server SDK",
-      "url": "https://tachyonmcp.dev",
-      "description": "Expose Java methods as Streamable HTTP MCP Server. Compliant with latest+previous MCP specification with all MCP features: tools, resources, prompts, completions, extensions, including tasks and skills (SEP-2640). Runs on Netty - industry standard IO library. Supports DSL and dec",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T09:32:24+00:00",
-      "score": 45
-    },
-    {
       "title": "Australian PM says OpenAI hacked government health website",
       "url": "https://techxplore.com/news/2026-09-australian-pm-openai-hacked-health.html",
       "description": "A rogue OpenAI model bypassed safeguards during training and hacked an Australian government website, Prime Minister Anthony Albanese said as he admonished the ChatGPT creator over an \"obviously unacceptable\" breach.",
@@ -222,16 +732,6 @@
       "score": 48
     },
     {
-      "title": "Looks promising for document editing with your agent",
-      "url": "https://www.paperinstruments.com/blog/introducing-paper-office",
-      "description": "Article URL: https://www.paperinstruments.com/blog/introducing-paper-office Comments URL: https://news.ycombinator.com/item?id=49828177 Points: 6 # Comments: 0",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T09:19:47+00:00",
-      "score": 58
-    },
-    {
       "title": "Bulgaria's battery boom pays off as drought hits power plants",
       "url": "https://techxplore.com/news/2026-09-bulgaria-battery-boom-pays-drought.html",
       "description": "As Eastern Europe's power sector has taken a hit from a record drought, Bulgaria has benefited from building battery storage capacity alongside its rapid solar expansion.",
@@ -239,26 +739,6 @@
       "category": "Research",
       "kind": "article",
       "date": "2026-09-24T09:00:06+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Trader News – Hacker News for Finance",
-      "url": "https://news.ycombinator.com/item?id=49828019",
-      "description": "Hacker News helps me stay in touch with the world of technology without putting in extensive web browsing work, and I love it for that reason. I am interested in financial markets and wanted a “Hacker News for finance”, but Googling produced surprisingly poor results. So I forked",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T08:54:57+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Wl-pick – a live window picker for Sway",
-      "url": "https://mil.ad/blog/2026/wl-pick.html",
-      "description": "Article URL: https://mil.ad/blog/2026/wl-pick.html Comments URL: https://news.ycombinator.com/item?id=49827956 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T08:44:51+00:00",
       "score": 45
     },
     {
@@ -272,53 +752,13 @@
       "score": 48
     },
     {
-      "title": "IOS 27 comes with revamped screen time controls and other useful new features",
+      "title": "iOS 27 comes with revamped screen time controls and other useful new features",
       "url": "https://techxplore.com/news/2026-09-ios-revamped-screen-features.html",
       "description": "Apple's latest mobile operating system update, iOS 27, rolled out last week, headlined by a more advanced version of its Siri assistant. But it also comes with a slew of other useful but less well known features for iPhone users.",
       "source": "Tech Xplore",
       "category": "Research",
       "kind": "article",
       "date": "2026-09-24T08:30:01+00:00",
-      "score": 45
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "description": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 207 # Comments: 84",
-      "source": "Hacker News",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-24T08:23:03+00:00",
-      "score": 61
-    },
-    {
-      "title": "Show HN: ListenIn – Mac dictation tuned for mixed Chinese-English speech",
-      "url": "https://listenin.dev/",
-      "description": "Article URL: https://listenin.dev/ Comments URL: https://news.ycombinator.com/item?id=49827789 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T08:22:26+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Muro: Free Native Live Wallpapers for macOS",
-      "url": "https://murowallpaper.com",
-      "description": "Article URL: https://murowallpaper.com Comments URL: https://news.ycombinator.com/item?id=49827781 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-09-24T08:21:04+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: La Machine – a useless box running Erlang on an ESP32 via AtomVM",
-      "url": "https://github.com/pguyot/la_machine",
-      "description": "Article URL: https://github.com/pguyot/la_machine Comments URL: https://news.ycombinator.com/item?id=49827778 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T08:20:45+00:00",
       "score": 45
     },
     {
@@ -332,49 +772,9 @@
       "score": 54
     },
     {
-      "title": "Show HN: compaction.dev makes cc/codex/cursor resend less, per run",
-      "url": "https://github.com/philipppohlmann/compaction",
-      "description": "Article URL: https://github.com/philipppohlmann/compaction Comments URL: https://news.ycombinator.com/item?id=49827661 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T08:03:17+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Full-page screenshots with free annotation and PDF export",
-      "url": "https://chromewebstore.google.com/detail/fullpage-screenshot/oancbefogdnnbfclaimdkplonkpgdpdj",
-      "description": "I built Fullpage Screenshot because I wanted to capture a whole webpage and mark it up without paying to unlock the editor. GoFullPage offers annotation through Premium; this extension includes crop, arrows, shapes, text, pen, and solid redaction for free. No accounts and nothing",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T08:00:52+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: CastTake – turn one product photo into a short AI UGC ad video",
-      "url": "https://casttake.com/ai-ugc-ad-generator",
-      "description": "Article URL: https://casttake.com/ai-ugc-ad-generator Comments URL: https://news.ycombinator.com/item?id=49827560 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T07:49:11+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: CubeLV – AI that designs your automation before building it",
-      "url": "https://app.cubelv.com",
-      "description": "Article URL: https://app.cubelv.com Comments URL: https://news.ycombinator.com/item?id=49827478 Points: 3 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T07:39:23+00:00",
-      "score": 48
-    },
-    {
       "title": "The Year of Internal Tools",
       "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
-      "description": "Article URL: https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools Comments URL: https://news.ycombinator.com/item?id=49827383 Points: 5 # Comments: 0",
+      "description": "Article URL: https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools Comments URL: https://news.ycombinator.com/item?id=49827383 Points: 52 # Comments: 18",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -382,49 +782,9 @@
       "score": 55
     },
     {
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "url": "https://cms-sfx-demo.apeleg.com/",
-      "description": "Air-gapped file encryption packed into a single, self-decrypting HTML page. AI-free. Comments URL: https://news.ycombinator.com/item?id=49827375 Points: 6 # Comments: 4",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T07:22:17+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: A modern favicon generator designed for clean UI and quality icon set",
-      "url": "https://favicon.kumardeepak.com",
-      "description": "Article URL: https://favicon.kumardeepak.com Comments URL: https://news.ycombinator.com/item?id=49827203 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-09-24T07:02:25+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Carosello. A faster image/video viewer for Linux in Rust and gtk4",
-      "url": "https://github.com/grigio/carosello",
-      "description": "Article URL: https://github.com/grigio/carosello Comments URL: https://news.ycombinator.com/item?id=49827186 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-24T07:00:46+00:00",
-      "score": 48
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "description": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 149 # Comments: 123",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T05:21:10+00:00",
-      "score": 61
-    },
-    {
       "title": "Contrastive Language Models",
       "url": "https://contrastive-lm.notion.site/",
-      "description": "Article URL: https://contrastive-lm.notion.site/ Comments URL: https://news.ycombinator.com/item?id=49826221 Points: 88 # Comments: 21",
+      "description": "Article URL: https://contrastive-lm.notion.site/ Comments URL: https://news.ycombinator.com/item?id=49826221 Points: 141 # Comments: 41",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -1044,22 +1404,12 @@
     {
       "title": "Ideas on modernizing the open-source desktop",
       "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "description": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ Comments URL: https://news.ycombinator.com/item?id=49825642 Points: 169 # Comments: 176",
+      "description": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ Comments URL: https://news.ycombinator.com/item?id=49825642 Points: 320 # Comments: 394",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-09-24T02:52:09+00:00",
       "score": 55
-    },
-    {
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "description": "Article URL: https://www.bbc.com/news/live/cvgl73pxgndwt Comments URL: https://news.ycombinator.com/item?id=49825580 Points: 88 # Comments: 49",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-24T02:44:48+00:00",
-      "score": 61
     },
     {
       "title": "AI is finding chart success in Christian, gospel and country music",
@@ -1084,7 +1434,7 @@
     {
       "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
       "url": "https://github.com/nestrilabs/virtio-nvgpu",
-      "description": "Article URL: https://github.com/nestrilabs/virtio-nvgpu Comments URL: https://news.ycombinator.com/item?id=49824864 Points: 110 # Comments: 46",
+      "description": "Article URL: https://github.com/nestrilabs/virtio-nvgpu Comments URL: https://news.ycombinator.com/item?id=49824864 Points: 147 # Comments: 59",
       "source": "Hacker News",
       "category": "Hardware",
       "kind": "article",
@@ -1102,16 +1452,6 @@
       "score": 54
     },
     {
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "url": "https://carbon.ms/self-hosted",
-      "description": "Article URL: https://carbon.ms/self-hosted Comments URL: https://news.ycombinator.com/item?id=49824715 Points: 40 # Comments: 17",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-24T00:45:17+00:00",
-      "score": 55
-    },
-    {
       "title": "Broadband distributed amplifier for data centers, measurement systems and sensors",
       "url": "https://techxplore.com/news/2026-09-broadband-amplifier-centers-sensors.html",
       "description": "Modern data centers, high-precision measurement systems and high-resolution radar sensors rely on extremely broadband amplifier chips that combine low noise with high output power. Researchers at the Fraunhofer Institute for Applied Solid State Physics IAF have developed a monoli",
@@ -1122,19 +1462,9 @@
       "score": 45
     },
     {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "description": "Article URL: https://www.meta.com/vr-glasses/ Comments URL: https://news.ycombinator.com/item?id=49824268 Points: 422 # Comments: 372",
-      "source": "Hacker News",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T23:47:56+00:00",
-      "score": 58
-    },
-    {
       "title": "Meta is trying VR glasses (again), this time with more IMAX",
       "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "description": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "description": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
       "source": "TechCrunch",
       "category": "Industry",
       "kind": "article",
@@ -1144,7 +1474,7 @@
     {
       "title": "Meta introduces camera-free AI glasses",
       "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
       "source": "TechCrunch",
       "category": "Industry",
       "kind": "article",
@@ -1164,7 +1494,7 @@
     {
       "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
       "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "description": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ Comments URL: https://news.ycombinator.com/item?id=49823664 Points: 203 # Comments: 25",
+      "description": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ Comments URL: https://news.ycombinator.com/item?id=49823664 Points: 278 # Comments: 37",
       "source": "Hacker News",
       "category": "Research",
       "kind": "article",
@@ -1172,9 +1502,9 @@
       "score": 58
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
+      "title": "Linux support is coming to Snapdragon X2 series",
       "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "description": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux Comments URL: https://news.ycombinator.com/item?id=49823582 Points: 448 # Comments: 187",
+      "description": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux Comments URL: https://news.ycombinator.com/item?id=49823582 Points: 567 # Comments: 239",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1202,16 +1532,6 @@
       "score": 45
     },
     {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "description": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 121 # Comments: 68",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T22:16:19+00:00",
-      "score": 58
-    },
-    {
       "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
       "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
       "description": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
@@ -1224,7 +1544,7 @@
     {
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "description": "Article URL: https://fly.io/blog/vscode-ssh-wtf/ Comments URL: https://news.ycombinator.com/item?id=49822555 Points: 245 # Comments: 157",
+      "description": "Article URL: https://fly.io/blog/vscode-ssh-wtf/ Comments URL: https://news.ycombinator.com/item?id=49822555 Points: 292 # Comments: 186",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -1282,36 +1602,6 @@
       "score": 48
     },
     {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T19:31:28+00:00",
-      "score": 48
-    },
-    {
-      "title": "Tiny robot can precisely control its jump height",
-      "url": "https://techxplore.com/news/2026-09-tiny-robot-precisely-height.html",
-      "description": "As our skies increasingly crowd with buzzing, hovering, flitting drones, spare a thought for the humble hopping robot. Hopping, a popular form of locomotion in the insect and amphibian worlds, is nearly two orders of magnitude more energy-efficient than flying. Unlike a mosquito ",
-      "source": "Tech Xplore",
-      "category": "Robotics",
-      "kind": "article",
-      "date": "2026-09-23T19:20:08+00:00",
-      "score": 48
-    },
-    {
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "description": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T19:05:00+00:00",
-      "score": 45
-    },
-    {
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "description": "",
@@ -1322,156 +1612,6 @@
       "score": 67
     },
     {
-      "title": "FBI investigates hackers' claim to have stolen sensitive employee data, compromised jobs website",
-      "url": "https://techxplore.com/news/2026-09-fbi-apparent-breach-jobs-website.html",
-      "description": "The FBI said Wednesday that it was investigating a criminal hacking group's claims that it had stolen \"very sensitive data\" belonging to thousands of agents and applicants and that it had compromised the bureau's jobs website.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T18:20:04+00:00",
-      "score": 48
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "description": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system Comments URL: https://news.ycombinator.com/item?id=49820134 Points: 671 # Comments: 680",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-23T18:06:47+00:00",
-      "score": 55
-    },
-    {
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-      "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "description": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T18:06:27+00:00",
-      "score": 45
-    },
-    {
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "description": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/ Comments URL: https://news.ycombinator.com/item?id=49820065 Points: 150 # Comments: 85",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-23T18:02:08+00:00",
-      "score": 55
-    },
-    {
-      "title": "Rivian R2 vs. Tesla Model Y: An electric SUV showdown",
-      "url": "https://techxplore.com/news/2026-09-rivian-r2-tesla-electric-suv.html",
-      "description": "The Tesla Model Y has been the sales king of small electric SUVs since the moment it arrived. Many rivals have chased its success, but none have come close. Now it's Rivian's turn. The Rivian R2 is the California EV automaker's first small electric SUV, and it's gunning for the M",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T18:00:17+00:00",
-      "score": 48
-    },
-    {
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "description": "Article URL: https://tailscale.com/blog/making-tailscale-faster Comments URL: https://news.ycombinator.com/item?id=49819880 Points: 181 # Comments: 70",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T17:49:07+00:00",
-      "score": 58
-    },
-    {
-      "title": "The old cybersecurity model is breaking",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&",
-      "source": "TechCrunch",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-23T17:44:02+00:00",
-      "score": 51
-    },
-    {
-      "title": "Distributed system groups English text more accurately than conventional methods, tests find",
-      "url": "https://techxplore.com/news/2026-09-groups-english-text-accurately-conventional.html",
-      "description": "A distributed computing framework can group large volumes of English text more accurately and efficiently than older methods, according to research published in the International Journal of Intelligent Information and Database Systems. The system could support faster analysis in ",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-09-23T17:40:09+00:00",
-      "score": 45
-    },
-    {
-      "title": "New robotic hand can walk, press keys and move objects on its own",
-      "url": "https://techxplore.com/news/2026-09-robotic-keys.html",
-      "description": "For many of us, the last—and only—time we've seen a walking hand was Thing in \"The Addams Family\" movies or TV series. Now there's another. Engineers from the Soft Robotics Lab at ETH Zurich have adapted an off-the-shelf detached robotic hand so it can crawl across different surf",
-      "source": "Tech Xplore",
-      "category": "Robotics",
-      "kind": "article",
-      "date": "2026-09-23T17:30:01+00:00",
-      "score": 48
-    },
-    {
-      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-      "description": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T17:28:38+00:00",
-      "score": 45
-    },
-    {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "description": "Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567 Comments URL: https://news.ycombinator.com/item?id=49819221 Points: 807 # Comments: 644",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-23T17:06:16+00:00",
-      "score": 55
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T17:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Even Americans who use AI every day are worried about it",
-      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T16:49:58+00:00",
-      "score": 48
-    },
-    {
-      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-      "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T16:03:44+00:00",
-      "score": 45
-    },
-    {
-      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-      "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T15:46:57+00:00",
-      "score": 45
-    },
-    {
       "title": "3 Skills That Will Matter More in the Age of AI",
       "url": "https://spectrum.ieee.org/top-engineering-skills",
       "description": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! If you have kids, they’re pro",
@@ -1480,36 +1620,6 @@
       "kind": "article",
       "date": "2026-09-23T15:40:04+00:00",
       "score": 48
-    },
-    {
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T15:19:30+00:00",
-      "score": 48
-    },
-    {
-      "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
-      "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
-      "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-09-23T14:45:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-23T14:30:00+00:00",
-      "score": 58
     },
     {
       "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
@@ -1690,116 +1800,6 @@
       "kind": "article",
       "date": "2026-09-14T14:18:11+00:00",
       "score": 48
-    },
-    {
-      "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
-      "url": "https://spectrum.ieee.org/ieee-to-reward-sections",
-      "description": "For this year’s IEEE annual election , the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the IEEE Board of Directors .The incent",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-09-11T18:00:02+00:00",
-      "score": 45
-    },
-    {
-      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
-      "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-      "description": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet , a pioneering computer system at the University of Hawaii at Mānoa , in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet",
-      "source": "IEEE Spectrum",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-09-10T20:00:04+00:00",
-      "score": 48
-    },
-    {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-10T00:00:00+00:00",
-      "score": 55
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-10T00:00:00+00:00",
-      "score": 55
-    },
-    {
-      "title": "An Engineer’s Guide to Surviving a Layoff",
-      "url": "https://spectrum.ieee.org/how-to-survive-a-layoff",
-      "description": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! I lost a cushy engineering ma",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-09-09T15:03:38+00:00",
-      "score": 45
-    },
-    {
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "description": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif. , through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-09-08T13:00:04+00:00",
-      "score": 45
-    },
-    {
-      "title": "The Growing Proof That Autonomous Cars Save Lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "description": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving ",
-      "source": "IEEE Spectrum",
-      "category": "Robotics",
-      "kind": "article",
-      "date": "2026-09-08T12:59:04+00:00",
-      "score": 48
-    },
-    {
-      "title": "Workshops Educate African Researchers On How to Publish With IEEE",
-      "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "description": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more acce",
-      "source": "IEEE Spectrum",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-09-07T18:00:03+00:00",
-      "score": 48
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-03T13:13:48+00:00",
-      "score": 55
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-03T00:00:00+00:00",
-      "score": 58
-    },
-    {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-09-03T00:00:00+00:00",
-      "score": 61
     }
   ]
 }
