@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-21T04:51:50.474772+00:00",
+  "generated_at": "2026-10-21T11:53:05.510202+00:00",
   "items": [
+    {
+      "title": "vllm-project / vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "source": "GitHub Trending",
+      "category": "AI",
+      "kind": "repository",
+      "date": "2026-10-21T11:53:02.937679+00:00",
+      "score": 58
+    },
     {
       "title": "shiyu-coder / Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
@@ -8,47 +18,37 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635725+00:00",
+      "date": "2026-10-21T11:53:02.937667+00:00",
       "score": 55
     },
     {
-      "title": "anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "title": "sickn33 / agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
       "source": "GitHub Trending",
-      "category": "Open Source",
+      "category": "AI",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635713+00:00",
-      "score": 55
+      "date": "2026-10-21T11:53:02.937654+00:00",
+      "score": 58
     },
     {
-      "title": "HKUDS / CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "title": "wshobson / agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "source": "GitHub Trending",
-      "category": "Open Source",
+      "category": "AI",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635697+00:00",
-      "score": 55
+      "date": "2026-10-21T11:53:02.937639+00:00",
+      "score": 58
     },
     {
-      "title": "Kruk2 / jasna",
-      "url": "https://github.com/Kruk2/jasna",
-      "description": "Video restoration tool",
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635686+00:00",
-      "score": 55
-    },
-    {
-      "title": "withmarbleapp / os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": "",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-10-21T04:51:48.635675+00:00",
+      "date": "2026-10-21T11:53:02.937625+00:00",
       "score": 55
     },
     {
@@ -58,18 +58,38 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635663+00:00",
+      "date": "2026-10-21T11:53:02.937611+00:00",
       "score": 58
     },
     {
-      "title": "stablyai / orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635647+00:00",
+      "date": "2026-10-21T11:53:02.937582+00:00",
       "score": 58
+    },
+    {
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-10-21T11:53:02.937566+00:00",
+      "score": 55
+    },
+    {
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-10-21T11:53:02.937555+00:00",
+      "score": 55
     },
     {
       "title": "ruvnet / ruflo",
@@ -78,7 +98,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635633+00:00",
+      "date": "2026-10-21T11:53:02.937538+00:00",
       "score": 55
     },
     {
@@ -88,28 +108,38 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635614+00:00",
+      "date": "2026-10-21T11:53:02.937516+00:00",
       "score": 55
     },
     {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "source": "GitHub Trending",
-      "category": "Hardware",
+      "category": "AI",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635599+00:00",
+      "date": "2026-10-21T11:53:02.937501+00:00",
+      "score": 58
+    },
+    {
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "source": "GitHub Trending",
+      "category": "AI",
+      "kind": "repository",
+      "date": "2026-10-21T11:53:02.937486+00:00",
+      "score": 58
+    },
+    {
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "source": "GitHub Trending",
+      "category": "Software",
+      "kind": "repository",
+      "date": "2026-10-21T11:53:02.937466+00:00",
       "score": 61
-    },
-    {
-      "title": "anomalyco / opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-10-21T04:51:48.635582+00:00",
-      "score": 55
     },
     {
       "title": "MadsLorentzen / ai-job-search",
@@ -118,8 +148,218 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-21T04:51:48.635556+00:00",
+      "date": "2026-10-21T11:53:02.937426+00:00",
       "score": 58
+    },
+    {
+      "title": "Show HN: Qovilio – an AI that reads your bills and lists your subscriptions",
+      "url": "https://qovilio.com/",
+      "description": "Article URL: https://qovilio.com/ Comments URL: https://news.ycombinator.com/item?id=50179151 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T11:32:55+00:00",
+      "score": 48
+    },
+    {
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "Robotics",
+      "kind": "article",
+      "date": "2026-10-21T10:59:42+00:00",
+      "score": 67
+    },
+    {
+      "title": "Show HN: Self-hosted Omnivore-fully self-hosted, open-source Read-it-Later app",
+      "url": "https://github.com/omnivore-app/omnivore/blob/main/docs/SELF-HOST-UPDATE.md",
+      "description": "Many of you might be familiar with Omnivore. It was a cloud-hosted Read it Later app that later shutdown due to the owners going to work for ElevenLabs. If you are familiar with it, you'll know that it was a pretty feature-filled reader that became an essential part of peoples re",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T10:59:17+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: We built an AI-powered search engine for e-commerce catalogs",
+      "url": "https://visidea.ai/",
+      "description": "Article URL: https://visidea.ai/ Comments URL: https://news.ycombinator.com/item?id=50178568 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T10:25:11+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+      "url": "https://squidbrake.com/benchmark",
+      "description": "Article URL: https://squidbrake.com/benchmark Comments URL: https://news.ycombinator.com/item?id=50178546 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T10:23:05+00:00",
+      "score": 51
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "description": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 28 # Comments: 7",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T10:14:43+00:00",
+      "score": 55
+    },
+    {
+      "title": "Researchers develop conversational AI for self-driving labs",
+      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
+      "description": "Korean researchers have developed an AI technology for self-driving laboratories (SDLs) that incorporates researchers' experience and knowledge, expressed in natural language, into autonomous experimental planning.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-10-21T10:00:51+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: EPUfix – Invoicing software for the self-employed in Austria",
+      "url": "https://epufix.at",
+      "description": "Offers invoices, income, and expenses for Austrian self-employed people. The numbers are finished on any day, and the handoff to the tax advisor takes minutes. Comments URL: https://news.ycombinator.com/item?id=50178323 Points: 1 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T09:59:42+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
+      "url": "https://github.com/blue-idea/linkit",
+      "description": "Article URL: https://github.com/blue-idea/linkit Comments URL: https://news.ycombinator.com/item?id=50178218 Points: 7 # Comments: 1",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T09:51:41+00:00",
+      "score": 71
+    },
+    {
+      "title": "Show HN: Non-call, an on-call simulator mini-game",
+      "url": "https://serum.sh/non-call/",
+      "description": "It's a goofy weekend side-project trying to show how it feels being on-call and highlight some absurdities. I hope you enjoy. Comments URL: https://news.ycombinator.com/item?id=50178183 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T09:48:08+00:00",
+      "score": 45
+    },
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "description": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 210 # Comments: 88",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T09:08:08+00:00",
+      "score": 55
+    },
+    {
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "description": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Points: 324 # Comments: 347",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T09:07:49+00:00",
+      "score": 55
+    },
+    {
+      "title": "US regulators certify Boeing 737 MAX 10 after delays",
+      "url": "https://techxplore.com/news/2026-10-certify-boeing-max-delays.html",
+      "description": "U.S. officials gave final approval Tuesday to the Boeing 737 MAX 10, certifying the latest long-delayed version of the popular single-aisle aircraft.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-10-21T08:56:26+00:00",
+      "score": 45
+    },
+    {
+      "title": "Finland Buying a Million Landmines",
+      "url": "https://yle.fi/a/74-20252139",
+      "description": "Article URL: https://yle.fi/a/74-20252139 Comments URL: https://news.ycombinator.com/item?id=50177734 Points: 9 # Comments: 2",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T08:43:25+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+      "url": "https://github.com/kobaltgit/photocraft-companion",
+      "description": "Article URL: https://github.com/kobaltgit/photocraft-companion Comments URL: https://news.ycombinator.com/item?id=50177345 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T07:46:11+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: A retro arcade style tower climber where your only weapon is a shield",
+      "url": "https://the-last-word.ca/return-to-sender/",
+      "description": "Your only weapon is a shield. Return to Sender is a free retro arcade game with a devilishly hard difficulty progression. You can play in your browser: send arrows back, knock enemies into pits, and climb nine floors to beat Ironhide. Comments URL: https://news.ycombinator.com/it",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T07:21:28+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: See AI trends heat up in real time",
+      "url": "https://ai-news.jagular.io",
+      "description": "Article URL: https://ai-news.jagular.io Comments URL: https://news.ycombinator.com/item?id=50176960 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T06:49:14+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: I spent two days building this online multiplayer game with Claude Code",
+      "url": "https://pawnrush.xiaohan.dev/",
+      "description": "You can create a room and send the link to friends to battle against each other — but you have to finish the tutorial first! Comments URL: https://news.ycombinator.com/item?id=50176936 Points: 3 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T06:46:14+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Grafista – AI graphic designer built to fight slop",
+      "url": "https://grafista.io/",
+      "description": "You don't need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand. Fully editable designs in any language. Plans from €10/month, no per seat charge. Startups get 50% for the first 3 months. Comments URL: https://",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T06:43:17+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Inca – a free, open-source 3D app that works like Maya 2020",
+      "url": "https://incacad.com/",
+      "description": "Article URL: https://incacad.com/ Comments URL: https://news.ycombinator.com/item?id=50176178 Points: 3 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T04:46:10+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: What if Instinct and GrokBot had a baby?",
+      "url": "https://studio.sharenow.today/",
+      "description": "introducing studio by sharenow a team of lil helpers that keeps working after you close the laptop each helper gets its own computer, awake 24/7 its own email, plus sites and apps live on http://sharenow.today (Ctrl⌃) x 2 and talk, it sees what's on your screen voice mode: just t",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T04:05:10+00:00",
+      "score": 45
     },
     {
       "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
@@ -732,9 +972,19 @@
       "score": 45
     },
     {
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "description": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 62 # Comments: 28",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T03:36:43+00:00",
+      "score": 55
+    },
+    {
       "title": "Show HN: Pope Pendle Pro",
       "url": "https://github.com/knitprong/Faith-cloud",
-      "description": "Pope Pendle Pro resolves 10 contradictions per lunar cycle. It detects inversions, navigates the Veytar, and restores censored invariance. All for $13.27/month.\" Comments URL: https://news.ycombinator.com/item?id=50175741 Points: 1 # Comments: 0",
+      "description": "Pope Pendle Pro resolves 10 contradictions per lunar cycle. It detects inversions, navigates the Veytar, and restores censored invariance. All for $13.27/month.\" Comments URL: https://news.ycombinator.com/item?id=50175741 Points: 2 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
       "kind": "article",
@@ -744,12 +994,22 @@
     {
       "title": "Show HN: Mile Pace Calculator, free pace and split tools for runners",
       "url": "https://milepacecalculator.com/",
-      "description": "Article URL: https://milepacecalculator.com/ Comments URL: https://news.ycombinator.com/item?id=50175619 Points: 2 # Comments: 0",
+      "description": "Article URL: https://milepacecalculator.com/ Comments URL: https://news.ycombinator.com/item?id=50175619 Points: 3 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
       "kind": "article",
       "date": "2026-10-21T03:11:15+00:00",
       "score": 45
+    },
+    {
+      "title": "C# now beats Rust on WASM size",
+      "url": "https://github.com/zion-sati/NetWasm",
+      "description": "Article URL: https://github.com/zion-sati/NetWasm Comments URL: https://news.ycombinator.com/item?id=50175510 Points: 90 # Comments: 32",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T02:53:47+00:00",
+      "score": 55
     },
     {
       "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
@@ -764,7 +1024,7 @@
     {
       "title": "In Hilbert space, all things are quantumly possible",
       "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "description": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 41 # Comments: 17",
+      "description": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 102 # Comments: 58",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -794,7 +1054,7 @@
     {
       "title": "The Future of CSS",
       "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "description": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 115 # Comments: 36",
+      "description": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 411 # Comments: 167",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -804,7 +1064,7 @@
     {
       "title": "Good type against all odds",
       "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "description": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 52 # Comments: 8",
+      "description": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 139 # Comments: 12",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -812,79 +1072,9 @@
       "score": 58
     },
     {
-      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
-      "url": "https://github.com/zhitongblog/unterm",
-      "description": "Article URL: https://github.com/zhitongblog/unterm Comments URL: https://news.ycombinator.com/item?id=50175026 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-21T01:39:06+00:00",
-      "score": 51
-    },
-    {
-      "title": "Show HN: Reverse engineering the ANE to run Gemma 4 26B at 100 Tok/s",
-      "url": "https://github.com/zw5/ane-fieldfare",
-      "description": "After checking out Turbo Fieldfare (a very interesting project that streamed experts from SSD on Apple Silicon Macs to run Gemma 4 26B with very little RAM usage), I tried to make this project much faster and succeeded! This project gets up to 100+ tokens/s inference on Gemma 4 2",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-21T01:34:57+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Spotnote – click an element, hand your coding agent its file:line",
-      "url": "https://github.com/harukikuri/spotnote",
-      "description": "Article URL: https://github.com/harukikuri/spotnote Comments URL: https://news.ycombinator.com/item?id=50174861 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-21T01:11:26+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Hibi – an open source obsidian alternative",
-      "url": "https://github.com/schmayterling/hibi",
-      "description": "i shared hibi here in september as an open-source obsidian alternative but i wasn't able to attend to it much: https://news.ycombinator.com/item?id=49782528 for context, hibi is a free, open-source markdown/latex/typst/and more editor that keeps files in your own folders and it i",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-21T01:06:10+00:00",
-      "score": 58
-    },
-    {
-      "title": "Show HN: An unofficial guide to Roblox's The Hollow event",
-      "url": "https://robloxthehollow.com/",
-      "description": "Article URL: https://robloxthehollow.com/ Comments URL: https://news.ycombinator.com/item?id=50174821 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-21T01:04:59+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: An icon for every city in North America",
-      "url": "https://evans.bike/naicons",
-      "description": "To my knowledge there is no icon pack for cities in NA below a certain size. So I created one! An icon for every city in NA with >100k population. 544 in total. Generated with Nano Banana Pro. These cost me ~$70 to generate. Giving away for free! Some exceptions are 1 city for ea",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-21T01:03:39+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: SchemaWright, learning database design in a gamified way",
-      "url": "https://schemawright.com",
-      "description": "Let me begin by explaining what it is: SchemaWright is a platform for learning database table design in a gamified way, with a real Postgres database running on your browser via WASM. It was heavily inspired by Duolingo and LeetCode, because I love the way how those platforms tea",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-21T00:50:43+00:00",
-      "score": 48
-    },
-    {
       "title": "Muse exposes users' personal and business secrets when they share conversations",
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "description": "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 29 # Comments: 0",
+      "description": "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 206 # Comments: 96",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -902,59 +1092,9 @@
       "score": 45
     },
     {
-      "title": "Show HN: Wellbody [Body Health Tamagotchi]",
-      "url": "https://wellbody.me",
-      "description": "Hi everyone, I have been working on wellbody health pal for the past 1-2 years. We recently uplifted the app to the current body health tamagotchi version and it's been a blast not just using and developing the app, but also developing our social media presence. I invite you to c",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T23:46:46+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Drop in a folder of HTML and get back a private URL",
-      "url": "https://eze.page/",
-      "description": "Article URL: https://eze.page/ Comments URL: https://news.ycombinator.com/item?id=50174244 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T23:45:03+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: One click flight booking in Claude",
-      "url": "https://mcp.bonbook.co/claude-setup",
-      "description": "tldr; Travelers wanted to find and book flights super fast in Claude, so we built this. -- BonBook started as flights via email because I was flying once a week in '24 and the UX got to me. Since then we've handled tens of thousands of requests for hundreds of travelers. The new ",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T23:36:17+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
-      "url": "https://paceorpause.com/",
-      "description": "Article URL: https://paceorpause.com/ Comments URL: https://news.ycombinator.com/item?id=50174020 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T23:18:49+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: MultiTrack v1.3 for Mac – insanely easy music making software",
-      "url": "https://aquariuscomputer.co/multitrack/",
-      "description": "Just released this. Synths play without bugs now. It might be the best release for songwriting yet. Comments URL: https://news.ycombinator.com/item?id=50173909 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T23:05:51+00:00",
-      "score": 48
-    },
-    {
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "description": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 116 # Comments: 78",
+      "description": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 208 # Comments: 158",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -964,7 +1104,7 @@
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "source": "TechCrunch",
       "category": "AI",
       "kind": "article",
@@ -982,36 +1122,6 @@
       "score": 45
     },
     {
-      "title": "Show HN: Lox Language Visualizer Based on Crafting Interpreters",
-      "url": "https://www.shivfitzpatrick.com/visualizers/",
-      "description": "While reading the book Crafting Interpreters I found myself trying to imagine the material from the book visually. After finishing the book I built this tool to do just that! It shows various phases of the interpreter from lexing to parsing to vm instructions with some UI to show",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T22:54:54+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Visual cdecl – edit a C declaration as English, code, or a graph",
-      "url": "https://github.avestura.dev/visual-cdecl/",
-      "description": "Article URL: https://github.avestura.dev/visual-cdecl/ Comments URL: https://news.ycombinator.com/item?id=50173734 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T22:47:02+00:00",
-      "score": 45
-    },
-    {
-      "title": "PingCap TiDB Leaks",
-      "url": "https://fulcrumsec.vg/pingcap/",
-      "description": "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 68 # Comments: 9",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T22:45:39+00:00",
-      "score": 55
-    },
-    {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
@@ -1024,7 +1134,7 @@
     {
       "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "description": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 139 # Comments: 55",
+      "description": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 216 # Comments: 99",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1102,9 +1212,9 @@
       "score": 45
     },
     {
-      "title": "Upcoming critical PHP security release",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
       "url": "https://news-web.php.net/php.announce/509",
-      "description": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 276 # Comments: 89",
+      "description": "https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 1041 # Comments: 423",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1204,7 +1314,7 @@
     {
       "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
-      "description": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 657 # Comments: 341",
+      "description": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 822 # Comments: 384",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1220,16 +1330,6 @@
       "kind": "article",
       "date": "2026-10-20T18:20:01+00:00",
       "score": 51
-    },
-    {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-10-20T18:17:47+00:00",
-      "score": 61
     },
     {
       "title": "Can larger batteries safely power residential buildings? A project in New York aims to show how",
@@ -1250,16 +1350,6 @@
       "kind": "article",
       "date": "2026-10-20T17:55:12+00:00",
       "score": 45
-    },
-    {
-      "title": "Advanced coding in low-resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages/",
-      "description": "Article URL: https://openai.com/index/low-resource-programming-languages/ Comments URL: https://news.ycombinator.com/item?id=50169955 Points: 52 # Comments: 65",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T17:43:11+00:00",
-      "score": 58
     },
     {
       "title": "Turning coffee waste into 3D-printed architectural forms",
@@ -1284,7 +1374,7 @@
     {
       "title": "What shall I teach my son?",
       "url": "https://stevekrouse.com/ends",
-      "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 325 # Comments: 389",
+      "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 414 # Comments: 487",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1322,16 +1412,6 @@
       "score": 48
     },
     {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "description": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 36 # Comments: 2",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T17:10:31+00:00",
-      "score": 64
-    },
-    {
       "title": "Why some buildings collapse in an earthquake while others stay standing",
       "url": "https://techxplore.com/news/2026-10-collapse-earthquake-stay.html",
       "description": "The twin earthquakes that struck Venezuela on June 24, 2026, collapsing buildings across northern Venezuela, from Yaracuy state to Caracas, have revived a question that follows every major quake: Why do some buildings fall while others nearby remain standing?",
@@ -1354,7 +1434,7 @@
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "url": "https://github.com/google-pytorch/torch_tpu",
-      "description": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 294 # Comments: 66",
+      "description": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 351 # Comments: 73",
       "source": "Hacker News",
       "category": "Industry",
       "kind": "article",
@@ -1372,16 +1452,6 @@
       "score": 54
     },
     {
-      "title": "AI model hunts down fake news",
-      "url": "https://techxplore.com/news/2026-10-ai-fake-news.html",
-      "description": "Researchers have developed an automated system for detecting fake news that achieved accuracy rates above 98% in tests on two datasets; in other words, it missed just one or two fake news items in every 100. They provide details of their approach in the International Journal of I",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T16:20:05+00:00",
-      "score": 51
-    },
-    {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "url": "https://huggingface.co/blog/allenai/fairstress",
       "description": "",
@@ -1394,7 +1464,7 @@
     {
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3/",
-      "description": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 570 # Comments: 147",
+      "description": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 698 # Comments: 172",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -1412,16 +1482,6 @@
       "score": 45
     },
     {
-      "title": "Voltage-controlled photonic chip could make smart-glasses displays more efficient",
-      "url": "https://techxplore.com/news/2026-10-voltage-photonic-chip-smart-glasses.html",
-      "description": "Smart glasses need compact, efficient displays that can produce detailed images without drawing too much power. Laser beam scanning is one approach to meeting these requirements. Rather than using a fixed array of pixels, these displays steer a laser beam across the field of view",
-      "source": "Tech Xplore",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-20T16:00:06+00:00",
-      "score": 48
-    },
-    {
       "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
       "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
       "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
@@ -1430,26 +1490,6 @@
       "kind": "article",
       "date": "2026-10-20T16:00:00+00:00",
       "score": 54
-    },
-    {
-      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "description": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 231 # Comments: 138",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T15:59:06+00:00",
-      "score": 55
-    },
-    {
-      "title": "IKEA – 3D Guide",
-      "url": "https://sael.net/flatpack/",
-      "description": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 164 # Comments: 59",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T15:42:45+00:00",
-      "score": 55
     },
     {
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
@@ -1474,21 +1514,11 @@
     {
       "title": "Ofcom concedes defeat in 4chan case",
       "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "description": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 358 # Comments: 265",
+      "description": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 404 # Comments: 315",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-20T14:30:31+00:00",
-      "score": 55
-    },
-    {
-      "title": "My Friend Bob Cringely",
-      "url": "https://tyma.com/my-cringe-story/",
-      "description": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 182 # Comments: 51",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T14:13:49+00:00",
       "score": 55
     },
     {
@@ -1504,21 +1534,11 @@
     {
       "title": "eMudhra intermediate CA compromise",
       "url": "https://emudhra.we-have-a-problem.com/",
-      "description": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 763 # Comments: 355",
+      "description": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 1010 # Comments: 415",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-20T13:58:33+00:00",
-      "score": 55
-    },
-    {
-      "title": "How I got over 300 Tor exit nodes removed",
-      "url": "https://kaba.cx/posts/20261020_Tor/",
-      "description": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 343 # Comments: 86",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T13:39:24+00:00",
       "score": 55
     },
     {
@@ -1780,26 +1800,6 @@
       "kind": "article",
       "date": "2026-10-12T10:00:03+00:00",
       "score": 51
-    },
-    {
-      "title": "Master AI Chip Principles With New IEEE Design Program",
-      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "description": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “ Revisiting Edge AI: Opportunities and Challenges .” The article examines the rapid growth of edge AI and the challenges it creates, including resource con",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-09T18:00:02+00:00",
-      "score": 51
-    },
-    {
-      "title": "We Need to Embed Ethics Into Our Engineering Courses",
-      "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "description": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension betwe",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-09T12:00:02+00:00",
-      "score": 45
     }
   ]
 }
