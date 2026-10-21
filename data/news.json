@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T23:54:23.875605+00:00",
+  "generated_at": "2026-10-21T04:51:50.474772+00:00",
   "items": [
     {
       "title": "shiyu-coder / Kronos",
@@ -8,7 +8,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422915+00:00",
+      "date": "2026-10-21T04:51:48.635725+00:00",
       "score": 55
     },
     {
@@ -18,7 +18,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422904+00:00",
+      "date": "2026-10-21T04:51:48.635713+00:00",
       "score": 55
     },
     {
@@ -28,7 +28,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422888+00:00",
+      "date": "2026-10-21T04:51:48.635697+00:00",
       "score": 55
     },
     {
@@ -38,7 +38,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422877+00:00",
+      "date": "2026-10-21T04:51:48.635686+00:00",
       "score": 55
     },
     {
@@ -48,7 +48,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422864+00:00",
+      "date": "2026-10-21T04:51:48.635675+00:00",
       "score": 55
     },
     {
@@ -58,7 +58,7 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422851+00:00",
+      "date": "2026-10-21T04:51:48.635663+00:00",
       "score": 58
     },
     {
@@ -68,7 +68,7 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422837+00:00",
+      "date": "2026-10-21T04:51:48.635647+00:00",
       "score": 58
     },
     {
@@ -78,7 +78,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422823+00:00",
+      "date": "2026-10-21T04:51:48.635633+00:00",
       "score": 55
     },
     {
@@ -88,7 +88,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422804+00:00",
+      "date": "2026-10-21T04:51:48.635614+00:00",
       "score": 55
     },
     {
@@ -98,7 +98,7 @@
       "source": "GitHub Trending",
       "category": "Hardware",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422789+00:00",
+      "date": "2026-10-21T04:51:48.635599+00:00",
       "score": 61
     },
     {
@@ -108,7 +108,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422772+00:00",
+      "date": "2026-10-21T04:51:48.635582+00:00",
       "score": 55
     },
     {
@@ -118,13 +118,823 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-20T23:54:22.422748+00:00",
+      "date": "2026-10-21T04:51:48.635556+00:00",
       "score": 58
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "description": "Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical rea",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "description": "Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the construction industry, leadin",
+      "source": "arXiv AI",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "description": "Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area) by aggregating multiple obje",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "description": "The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoption in radiology workflows that",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "description": "General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, generating tasks directly from",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+      "url": "https://arxiv.org/abs/2610.26941",
+      "description": "Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and stringent reliability requirements h",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+      "url": "https://arxiv.org/abs/2610.26942",
+      "description": "Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a precise error message --- information that pure sampling discards. To overcome this, we introduce a bounded, online step-level repair module. Our search",
+      "source": "arXiv AI",
+      "category": "Software",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2610.26943",
+      "description": "Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing po",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+      "url": "https://arxiv.org/abs/2610.26948",
+      "description": "Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal product information. However, extending these methods to many product domains faces a dilemma: deploying a separately adapted VLM per domain scales cost ",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+      "url": "https://arxiv.org/abs/2610.26964",
+      "description": "Large language models (LLMs) struggle with classical planning, but benchmarks rarely distinguish structural difficulty from the difficulty of interpreting symbolic vocabulary. We examine seven STRIPS domains with BFS-optimal plan lengths. For predicting structural difficulty with",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.26995",
+      "description": "LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as independent text entries, ign",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+      "url": "https://arxiv.org/abs/2610.27027",
+      "description": "Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusion, so whether collaboration r",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.27028",
+      "description": "A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static and zero-shot policies. We first evaluate a static b",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+      "url": "https://arxiv.org/abs/2610.27032",
+      "description": "Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single LLMs is their difficulty in proc",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "Physical AI: Concepts, Techniques, and Challenges",
+      "url": "https://arxiv.org/abs/2610.27045",
+      "description": "In recent years, physical artificial intelligence (physical AI) has experienced rapid development, capturing significant attention in academia and industry. However, the field has yet to reach consensus on its definition, technical landscape, and core challenges. To address this ",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+      "url": "https://arxiv.org/abs/2610.27046",
+      "description": "As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conducting mathematical exploration. ",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "A general-purpose System One decision model for clinical records",
+      "url": "https://arxiv.org/abs/2610.27099",
+      "description": "Clinical care, health-system operations and biomedical discovery depend on extracting reliable answers from patient records, yet applying diverse clinical questions across entire populations remains computationally expensive. Here we present Clinical System One (CS1), a 4-billion",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+      "url": "https://arxiv.org/abs/2610.27103",
+      "description": "Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement of grounding evidence and lear",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
+      "url": "https://arxiv.org/abs/2610.27115",
+      "description": "LLM agents act on the external world through tools and third-party skills, so a single executed action can cause irreversible harm. Existing defenses judge a proposed action without tracking whether its content comes from the user or from external sources such as tool outputs, an",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.27119",
+      "description": "LLM agents perform tasks over multiple steps and revise their actions based on feedback. As the total reasoning budget is often limited and must support future steps, the agent must choose between short and long reasoning before each action. Longer reasoning may improve the final",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference",
+      "url": "https://arxiv.org/abs/2610.26866",
+      "description": "Mechanistic studies of large language models localize function in parameters, attention heads or neurons, but those parts do not specify how one inference unfolds. We treat the ordered layer-state trajectory as the empirical process and test whether layer order defines a measurab",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Steerable Pluralistic Policy Alignment from Anonymized Crowd Feedback",
+      "url": "https://arxiv.org/abs/2610.26914",
+      "description": "Pluralistic alignment requires AI systems to learn from diverse populations whose preferences may reflect heterogeneous or even conflicting objectives, and to personalize their behavior to individual users. Existing approaches in pluralistic alignment often assume access to annot",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains",
+      "url": "https://arxiv.org/abs/2610.26932",
+      "description": "Large language models (LLMs) are increasingly deployed as autonomous agents in non-verifiable domains such as financial services, where they must interpret user intent, rewrite queries, and retrieve information under domain-specific constraints. Although reinforcement learning (R",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.26950",
+      "description": "Multi-teacher on-policy distillation (MOPD) integrates domain specialists into a shared student, but determining how strongly each teacher should supervise remains challenging. Existing discrepancy-based allocation can assign strong supervision even when the student already match",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Dynamic System Inspired Continuous Large Language Model for AI4Science Tasks",
+      "url": "https://arxiv.org/abs/2610.26959",
+      "description": "Scientific foundation models increasingly operate on continuous phenomena, yet still use discrete residual computation. We ask whether pretrained residual transformations can support additional latent computation without expanding the backbone. To test this possibility, we introd",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Transformers Learn Two Competing Sorting Algorithms, and Only One Length-Generalizes",
+      "url": "https://arxiv.org/abs/2610.26974",
+      "description": "We show that two-layer transformers trained to near-zero loss on a sorting task converge to one of two mechanistically distinct solution classes depending on their initialization. One solution class consists of solutions that do not use the second attention layer to sort, but als",
+      "source": "arXiv ML",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Latent Projection for Latent Planning",
+      "url": "https://arxiv.org/abs/2610.26979",
+      "description": "Latent world models let an agent plan in latent space. The planner searches for an action sequence that minimizes a cost, and that cost is often the $\\ell_2$ distance between the predicted terminal latent and the goal latent. The latent, however, is partly noise: the regularizer ",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "CoASFL: Coupled Consistency Optimization for Asynchronous Split Federated Learning",
+      "url": "https://arxiv.org/abs/2610.26992",
+      "description": "Split Federated Learning (SFL) has emerged as a promising paradigm for training large-scale deep models on resource-constrained edge devices. Although asynchronous SFL alleviates the straggler bottleneck caused by system heterogeneity, it inevitably introduces two coupled dimensi",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "CorteXforge: Scenario-Based RF Dataset Generation on Real Testbeds",
+      "url": "https://arxiv.org/abs/2610.26999",
+      "description": "Deep learning for radio frequency (RF) signal analysis relies on large annotated datasets, yet synthetic datasets trade physical realism for controllability, while uncontrolled over-theair measurements offer realism but limited reproducibility. We present CorteXforge, a scenario-",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "ORBIT: Autoregressive Time Series Generation via Next Frequency-Band Prediction",
+      "url": "https://arxiv.org/abs/2610.27000",
+      "description": "Deep generative models provide an effective modern solution to alleviating the problem of data scarcity by synthesizing realistic time series. However, despite the considerable progress achieved by existing deep time series generators, two key challenges remain: (1) learning hier",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction",
+      "url": "https://arxiv.org/abs/2610.27001",
+      "description": "Drug--target affinity (DTA) prediction plays an important role in computer-aided drug discovery, where reliable computational models can help prioritize compound--protein pairs before experimental validation. A key challenge in DTA prediction is to effectively mine multi-level mo",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Exploration via Activation-Space Steering for Reinforcement Learning with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2610.27012",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) trains a language model by sampling responses, scoring them with an automatic verifier, and updating the policy from the resulting rewards. The policy therefore receives direct learning signals only from trajectories that appe",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "EGiME: Entropy-Guided Model Evaluation in Few-Shot Learning",
+      "url": "https://arxiv.org/abs/2610.27029",
+      "description": "The feature-extraction quality of pre-trained models sets the ceiling of downstream transfer learning, yet few-shot model selection remains difficult: supervised evaluation on scarce labels is unstable and yields fluctuating rankings. We propose Entropy-Guided Model Evaluation (E",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Hilbert-Scale Stability of Posterior Diffusion Priors for Ill-Posed Signal Recovery",
+      "url": "https://arxiv.org/abs/2610.27030",
+      "description": "Indirect and noisy observations are difficult to invert when the forward operator smooths out the unknown signal. In this case, the unstable modes are precisely the modes that the data reveals least, thus the success of any reconstruction method depends on how prior information i",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "LEAF: LUT-aware Efficient Attention on FPGAs",
+      "url": "https://arxiv.org/abs/2610.27078",
+      "description": "We introduce Lookup-table (LUT)-aware Efficient Attention on FPGAs (LEAF). LEAF is the first nanosecond-scale LUT-aware transformer for FPGAs. Deploying transformers that are large enough to perform well, small enough to fit on an FPGA, and fast enough to meet the sub-microsecond",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "ClockMark: Adaptive and Host-Dependent Watermarking for Large Language Models",
+      "url": "https://arxiv.org/abs/2610.27079",
+      "description": "Large language model (LLM) watermarking operates on the next-token distribution that evolves during generation. In streaming generation, each sampled token becomes part of the text and affects subsequent distributions. Embedding therefore proceeds with a changing host, unlike cla",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "RGH-GNN : Risk-Gated Heterogeneous Graph Neural Network for Financial Fraud Detection",
+      "url": "https://arxiv.org/abs/2610.27107",
+      "description": "Credit card fraud is a significant problem for financial institutions, resulting in substantial monetary loss each year. Fraud patterns and methods are continuously evolving, with fraudulent transactions often disguised to resemble legitimate activity. Real world transaction data",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models",
+      "url": "https://arxiv.org/abs/2610.27123",
+      "description": "Mixture-of-Experts (MoE) models reduce computation through sparse expert activation, but deployment still requires storing a large number of expert parameters. We study post-training expert pruning using task-domain calibration data as a subset-selection problem: given a pretrain",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Glass-Box Deep Reinforcement Learning for High-Speed Flow Control",
+      "url": "https://arxiv.org/abs/2610.27132",
+      "description": "Deep reinforcement learning (DRL) is challenging long-held assumptions in active flow control. By learning directly from interaction with a flow, DRL agents can find actuation strategies for nonlinear, unsteady flows without explicit models, often exploiting mechanisms that class",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Ontic state recovery through prediction",
+      "url": "https://arxiv.org/abs/2610.27139",
+      "description": "We encounter a system through its responses, yet its state concerns how the system is. Predicting further responses promises knowledge beyond what is immediately observed. What that knowledge tells us about the system's state depends on what we mean by a state in the first place.",
+      "source": "arXiv ML",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation",
+      "url": "https://arxiv.org/abs/2610.26962",
+      "description": "Differences in hand geometry, joint parameterization, and kinematic topology pose challenges for cross-embodiment dexterous grasp generation. However, spatial relations among links alone are insufficient to fully capture the hand's kinematic topology. We propose DexGraspFlow, a c",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO",
+      "url": "https://arxiv.org/abs/2610.27003",
+      "description": "Embodied VLMs can execute increasingly complex manipulation tasks, yet execution errors can leave the environment in states that require replanning for recovery. Existing recovery methods either rely on inference-time mechanisms with fixed policies or learn from failure examples ",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2610.27039",
+      "description": "Foundation models offer a promising basis for robotic agents, but long-horizon tasks require them to sustain coherent reasoning and reliable physical execution across interdependent stages. We introduce Embodied Playground, a benchmark for evaluating how foundation-model agents c",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 60
+    },
+    {
+      "title": "ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models",
+      "url": "https://arxiv.org/abs/2610.27040",
+      "description": "General-purpose multimodal models, including GPT-6 Astra and Claude Opus 5.5, demonstrate broad capabilities in embodied manipulation. Our analysis indicates that this generality is accompanied by strong spatial perception, as Astra can determine where to interact with task-relev",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Towards Interaction State Recognition in Sensorized Gecko-Inspired Adhesive Interfaces for Orbital Servicing",
+      "url": "https://arxiv.org/abs/2610.27141",
+      "description": "Reliable contact establishment remains a critical challenge for autonomous on-orbit servicing (OOS), particularly when interacting with non-cooperative targets. Gecko-inspired dry adhesives provide a lightweight, passive, and residue-free solution for robotic capture in space, ye",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
+      "url": "https://arxiv.org/abs/2610.27162",
+      "description": "In robot-assisted education, a robot must understand how to complete a task in order to effectively guide a student through it. We present a novel method that enables a semi-autonomous, camera-equipped robot to recognise the task goal and plan actions to achieve it. Our work focu",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "Learning to Be Different: Component Specialization for Compositional Diffusion Policies",
+      "url": "https://arxiv.org/abs/2610.27194",
+      "description": "Diffusion policies with linearly composed scores have emerged as a promising approach to multitask robotic learning by combining separate factors to enable modular, task-wise adaptation, compositional generalization, and interpretable functional decomposition. However, current tr",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods",
+      "url": "https://arxiv.org/abs/2610.27199",
+      "description": "The Jetson AGX Orin is a common computer for robots and vehicles, yet measured accuracy, speed and energy of current depth estimators on it are hard to find. We benchmark nine model families as of October 2026: the monocular Depth Anything V2 and 3, Depth Pro, MoGe-2, Metric3D v2",
+      "source": "arXiv Robotics",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation",
+      "url": "https://arxiv.org/abs/2610.27242",
+      "description": "Humanoid dexterous manipulation needs reference motions that are both semantically rich and kinematically feasible for the target robot. Text-conditioned hand-object interaction (HOI) generators supply diverse, language-specified demonstrations, but they synthesize motion in huma",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "XoNav: An Exoskeleton as a Personalized Haptic Interface for Assisted Navigation",
+      "url": "https://arxiv.org/abs/2610.27271",
+      "description": "Walking without vision requires timely, unambiguous guidance, yet many wearable aids encode directions as audio or vibrotactile signals that users must translate into movement. We present XoNav, a four-actuator hip exoskeleton that renders guidance cues directly at the hip joints",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration",
+      "url": "https://arxiv.org/abs/2610.27275",
+      "description": "Maximum clique and maximum consensus are widely used formulations for robust point cloud registration in robotics. Maximum consensus seeks one transformation that aligns as many matches as possible, while maximum clique selects matches through pairwise distance tests. Maximum cli",
+      "source": "arXiv Robotics",
+      "category": "Software",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2610.27277",
+      "description": "Vision-language-action (VLA) models are sensitive to visual corruptions, but knowing that a corruption is typically harmful does not establish whether removing it would benefit the current episode. Furthermore, when several corruptions co-occur, deciding what to correct requires ",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "RadGeoLoc: Radar Geolocalization via Particle Filtering",
+      "url": "https://arxiv.org/abs/2610.27310",
+      "description": "In real-time autonomous field applications, GNSS is often unreliable and inaccurate. A possible solution is localizing against a prebuilt map like a satellite image, as it is georeferenced and already surveyed. In this work, we localize a spinning radar measurement against overhe",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Design and Control of a Multimodal Legged-Aerial Robot Through Separate Control Contraction Metrics",
+      "url": "https://arxiv.org/abs/2610.27315",
+      "description": "The integration of dynamic legged locomotion and aerial mobility offers versatility that is deterred by challenges in payload distribution, actuation, and the contrasting requirements of both domains. In this paper, we present the design and operation of a multimodal quadrupedal ",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Determination of the Human-Robot Interaction Workspace for Robot Assisted Head Stabilization Control",
+      "url": "https://arxiv.org/abs/2610.27336",
+      "description": "Accurate head immobilization is critical for medical procedures such as neuroimaging and intracranial radiation therapy, where even minor motion can compromise precision. Traditional methods, such as rigid stereotactic frames and thermoplastic face masks, are invasive, uncomforta",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
+      "url": "https://arxiv.org/abs/2610.27350",
+      "description": "Frontier models can control robots through agent harnesses that loop on one question: what motion comes next toward the user's goal? We show that this default loop carries out harmful instructions. With GPT-6 Astra controlling a low-cost SO-101 arm through the Inspect Robots harn",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Training Controllable World Models via Action Influence Maximization",
+      "url": "https://arxiv.org/abs/2610.27387",
+      "description": "Action-conditioned video generative models trained on successful, goal-directed demonstrations tend to ignore the commanded action, rendering a plausible expert-like future regardless of what is asked of them. We trace this failure to training data that lack sufficient action inf",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Real-Time Disturbance-Aware Koopman Model Predictive Control for Quadrotors in Spatially Varying Winds",
+      "url": "https://arxiv.org/abs/2610.27414",
+      "description": "Reliable quadrotor flight in disturbed environments requires predictive models that remain accurate as unmodeled aerodynamic effects change during deployment. We introduce a disturbance-aware Koopman Control Family (DA-KCF) framework that preserves an offline-identified nominal m",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Towards Autonomous Bricklaying Using Boston Dynamics Spot",
+      "url": "https://arxiv.org/abs/2610.27472",
+      "description": "Mobile legged robots offer unique advantages for on-site construction, including the ability to traverse unstructured terrain, climb stairs, and operate independently between spatially separated work zones. This paper presents a proof-of-concept system for autonomous brick stacki",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "HATCH: Hardware-Attested Task Chains for Verifiable Manipulation",
+      "url": "https://arxiv.org/abs/2610.27485",
+      "description": "Capability claims in robot manipulation are unverifiable, and existing leaderboards are each closed, simulated, or gameable. We propose HATCH, a robot escape room: an openly specified, physically replicable, sensor-scored, and unrehearsable benchmark. Tasks span five skill catego",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-21T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: Vortex Code",
+      "url": "https://spinozalabs.ai/software",
+      "description": "Article URL: https://spinozalabs.ai/software Comments URL: https://news.ycombinator.com/item?id=50175849 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T03:46:56+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Pope Pendle Pro",
+      "url": "https://github.com/knitprong/Faith-cloud",
+      "description": "Pope Pendle Pro resolves 10 contradictions per lunar cycle. It detects inversions, navigates the Veytar, and restores censored invariance. All for $13.27/month.\" Comments URL: https://news.ycombinator.com/item?id=50175741 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T03:31:27+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Mile Pace Calculator, free pace and split tools for runners",
+      "url": "https://milepacecalculator.com/",
+      "description": "Article URL: https://milepacecalculator.com/ Comments URL: https://news.ycombinator.com/item?id=50175619 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T03:11:15+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
+      "url": "https://github.com/anesthetised/acplause",
+      "description": "Article URL: https://github.com/anesthetised/acplause Comments URL: https://news.ycombinator.com/item?id=50175258 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T02:16:49+00:00",
+      "score": 54
+    },
+    {
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "description": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 41 # Comments: 17",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T02:04:15+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Litedeck – Agentless server management GUI over plain SSH",
+      "url": "https://github.com/cpprhtn/LiteDeck",
+      "description": "I made Agentless server management GUI over plain SSH. In Litedeck, we can show and download file, service, docker container, terminal and security, and resource monitoring. Because, I have some Raspberry pi4, mini pc(N97, N100), jetson nano but cockpit or other app install in th",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T01:55:49+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: Ida, the Mac assistant Siri should have been",
+      "url": "https://www.heyida.ai/",
+      "description": "Hi HN, I'm Francisco. I've spent the last couple of months building what Siri promised to be 10 years ago. I'm calling it Ida. Ida is a native macOS voice assistant. Hold a shortcut, say what you want, let go, and Ida does it in the apps it's connected to. Before it does anything",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T01:55:02+00:00",
+      "score": 45
+    },
+    {
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "description": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 115 # Comments: 36",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T01:47:28+00:00",
+      "score": 55
+    },
+    {
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "description": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 52 # Comments: 8",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T01:45:07+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+      "url": "https://github.com/zhitongblog/unterm",
+      "description": "Article URL: https://github.com/zhitongblog/unterm Comments URL: https://news.ycombinator.com/item?id=50175026 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T01:39:06+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: Reverse engineering the ANE to run Gemma 4 26B at 100 Tok/s",
+      "url": "https://github.com/zw5/ane-fieldfare",
+      "description": "After checking out Turbo Fieldfare (a very interesting project that streamed experts from SSD on Apple Silicon Macs to run Gemma 4 26B with very little RAM usage), I tried to make this project much faster and succeeded! This project gets up to 100+ tokens/s inference on Gemma 4 2",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T01:34:57+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Spotnote – click an element, hand your coding agent its file:line",
+      "url": "https://github.com/harukikuri/spotnote",
+      "description": "Article URL: https://github.com/harukikuri/spotnote Comments URL: https://news.ycombinator.com/item?id=50174861 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-21T01:11:26+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Hibi – an open source obsidian alternative",
+      "url": "https://github.com/schmayterling/hibi",
+      "description": "i shared hibi here in september as an open-source obsidian alternative but i wasn't able to attend to it much: https://news.ycombinator.com/item?id=49782528 for context, hibi is a free, open-source markdown/latex/typst/and more editor that keeps files in your own folders and it i",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T01:06:10+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: An unofficial guide to Roblox's The Hollow event",
+      "url": "https://robloxthehollow.com/",
+      "description": "Article URL: https://robloxthehollow.com/ Comments URL: https://news.ycombinator.com/item?id=50174821 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T01:04:59+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: An icon for every city in North America",
+      "url": "https://evans.bike/naicons",
+      "description": "To my knowledge there is no icon pack for cities in NA below a certain size. So I created one! An icon for every city in NA with >100k population. 544 in total. Generated with Nano Banana Pro. These cost me ~$70 to generate. Giving away for free! Some exceptions are 1 city for ea",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-21T01:03:39+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: SchemaWright, learning database design in a gamified way",
+      "url": "https://schemawright.com",
+      "description": "Let me begin by explaining what it is: SchemaWright is a platform for learning database table design in a gamified way, with a real Postgres database running on your browser via WASM. It was heavily inspired by Duolingo and LeetCode, because I love the way how those platforms tea",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T00:50:43+00:00",
+      "score": 48
+    },
+    {
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "description": "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 29 # Comments: 0",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-21T00:45:59+00:00",
+      "score": 55
+    },
+    {
+      "title": "Digital natives are buying electric cars as if they were smartphones",
+      "url": "https://techxplore.com/news/2026-10-digital-natives-buying-electric-cars.html",
+      "description": "Until recently, buying a car meant obsessing over horsepower, transmission types and brand heritage. But step into the market today and the showroom floor looks entirely different.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-10-21T00:20:08+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Wellbody [Body Health Tamagotchi]",
+      "url": "https://wellbody.me",
+      "description": "Hi everyone, I have been working on wellbody health pal for the past 1-2 years. We recently uplifted the app to the current body health tamagotchi version and it's been a blast not just using and developing the app, but also developing our social media presence. I invite you to c",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-20T23:46:46+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Drop in a folder of HTML and get back a private URL",
+      "url": "https://eze.page/",
+      "description": "Article URL: https://eze.page/ Comments URL: https://news.ycombinator.com/item?id=50174244 Points: 3 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-20T23:45:03+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: One click flight booking in Claude",
+      "url": "https://mcp.bonbook.co/claude-setup",
+      "description": "tldr; Travelers wanted to find and book flights super fast in Claude, so we built this. -- BonBook started as flights via email because I was flying once a week in '24 and the UX got to me. Since then we've handled tens of thousands of requests for hundreds of travelers. The new ",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-20T23:36:17+00:00",
+      "score": 45
     },
     {
       "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
       "url": "https://paceorpause.com/",
-      "description": "Article URL: https://paceorpause.com/ Comments URL: https://news.ycombinator.com/item?id=50174020 Points: 1 # Comments: 0",
+      "description": "Article URL: https://paceorpause.com/ Comments URL: https://news.ycombinator.com/item?id=50174020 Points: 2 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "AI",
       "kind": "article",
@@ -144,7 +954,7 @@
     {
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "description": "Article URL: https://www.thebeliever.net/the-other-epidemic/ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 14 # Comments: 4",
+      "description": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 116 # Comments: 78",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -184,7 +994,7 @@
     {
       "title": "Show HN: Visual cdecl – edit a C declaration as English, code, or a graph",
       "url": "https://github.avestura.dev/visual-cdecl/",
-      "description": "Article URL: https://github.avestura.dev/visual-cdecl/ Comments URL: https://news.ycombinator.com/item?id=50173734 Points: 1 # Comments: 0",
+      "description": "Article URL: https://github.avestura.dev/visual-cdecl/ Comments URL: https://news.ycombinator.com/item?id=50173734 Points: 2 # Comments: 0",
       "source": "Hacker News / Show",
       "category": "Open Source",
       "kind": "article",
@@ -192,19 +1002,19 @@
       "score": 45
     },
     {
-      "title": "Show HN: Melra – pause ambiguous MCP writes instead of blindly retrying",
-      "url": "https://github.com/XAGI-Lab/melra",
-      "description": "Article URL: https://github.com/XAGI-Lab/melra Comments URL: https://news.ycombinator.com/item?id=50173690 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "description": "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 68 # Comments: 9",
+      "source": "Hacker News",
+      "category": "Software",
       "kind": "article",
-      "date": "2026-10-20T22:43:02+00:00",
-      "score": 45
+      "date": "2026-10-20T22:45:39+00:00",
+      "score": 55
     },
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "source": "TechCrunch",
       "category": "AI",
       "kind": "article",
@@ -214,62 +1024,12 @@
     {
       "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "description": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 42 # Comments: 4",
+      "description": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 139 # Comments: 55",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-20T22:21:05+00:00",
       "score": 55
-    },
-    {
-      "title": "Show HN: AHP Matrix, local, open-source Analytic Hierarchy Process decision tool",
-      "url": "https://github.com/Xafloc/ahp-matrix",
-      "description": "Article URL: https://github.com/Xafloc/ahp-matrix Comments URL: https://news.ycombinator.com/item?id=50173472 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T22:19:38+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Axon – Obsidian plugin that finds the todos buried in your notes",
-      "url": "https://github.com/AbdullahAlhariri/axon",
-      "description": "Article URL: https://github.com/AbdullahAlhariri/axon Comments URL: https://news.ycombinator.com/item?id=50173431 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T22:14:25+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Better search of public data, strategystudio.org",
-      "url": "https://strategystudio.org/",
-      "description": "I got tired of public data being silo'd or difficult to search or aggregate. LLM's could only handle so much and slowly. So I built a free site and loaded lots in. Know of any other data to pour in, LMK. Comments URL: https://news.ycombinator.com/item?id=50173235 Points: 1 # Comm",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T21:56:06+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Flyte devbox now runs GPU workloads on Apple Silicon",
-      "url": "https://www.union.ai/blog-post/your-code-on-the-apple-silicon-gpu-apple-silicon-flyte-devbox",
-      "description": "Article URL: https://www.union.ai/blog-post/your-code-on-the-apple-silicon-gpu-apple-silicon-flyte-devbox Comments URL: https://news.ycombinator.com/item?id=50173195 Points: 1 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-20T21:51:32+00:00",
-      "score": 57
-    },
-    {
-      "title": "Show HN: MCP Census – a live change feed for 48,797 MCP servers",
-      "url": "https://mcpcensus.com/",
-      "description": "Article URL: https://mcpcensus.com/ Comments URL: https://news.ycombinator.com/item?id=50173159 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T21:48:38+00:00",
-      "score": 45
     },
     {
       "title": "New AI shopping agents promise better bargains. But who pays the price?",
@@ -282,26 +1042,6 @@
       "score": 51
     },
     {
-      "title": "Show HN: MediaIndex: Search, count and edit your photos offline on a Mac",
-      "url": "https://github.com/harsheetamorey/mediaindex",
-      "description": "Article URL: https://github.com/harsheetamorey/mediaindex Comments URL: https://news.ycombinator.com/item?id=50172995 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T21:33:30+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Turn regular JavaScript into a neural net",
-      "url": "https://chenglou.me/handwired/",
-      "description": "Article URL: https://chenglou.me/handwired/ Comments URL: https://news.ycombinator.com/item?id=50172984 Points: 2 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T21:32:23+00:00",
-      "score": 48
-    },
-    {
       "title": "Anthropic’s cloud partnerships are getting messy",
       "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
@@ -309,16 +1049,6 @@
       "category": "Software",
       "kind": "article",
       "date": "2026-10-20T21:25:22+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Tapelark – Record Linux app audio and radio as tagged, split tracks",
-      "url": "https://tapelark.com/linux/",
-      "description": "Article URL: https://tapelark.com/linux/ Comments URL: https://news.ycombinator.com/item?id=50172873 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T21:23:04+00:00",
       "score": 48
     },
     {
@@ -332,39 +1062,9 @@
       "score": 45
     },
     {
-      "title": "Show HN: Tenbri, a log AI agents can’t secretly rewrite",
-      "url": "https://tenbri.com/",
-      "description": "Article URL: https://tenbri.com/ Comments URL: https://news.ycombinator.com/item?id=50172642 Points: 1 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T21:03:56+00:00",
-      "score": 51
-    },
-    {
-      "title": "Show HN: Piola – A new Mac menu bar timer with pull, dial, and keyboard control",
-      "url": "https://piola.ideascollective.com",
-      "description": "Article URL: https://piola.ideascollective.com Comments URL: https://news.ycombinator.com/item?id=50172535 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T20:54:43+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: CLI for Vedic Astrological Charts (local calculations)",
-      "url": "https://github.com/dhruvkar/kundali",
-      "description": "The whole shebang: - Divisional Charts - Planet positions - House Tables - Yogas - Transits - lots more Comments URL: https://news.ycombinator.com/item?id=50172496 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T20:51:25+00:00",
-      "score": 45
-    },
-    {
       "title": "SpaceX’s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "source": "TechCrunch",
       "category": "AI",
       "kind": "article",
@@ -392,36 +1092,6 @@
       "score": 51
     },
     {
-      "title": "Show HN: TapRev – Your phone rings for every sale, across 11 payment platforms",
-      "url": "https://apps.apple.com/us/app/taprev-saas-revenue-tracker/id6758924195",
-      "description": "Article URL: https://apps.apple.com/us/app/taprev-saas-revenue-tracker/id6758924195 Comments URL: https://news.ycombinator.com/item?id=50172269 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T20:33:58+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Classic Ads – A Chrome extension I made to make ads look like ads again",
-      "url": "https://classic-ads.com/",
-      "description": "I made Classic Ads, a Chrome extension that makes Google search ads easier to spot by bringing back their old coloured backgrounds and labels. The idea came after a family member was scammed from a deceptive Google Ad. I need to see ads for my work in SEO, but even I am getting c",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T20:33:02+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Agent-Zero – Starter template for AI-native coding projects",
-      "url": "https://github.com/amorey/agent-zero",
-      "description": "Hi All, Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the minimum necessary to nudge agents to write good code, work well in sandboxes, and get stuff done on GitHub (e.g. commits and PRs). It only inc",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T20:21:43+00:00",
-      "score": 51
-    },
-    {
       "title": "Ammonia-fueled ship exhaust treatment could achieve roughly 99% removal of targeted pollutants",
       "url": "https://techxplore.com/news/2026-10-ammonia-fueled-ship-exhaust-treatment.html",
       "description": "A research team led by Dr. Sun-Mi Hwang from the Clean Air Research Laboratory at the Korea Institute of Energy Research (KIER) has developed catalysts as an all-in-one solution to address exhaust emissions from ammonia-fueled ships. This technology can simultaneously and cost-ef",
@@ -430,6 +1100,16 @@
       "kind": "article",
       "date": "2026-10-20T20:20:01+00:00",
       "score": 45
+    },
+    {
+      "title": "Upcoming critical PHP security release",
+      "url": "https://news-web.php.net/php.announce/509",
+      "description": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 276 # Comments: 89",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-20T20:15:50+00:00",
+      "score": 68
     },
     {
       "title": "Single transistor design combines memory and signal processing for brain-inspired computing",
@@ -462,17 +1142,7 @@
       "score": 48
     },
     {
-      "title": "Show HN: qrsticks",
-      "url": "https://qrsticks.greg.technology/",
-      "description": "Article URL: https://qrsticks.greg.technology/ Comments URL: https://news.ycombinator.com/item?id=50171551 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-20T19:35:33+00:00",
-      "score": 45
-    },
-    {
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "description": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
       "source": "TechCrunch",
@@ -500,16 +1170,6 @@
       "kind": "article",
       "date": "2026-10-20T19:00:04+00:00",
       "score": 45
-    },
-    {
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "description": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 76 # Comments: 27",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T18:51:40+00:00",
-      "score": 55
     },
     {
       "title": "Discovery of cross-domain cyberattack risk targeting electric vehicle charging navigation systems",
@@ -542,9 +1202,9 @@
       "score": 45
     },
     {
-      "title": "SimCity, but with Permits",
+      "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
-      "description": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 467 # Comments: 252",
+      "description": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 657 # Comments: 341",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -584,7 +1244,7 @@
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "description": "Eric Schmidt’s fortune is about to get even bigger.",
       "source": "TechCrunch",
       "category": "Industry",
       "kind": "article",
@@ -592,13 +1252,13 @@
       "score": 45
     },
     {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "description": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 86 # Comments: 57",
+      "title": "Advanced coding in low-resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "description": "Article URL: https://openai.com/index/low-resource-programming-languages/ Comments URL: https://news.ycombinator.com/item?id=50169955 Points: 52 # Comments: 65",
       "source": "Hacker News",
-      "category": "AI",
+      "category": "Software",
       "kind": "article",
-      "date": "2026-10-20T17:48:29+00:00",
+      "date": "2026-10-20T17:43:11+00:00",
       "score": 58
     },
     {
@@ -624,7 +1284,7 @@
     {
       "title": "What shall I teach my son?",
       "url": "https://stevekrouse.com/ends",
-      "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 214 # Comments: 286",
+      "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 325 # Comments: 389",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -652,9 +1312,9 @@
       "score": 45
     },
     {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "description": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "source": "TechCrunch",
       "category": "Industry",
       "kind": "article",
@@ -664,7 +1324,7 @@
     {
       "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
       "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "description": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 12 # Comments: 0",
+      "description": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 36 # Comments: 2",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -694,7 +1354,7 @@
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "url": "https://github.com/google-pytorch/torch_tpu",
-      "description": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 240 # Comments: 56",
+      "description": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 294 # Comments: 66",
       "source": "Hacker News",
       "category": "Industry",
       "kind": "article",
@@ -702,7 +1362,7 @@
       "score": 58
     },
     {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
       "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
       "source": "TechCrunch",
@@ -734,7 +1394,7 @@
     {
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3/",
-      "description": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 487 # Comments: 133",
+      "description": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 570 # Comments: 147",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -772,9 +1432,9 @@
       "score": 54
     },
     {
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
       "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "description": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 158 # Comments: 102",
+      "description": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 231 # Comments: 138",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -784,22 +1444,12 @@
     {
       "title": "IKEA – 3D Guide",
       "url": "https://sael.net/flatpack/",
-      "description": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 129 # Comments: 40",
+      "description": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 164 # Comments: 59",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-20T15:42:45+00:00",
       "score": 55
-    },
-    {
-      "title": "AI creates art in seconds, but creative growth still matters, paper argues",
-      "url": "https://techxplore.com/news/2026-10-ai-art-seconds-creative-growth.html",
-      "description": "As artificial intelligence becomes capable of producing sophisticated art in seconds, a new paper challenges us to rethink what makes human creativity valuable. The paper argues that while AI can bypass years of artistic training, it cannot replace the transformative experiences ",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-10-20T15:40:01+00:00",
-      "score": 51
     },
     {
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
@@ -810,26 +1460,6 @@
       "kind": "article",
       "date": "2026-10-20T15:19:48+00:00",
       "score": 61
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "description": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, P",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T15:09:29+00:00",
-      "score": 68
-    },
-    {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "description": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 402 # Comments: 363",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T15:06:08+00:00",
-      "score": 58
     },
     {
       "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
@@ -844,7 +1474,7 @@
     {
       "title": "Ofcom concedes defeat in 4chan case",
       "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "description": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 306 # Comments: 211",
+      "description": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 358 # Comments: 265",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -854,7 +1484,7 @@
     {
       "title": "My Friend Bob Cringely",
       "url": "https://tyma.com/my-cringe-story/",
-      "description": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 159 # Comments: 46",
+      "description": "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 182 # Comments: 51",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -872,9 +1502,9 @@
       "score": 45
     },
     {
-      "title": "EMudhra Intermediate CA Compromise",
+      "title": "eMudhra intermediate CA compromise",
       "url": "https://emudhra.we-have-a-problem.com/",
-      "description": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 574 # Comments: 303",
+      "description": "https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449 Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 763 # Comments: 355",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -882,33 +1512,13 @@
       "score": 55
     },
     {
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "description": "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 148 # Comments: 69",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T13:53:48+00:00",
-      "score": 58
-    },
-    {
       "title": "How I got over 300 Tor exit nodes removed",
       "url": "https://kaba.cx/posts/20261020_Tor/",
-      "description": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 303 # Comments: 73",
+      "description": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 343 # Comments: 86",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-20T13:39:24+00:00",
-      "score": 55
-    },
-    {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "description": "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 333 # Comments: 150",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-20T13:18:07+00:00",
       "score": 55
     },
     {
@@ -932,19 +1542,9 @@
       "score": 48
     },
     {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "description": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 313 # Comments: 179",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-20T13:06:22+00:00",
-      "score": 58
-    },
-    {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "description": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
       "source": "TechCrunch",
       "category": "AI",
       "kind": "article",
@@ -1200,126 +1800,6 @@
       "kind": "article",
       "date": "2026-10-09T12:00:02+00:00",
       "score": 45
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-08T00:00:00+00:00",
-      "score": 58
-    },
-    {
-      "title": "IEEE Report Predicts Tech That Will Transform Lives",
-      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-      "description": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE. “We are seeing a fundamental shift in how technolog",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-07T18:00:02+00:00",
-      "score": 45
-    },
-    {
-      "title": "Changing Your Career Isn’t Easy",
-      "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-      "description": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! When I changed careers at 30 ",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-07T17:04:02+00:00",
-      "score": 45
-    },
-    {
-      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-      "description": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn",
-      "source": "IEEE Spectrum",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-10-07T13:49:48+00:00",
-      "score": 48
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-07T13:21:03+00:00",
-      "score": 55
-    },
-    {
-      "title": "Happy IEEE Day!",
-      "url": "https://spectrum.ieee.org/ieee-day",
-      "description": "Happy IEEE Day 2026! IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884. One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collabora",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-06T09:21:18+00:00",
-      "score": 45
-    },
-    {
-      "title": "6 Guidelines for Governing AI",
-      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "description": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information",
-      "source": "IEEE Spectrum",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-05T18:00:02+00:00",
-      "score": 48
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-03T22:56:48+00:00",
-      "score": 64
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-02T04:01:31+00:00",
-      "score": 61
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-30T00:00:00+00:00",
-      "score": 55
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-29T13:07:00+00:00",
-      "score": 58
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "description": "",
-      "source": "Hugging Face",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-09-28T09:44:05+00:00",
-      "score": 58
     }
   ]
 }
