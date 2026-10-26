@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T23:18:18.233902+00:00",
+  "generated_at": "2026-10-26T04:50:23.967347+00:00",
   "items": [
     {
       "title": "makecindy / cindy",
@@ -8,7 +8,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086424+00:00",
+      "date": "2026-10-26T04:50:21.997630+00:00",
       "score": 55
     },
     {
@@ -18,7 +18,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086395+00:00",
+      "date": "2026-10-26T04:50:21.997606+00:00",
       "score": 55
     },
     {
@@ -28,7 +28,7 @@
       "source": "GitHub Trending",
       "category": "Industry",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086351+00:00",
+      "date": "2026-10-26T04:50:21.997584+00:00",
       "score": 58
     },
     {
@@ -38,7 +38,7 @@
       "source": "GitHub Trending",
       "category": "Robotics",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086327+00:00",
+      "date": "2026-10-26T04:50:21.997558+00:00",
       "score": 61
     },
     {
@@ -48,7 +48,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086305+00:00",
+      "date": "2026-10-26T04:50:21.997514+00:00",
       "score": 55
     },
     {
@@ -58,7 +58,7 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086282+00:00",
+      "date": "2026-10-26T04:50:21.997491+00:00",
       "score": 55
     },
     {
@@ -68,7 +68,7 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086252+00:00",
+      "date": "2026-10-26T04:50:21.997463+00:00",
       "score": 58
     },
     {
@@ -78,7 +78,7 @@
       "source": "GitHub Trending",
       "category": "AI",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086229+00:00",
+      "date": "2026-10-26T04:50:21.997441+00:00",
       "score": 58
     },
     {
@@ -88,7 +88,7 @@
       "source": "GitHub Trending",
       "category": "Industry",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086201+00:00",
+      "date": "2026-10-26T04:50:21.997414+00:00",
       "score": 61
     },
     {
@@ -98,8 +98,708 @@
       "source": "GitHub Trending",
       "category": "Software",
       "kind": "repository",
-      "date": "2026-10-25T23:18:17.086161+00:00",
+      "date": "2026-10-26T04:50:21.997369+00:00",
       "score": 61
+    },
+    {
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "description": "Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relations",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "description": "Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually wri",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "description": "Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper propo",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "description": "Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting fr",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "description": "Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fi",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "url": "https://arxiv.org/abs/2610.31882",
+      "description": "We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuo",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.31916",
+      "description": "A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission ",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "url": "https://arxiv.org/abs/2610.31918",
+      "description": "Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hierarchic",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+      "url": "https://arxiv.org/abs/2610.31937",
+      "description": "Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely on heuristics or impose strong assumptions that limit their applicability in ful",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+      "url": "https://arxiv.org/abs/2610.31971",
+      "description": "Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through expli",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+      "url": "https://arxiv.org/abs/2610.31972",
+      "description": "Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation harness for a production con",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+      "url": "https://arxiv.org/abs/2610.31985",
+      "description": "LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying to",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+      "url": "https://arxiv.org/abs/2610.32022",
+      "description": "Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two notable paradigms for addressing this task: structured symbolic reasoning and mul",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "BARC-Bench: Benign Asks, Risky Consequences",
+      "url": "https://arxiv.org/abs/2610.32024",
+      "description": "Task instructions from users for agents are inherently underspecified, especially regarding safety boundaries--creating behavioral risks. To study these risks, we introduce BARC-Bench, a collection of 110 tasks across nine simulated workspace environments where benign requests le",
+      "source": "arXiv AI",
+      "category": "Research",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+      "url": "https://arxiv.org/abs/2610.32026",
+      "description": "Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experience across runs. We introduce",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
+      "url": "https://arxiv.org/abs/2610.32034",
+      "description": "The growing population of orbital debris has intensified interest in active debris removal and on-orbit servicing, for which dual-arm space manipulators offer improved grasping stability and load distribution relative to single-arm systems. However, coordinating two manipulators ",
+      "source": "arXiv AI",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Do AI-for-Science Agents Preserve Model Safety?",
+      "url": "https://arxiv.org/abs/2610.32045",
+      "description": "AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent harness, which in turn can imp",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+      "url": "https://arxiv.org/abs/2610.32046",
+      "description": "Recent \\emph{test-time training} (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight update",
+      "source": "arXiv AI",
+      "category": "Hardware",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
+      "url": "https://arxiv.org/abs/2610.32057",
+      "description": "We present HyScale, a long-context training system for learned sparse attention. Learned sparse attention is a promising architecture for million-token contexts, widely adopted in production since DeepSeek-V3.2. Selection, however, grows into the training bottleneck. For each que",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2610.32060",
+      "description": "Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final accuracy alone cannot explain. Agents may converge too early, ignore dissent, suppress correct minority answers, or pre",
+      "source": "arXiv AI",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space",
+      "url": "https://arxiv.org/abs/2610.31762",
+      "description": "What visual representation should a navigation policy act on? Navigation policies built on vision foundation models largely leave representation design to the encoders' pretraining objectives. We present RepresentNav, a navigation foundation model built on a self-constructed repr",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "FLORA: An Open Model Suite for Scaling Robotics Data Engines",
+      "url": "https://arxiv.org/abs/2610.31779",
+      "description": "The life-cycle of robotics foundation models crucially depends on data labels. Outcome reward labels are needed for monitoring real-world deployments. Process reward labels are needed during RL post-training. Timestamped captions are needed for filtering and balancing pretraining",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations",
+      "url": "https://arxiv.org/abs/2610.31801",
+      "description": "Segmenting robot demonstration data into disjoint temporal and semantic subsegments is valuable for learning, cleaning, retrieval, and analysis. Segmentation is often performed manually in a tedious and error prone process. Multimodal Large Language Models (MLLMs) have the potent",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "PrefO2O: Zero-Shot Preference-Based Reinforcement Learning via Offline-to-Online Latent Preference Transfer",
+      "url": "https://arxiv.org/abs/2610.31812",
+      "description": "Preference-based reinforcement learning (PbRL) has emerged as a promising paradigm for learning robot behaviors aligned with human intent. However, its scalability is fundamentally limited by the need to collect expensive human preference labels for every new task. In this work, ",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "SEVI: Safe Evidential Real-World Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.31829",
+      "description": "Real-world reinforcement learning has enabled contact-rich manipulation tasks to be trained directly on physical robots, but unsafe interactions during online learning remain a key barrier to practical deployment. We propose Safe Evidential Real-World Reinforcement Learning (SEVI",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations",
+      "url": "https://arxiv.org/abs/2610.31834",
+      "description": "Existing approaches for robot learning in simulation often require substantial manual effort to construct scenes and specify tasks, limiting training scalability and data diversity. Meanwhile, in-the-wild robot demonstrations naturally provide diverse and realistic observations o",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation",
+      "url": "https://arxiv.org/abs/2610.31841",
+      "description": "Coding agents can translate language instructions into robot programs. For contact-rich manipulation, a key challenge is to generate and refine control logic that responds to physical interaction. We present FORCA, a coding agent that takes visual observations and wrist force/tor",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 54
+    },
+    {
+      "title": "EgoForesight: Effectively Scaling Policy Learning with Noisy Egocentric Actions",
+      "url": "https://arxiv.org/abs/2610.31845",
+      "description": "Scaling policy learning requires broad experience and reliable supervision. Robot demonstrations provide high-quality trajectory supervision but are costly to collect. Egocentric videos broaden task and environment coverage, yet motion reconstruction and retargeting introduce noi",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Multimodal MPC via Bayesian Set Optimization for Dynamic Manipulation of Deformable Linear Objects",
+      "url": "https://arxiv.org/abs/2610.31852",
+      "description": "Dynamic manipulation of deformable linear objects (DLOs) remains challenging due to underactuated, high-dimensional dynamics, delayed deformation responses, and the presence of multiple feasible motions under obstacle constraints. This paper presents BM2PC, a Bayesian Multimodal ",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Full-Weight VLA Fine-Tuning Without an fp32 Master Copy Silently Erases Most Updates",
+      "url": "https://arxiv.org/abs/2610.31859",
+      "description": "When a vision-language-action (VLA) model is fine-tuned with its trainable weights in bfloat16 (bf16) and no fp32 master copy, AdamW writes each update straight into bf16, silently rounding away any update smaller than 1/512 of a weight. In 9 of 12 open VLA codebases a default or",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Emergent Cooperative Thermoregulation in Lunar Swarm Robotics",
+      "url": "https://arxiv.org/abs/2610.31868",
+      "description": "Swarms of small robots are an attractive way to survey lunar caves and lava tubes. Missions such as NASA's CADRE will fly cooperating rovers for distributed mapping, but only in daylight. The 354 h lunar night drops the surface towards 95 K, and the radioisotope heaters that let ",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Move, don't think: sample-efficient collision avoidance with lossy proximity sensors",
+      "url": "https://arxiv.org/abs/2610.31891",
+      "description": "Data-driven robots must learn to avoid collisions with as few demonstrations as possible to avoid collecting large datasets of destructive collision examples. We explore whole-body proximity sensors as inductive biases for learning reflexive collision-dodging behavior and find th",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Silence Is Not Assurance: When Production Lane Keeping Assist Does Not Warn, and What It Costs",
+      "url": "https://arxiv.org/abs/2610.31899",
+      "description": "Production lane keeping assist (LKA) systems tell the driver whether they detect the lane markings, but whether this displayed status reflects what the system perceives, and what happens when it does not, has not been examined in real-world driving. This study introduces CANDID-L",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Distributed Swarm Morphogenesis with Neural Cellular Automata",
+      "url": "https://arxiv.org/abs/2610.31900",
+      "description": "Swarm morphogenesis requires robots to assemble desired shapes through local interactions. We present a modular framework integrating neural cellular automata (NCA) with existing site selection and collision-aware control. Within this framework, we introduce a decentralized attac",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Input Bias Correction in Gaussian Process Regression",
+      "url": "https://arxiv.org/abs/2610.31920",
+      "description": "In traditional Gaussian process (GP) regression, the inputs are typically assumed to be known, and uncertainty enters only through the measurements. When scalar fields are mapped using GP regression with measurements obtained from a mobile sensor, the inputs correspond to the est",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Robotic Budding: From Homogeneous Cells to Diverse Morphologies in Physical Self-Reproduction",
+      "url": "https://arxiv.org/abs/2610.31929",
+      "description": "Physical self-reproduction in modular robots remains difficult because a robot must not only move, but also collect, align, dock, and separate modules reliably in hardware. Taking inspiration from how genetically identical cells form the varied tissues of an organism, we introduc",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning",
+      "url": "https://arxiv.org/abs/2610.32093",
+      "description": "Behavior cloning for robotic manipulation is highly sensitive to the coverage of its training data, yet collecting diverse successful demonstrations remains costly. We study reinforcement learning (RL) not as a deployable controller, but as a data generator for downstream visuomo",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "TTT in VLA Models: Exploring Training with Human Demonstrations",
+      "url": "https://arxiv.org/abs/2610.32094",
+      "description": "Long-horizon robot tasks require retaining and using past information. We integrate Test-Time Training (TTT), which stores context in fast weights, into InternVLA-A1 and Pi0.5 to study action generation conditioned on human demonstrations through training on paired demonstrations",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies",
+      "url": "https://arxiv.org/abs/2610.32102",
+      "description": "Flow-matching Vision-Language-Action (VLA) models generate expressive continuous trajectories for robotic manipulation, yet balancing real-time responsiveness with execution stability remains a persistent challenge. Standard deployment workflows typically treat numerical solver d",
+      "source": "arXiv Robotics",
+      "category": "Robotics",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "TravSUITE: Traversability via Self-Supervised, Uncertainty-Aware IRL and Terrain Estimation",
+      "url": "https://arxiv.org/abs/2610.32130",
+      "description": "Traversability analysis in off-road settings remains a fundamental challenge for mobile robots. Key difficulties include constructing an accurate and expressive local map from multimodal sensor data, and using the map to design traversability rules that yield desirable navigation",
+      "source": "arXiv Robotics",
+      "category": "AI",
+      "kind": "research paper",
+      "date": "2026-10-26T04:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "US Wages Share of GDI at 75 Year Low",
+      "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
+      "description": "Article URL: https://fred.stlouisfed.org/series/W270RE1A156NBEA Comments URL: https://news.ycombinator.com/item?id=50238884 Points: 9 # Comments: 2",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T03:51:10+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: AI Client Lead Qualifier and Review Responder for Agencies",
+      "url": "https://news.ycombinator.com/item?id=50238873",
+      "description": "Comments URL: https://news.ycombinator.com/item?id=50238873 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T03:49:12+00:00",
+      "score": 48
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "description": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 17 # Comments: 5",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T03:31:11+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "url": "https://github.com/nodecode-ai/nodecode",
+      "description": "Hi HN, we're Mike and Thom. Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing markdown files. NODECODE remembers by rewriting itself. And that is in itself a new para",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T03:30:18+00:00",
+      "score": 48
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "description": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 21 # Comments: 1",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T03:29:05+00:00",
+      "score": 61
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "description": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 37 # Comments: 8",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T03:23:57+00:00",
+      "score": 55
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "description": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 4 # Comments: 0",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T03:12:05+00:00",
+      "score": 74
+    },
+    {
+      "title": "Show HN: Drint – packaging dielines and 3D box mockups as an MCP server",
+      "url": "https://drint.io/help/mcp",
+      "description": "Article URL: https://drint.io/help/mcp Comments URL: https://news.ycombinator.com/item?id=50238603 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-26T03:09:51+00:00",
+      "score": 45
+    },
+    {
+      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "description": "Article URL: https://www.bbc.com/news/articles/cmvg7p001qj9o Comments URL: https://news.ycombinator.com/item?id=50238557 Points: 67 # Comments: 7",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T03:04:08+00:00",
+      "score": 55
+    },
+    {
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "description": "Article URL: https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay Comments URL: https://news.ycombinator.com/item?id=50238351 Points: 19 # Comments: 24",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T02:22:38+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: God – real-time control room for LLM agent societies (EMNLP 2026 demo)",
+      "url": "https://github.com/XiaoLuoLYG/GOD",
+      "description": "Article URL: https://github.com/XiaoLuoLYG/GOD Comments URL: https://news.ycombinator.com/item?id=50238271 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T02:11:28+00:00",
+      "score": 51
+    },
+    {
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "description": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 98 # Comments: 54",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T01:47:46+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: Little Fun Games – daily trivia with uncommon-answer scoring",
+      "url": "https://littlefungames.com/",
+      "description": "Article URL: https://littlefungames.com/ Comments URL: https://news.ycombinator.com/item?id=50237998 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T01:36:55+00:00",
+      "score": 48
+    },
+    {
+      "title": "iPhone Duo Teardown",
+      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "description": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 76 # Comments: 40",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T01:23:24+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "url": "https://freehire.me/",
+      "description": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to f",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-26T01:13:43+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
+      "url": "https://depono.xyz/",
+      "description": "Article URL: https://depono.xyz/ Comments URL: https://news.ycombinator.com/item?id=50237806 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T01:12:25+00:00",
+      "score": 51
+    },
+    {
+      "title": "The best apps for tracking your reading and discovering new books",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-10-26T01:10:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+      "url": "https://rainbowsay.ai/",
+      "description": "Article URL: https://rainbowsay.ai/ Comments URL: https://news.ycombinator.com/item?id=50237773 Points: 5 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-10-26T01:08:13+00:00",
+      "score": 51
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "description": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 82 # Comments: 36",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T01:03:39+00:00",
+      "score": 55
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "description": "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 41 # Comments: 7",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-26T00:15:17+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)",
+      "url": "https://sketchagent.dev/s/yfYU6LhT",
+      "description": "When GPT-6/Gemini launched recently, a lot of the 3D demos used blender-mcp ( https://github.com/ahujasid/blender-mcp ). It's cool, but you have to install blender locally and wire up plugins just to try a prompt or share a run. I built a browser-based 3D mesh playground so you c",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-26T00:02:39+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Calm Web – Print magazine style reader",
+      "url": "https://calmweb.app",
+      "description": "Wanted to have a better reading experience. Curated feeds to avoid bumping into paywalls. Used: https://github.com/chenglou/pretext and: https://github.com/lyallcooper/justif for layout and justification with 2-column pages. Simplified navigation with shortcuts (in Settings) to m",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-26T00:00:12+00:00",
+      "score": 45
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "description": "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 56 # Comments: 21",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-25T23:52:05+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Limitbreak – Claude Code switches accounts mid-session on a limit",
+      "url": "https://github.com/radu2lupu/limitbreak",
+      "description": "Article URL: https://github.com/radu2lupu/limitbreak Comments URL: https://news.ycombinator.com/item?id=50237185 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-25T23:43:55+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Runtime-Type-Driven Multiple Dispatch JavaScript Framework – Estructura",
+      "url": "https://estructura.okzgn.com/",
+      "description": "Article URL: https://estructura.okzgn.com/ Comments URL: https://news.ycombinator.com/item?id=50237139 Points: 1 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-25T23:37:26+00:00",
+      "score": 48
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "description": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 82 # Comments: 41",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-25T23:27:30+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+      "url": "https://dbohdan.github.io/glider/",
+      "description": "https://github.com/dbohdan/glider Comments URL: https://news.ycombinator.com/item?id=50237019 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-25T23:18:42+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: QuickRust replaces cargo, sets up sccache, centralizes build cache",
+      "url": "https://machinefabric.com/quickrust/",
+      "description": "Article URL: https://machinefabric.com/quickrust/ Comments URL: https://news.ycombinator.com/item?id=50236987 Points: 2 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-25T23:14:19+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Classical Latin TTS",
+      "url": "https://huggingface.co/coolcoder613/omnivoice-latin-lora-1",
+      "description": "I finetuned OmniVoice for Latin with Restored Classical pronunciation. Latin TTS has been something I've made a fair few attempts at over the time I've been learning Latin, and this is my most successful one yet. Demo here: https://huggingface.co/spaces/coolcoder613/latin-tts-ov ",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-25T23:04:37+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: simdown – use SIMD to parse Markdown at ~1 GB/s",
+      "url": "https://github.com/trevorah/simdown",
+      "description": "The SIMD path currently needs arm64 (NEON) and GOEXPERIMENT=simd. I've only benchmarked on an Apple M4, but it should help on any arm64 chip (Graviton, Ampere, etc.). Elsewhere it falls back to a scalar path that does ~300 MB/s, still ahead of cmark and goldmark. If you know of a",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-10-25T22:47:18+00:00",
+      "score": 45
     },
     {
       "title": "Show HN: Glitchrupt: Glitch your desktop when your AI agent needs your attention",
@@ -114,82 +814,12 @@
     {
       "title": "Show HN: Visualization of Top News Stories",
       "url": "https://www.topaztee.com/digglabs/",
-      "description": "news stories has bigger headings based on updates/votes. you can also add/remove the sources and save a unique link Comments URL: https://news.ycombinator.com/item?id=50236520 Points: 1 # Comments: 0",
+      "description": "news stories has bigger headings based on updates/votes. you can also add/remove the sources and save a unique link Comments URL: https://news.ycombinator.com/item?id=50236520 Points: 3 # Comments: 2",
       "source": "Hacker News / Show",
       "category": "Open Source",
       "kind": "article",
       "date": "2026-10-25T22:10:42+00:00",
       "score": 45
-    },
-    {
-      "title": "Europe's summer heat wave killed more han 50k people in urban areas",
-      "url": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
-      "description": "Article URL: https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas Comments URL: https://news.ycombinator.com/item?id=50236455 Points: 13 # Comments: 7",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T22:02:33+00:00",
-      "score": 55
-    },
-    {
-      "title": "Show HN: Valence – Self-hosted media browser (Jellyfin/Plex alternative)",
-      "url": "https://www.getvalence.app/",
-      "description": "Article URL: https://www.getvalence.app/ Comments URL: https://news.ycombinator.com/item?id=50236422 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T21:57:41+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: I built an AI agent to find customers on Telegram while I sleep",
-      "url": "https://opensparta.com/en",
-      "description": "Article URL: https://opensparta.com/en Comments URL: https://news.ycombinator.com/item?id=50236396 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T21:53:11+00:00",
-      "score": 51
-    },
-    {
-      "title": "Show HN: A Blender addon that makes Claude twice as efficient at using nodes",
-      "url": "https://github.com/carson-katri/geometry-script",
-      "description": "I originally made this addon 4 years ago, but recently discovered that coding agents love it. The addon adds a scripting API for Blender’s node trees, such as Geometry Nodes or Shader Nodes. It generates a function and related types for every node in Blender. Then the agent (or y",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T21:50:46+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Jet Pilot – An open-source, native Kubernetes desktop client",
-      "url": "https://github.com/unxsist/jet-pilot",
-      "description": "Article URL: https://github.com/unxsist/jet-pilot Comments URL: https://news.ycombinator.com/item?id=50236370 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T21:48:48+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: I Made a Multiplayer 3D Shooter Game in Lisp (Again)",
-      "url": "https://wizardos.io/",
-      "description": "Article URL: https://wizardos.io/ Comments URL: https://news.ycombinator.com/item?id=50236286 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T21:36:14+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: I added stacked subgraphs to Mermaid flowcharts",
-      "url": "https://ramraj07.github.io/ra-mermaid/",
-      "description": "I’m an avid user of mermaid but am constantly annoyed by their limitation that subgraphs do not follow direction if any internal nodes are connected to the outside. So I asked Claude to add a new syntax called stack layout and it seems to work pretty elegantly. I also fixed my an",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T21:32:01+00:00",
-      "score": 48
     },
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -202,29 +832,9 @@
       "score": 58
     },
     {
-      "title": "Show HN: Wabetune – Intonation Analyser · Strings · Winds · Brass · Voice",
-      "url": "https://wabetune.com/",
-      "description": "Article URL: https://wabetune.com/ Comments URL: https://news.ycombinator.com/item?id=50236232 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T21:28:59+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Frontdoor: find who can assume into your cloud accounts",
-      "url": "https://github.com/secorvia/frontdoor",
-      "description": "Article URL: https://github.com/secorvia/frontdoor Comments URL: https://news.ycombinator.com/item?id=50236145 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T21:17:22+00:00",
-      "score": 48
-    },
-    {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "description": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 53 # Comments: 69",
+      "description": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 213 # Comments: 241",
       "source": "Hacker News",
       "category": "AI",
       "kind": "article",
@@ -232,39 +842,9 @@
       "score": 61
     },
     {
-      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "description": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 148 # Comments: 56",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T21:08:28+00:00",
-      "score": 55
-    },
-    {
-      "title": "Show HN: CaseCite – Free RAG caselaw research and document analysis for lawyers",
-      "url": "https://github.com/thomasunise/casecite",
-      "description": "Article URL: https://github.com/thomasunise/casecite Comments URL: https://news.ycombinator.com/item?id=50235915 Points: 14 # Comments: 2",
-      "source": "Hacker News / Show",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-10-25T20:47:26+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
-      "url": "https://github.com/SRN0129/Agenttrust",
-      "description": "Article URL: https://github.com/SRN0129/Agenttrust Comments URL: https://news.ycombinator.com/item?id=50235909 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T20:46:50+00:00",
-      "score": 54
-    },
-    {
       "title": "The State of Context Engineering",
       "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "description": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 43 # Comments: 7",
+      "description": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 121 # Comments: 34",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -272,19 +852,9 @@
       "score": 55
     },
     {
-      "title": "Show HN: MTA.rip: a train visualizer that shows congestion",
-      "url": "https://mta.rip/?station=127&route=1&view=trackmap",
-      "description": "It bugged me recently that the New York City subway countdown clocks show an estimated time that is often inaccurate. Since many of the delays are due to other trains on the same track, I figured: why not just show the trains? Source code: https://github.com/fatlotus/mta-dot-rip/",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T20:29:22+00:00",
-      "score": 48
-    },
-    {
       "title": "What goes into making an animated film?",
       "url": "https://www.disneyanimation.com/process/",
-      "description": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 57 # Comments: 23",
+      "description": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 117 # Comments: 48",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -302,124 +872,14 @@
       "score": 48
     },
     {
-      "title": "Show HN: MuscleMemory – procedural memory for coding agents, proven by tests",
-      "url": "https://github.com/TheWariend/MuscleMemory",
-      "description": "Article URL: https://github.com/TheWariend/MuscleMemory Comments URL: https://news.ycombinator.com/item?id=50235670 Points: 5 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-25T20:19:47+00:00",
-      "score": 51
-    },
-    {
-      "title": "Focused Company Operating Principles",
-      "url": "https://focused.io/operating-principles",
-      "description": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 13 # Comments: 1",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T20:16:51+00:00",
-      "score": 55
-    },
-    {
-      "title": "Show HN: Ledge – an open-source app that puts the MacBook notch to work",
-      "url": "https://ledgeapp.dev/",
-      "description": "Ledge is free and open-source MacBook app that puts your idle notch into the work. It transforms the static notch into a status area: music, your next meeting, and more. It also keeps your agents work even when your lid is shut. Feel free to reach out if you have any feedback! Co",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T20:04:52+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Comparing SF Bay Area trash rates",
-      "url": "https://www.shasheene.com/bay-area-trash-rates/",
-      "description": "I created this webpage to compare the rates for trash hauling across the San Francisco Bay Area. I wanted to see how Oakland California compares to the rest of the region. I knew the rates were high, but I wanted to quantify how high. Especially since the cost of proper trash dis",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T20:02:55+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "description": "Article URL: https://theaioperatorstore.gumroad.com/l/womuyx Comments URL: https://news.ycombinator.com/item?id=50235462 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T19:54:45+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
-      "url": "https://github.com/Hybirdss/Hycli",
-      "description": "Article URL: https://github.com/Hybirdss/Hycli Comments URL: https://news.ycombinator.com/item?id=50235425 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T19:51:45+00:00",
-      "score": 51
-    },
-    {
-      "title": "Show HN: SQLite-on-object storage using GCS Appendable Objects",
-      "url": "https://github.com/fatlotus/sqlite-on-gcs-rapid",
-      "description": "Recently, I have been playing around with GCS Rapid, a new API in GCS that lets you append to an existing object. It's pretty fast, and it's cool that you can do a log-structured merge tree on top to get a durable database without needing to run a server. Disclaimer: I am a Googl",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T19:50:01+00:00",
-      "score": 45
-    },
-    {
-      "title": "Eunice is almost here",
-      "url": "https://armincat.com/articles/eunice-is-almost-here",
-      "description": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 50 # Comments: 43",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T19:40:27+00:00",
-      "score": 55
-    },
-    {
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-      "description": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 148 # Comments: 27",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T19:29:16+00:00",
-      "score": 55
-    },
-    {
       "title": "Why I Am a Programmer",
       "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "description": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 88 # Comments: 15",
+      "description": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 169 # Comments: 57",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-25T19:11:31+00:00",
       "score": 55
-    },
-    {
-      "title": "Show HN: Zubspace.gg – remake of 30yo Subspace game, a space MMO in the browser",
-      "url": "https://zubspace.gg/",
-      "description": "Hey all, SubSpace has been my favorite game since I was a kid playing it in 1997, and its always been a dream of mine to rebuild it for the browser so I could play from any OS and enjoy with others instantly. Here it is: https://zubspace.gg It's open source too: https://github.co",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T19:10:41+00:00",
-      "score": 48
-    },
-    {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "description": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 43 # Comments: 0",
-      "source": "Hacker News",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-10-25T19:10:36+00:00",
-      "score": 61
     },
     {
       "title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
@@ -430,16 +890,6 @@
       "kind": "article",
       "date": "2026-10-25T19:10:01+00:00",
       "score": 48
-    },
-    {
-      "title": "Where the Romans Fought (interactive map)",
-      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-      "description": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 27 # Comments: 11",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T18:58:14+00:00",
-      "score": 55
     },
     {
       "title": "'Tech debt coming due': AI-found flaw signals chaos ahead",
@@ -464,7 +914,7 @@
     {
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "description": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 323 # Comments: 82",
+      "description": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 437 # Comments: 118",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -474,22 +924,12 @@
     {
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "url": "https://talkweb.eu/openweb/4558/",
-      "description": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 345 # Comments: 170",
+      "description": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 429 # Comments: 207",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-10-25T17:30:55+00:00",
       "score": 55
-    },
-    {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "description": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 365 # Comments: 180",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T17:15:38+00:00",
-      "score": 58
     },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -500,46 +940,6 @@
       "kind": "article",
       "date": "2026-10-25T16:57:32+00:00",
       "score": 48
-    },
-    {
-      "title": "UTS #39: Unicode Security Mechanisms",
-      "url": "https://unicode.org/reports/tr39/",
-      "description": "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 30 # Comments: 7",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-10-25T16:40:37+00:00",
-      "score": 58
-    },
-    {
-      "title": "A mathematician reads the AI future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "description": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 43 # Comments: 58",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T16:31:21+00:00",
-      "score": 58
-    },
-    {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "description": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 182 # Comments: 260",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T16:28:26+00:00",
-      "score": 58
-    },
-    {
-      "title": "JetBrains Thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Article URL: https://github.com/JetBrains/thinkrail Comments URL: https://news.ycombinator.com/item?id=50233294 Points: 151 # Comments: 110",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-10-25T16:27:12+00:00",
-      "score": 58
     },
     {
       "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
@@ -572,14 +972,14 @@
       "score": 48
     },
     {
-      "title": "Active incident at Dreamhost forcing password reset",
-      "url": "https://www.dreamhoststatus.com/",
-      "description": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 99 # Comments: 35",
-      "source": "Hacker News",
-      "category": "Software",
+      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "description": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common log",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
       "kind": "article",
-      "date": "2026-10-25T13:09:16+00:00",
-      "score": 55
+      "date": "2026-10-25T12:00:02+00:00",
+      "score": 45
     },
     {
       "title": "Starlink seems to be working normally again in Ukraine",
@@ -770,16 +1170,6 @@
       "kind": "article",
       "date": "2026-10-23T20:57:13+00:00",
       "score": 48
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-10-23T20:03:14+00:00",
-      "score": 45
     },
     {
       "title": "From Chip Lab to Center Stage",
@@ -1260,16 +1650,6 @@
       "kind": "article",
       "date": "2026-10-09T18:00:02+00:00",
       "score": 51
-    },
-    {
-      "title": "We Need to Embed Ethics Into Our Engineering Courses",
-      "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "description": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension betwe",
-      "source": "IEEE Spectrum",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-10-09T12:00:02+00:00",
-      "score": 45
     },
     {
       "title": "The model that didn't exist, so you made it yourself",
