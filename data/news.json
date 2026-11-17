@@ -1,74 +1,24 @@
 {
-  "generated_at": "2026-11-17T03:55:21.959426+00:00",
+  "generated_at": "2026-11-17T16:02:54.184076+00:00",
   "items": [
     {
-      "title": "NVIDIA / SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "source": "GitHub Trending",
-      "category": "Industry",
-      "kind": "repository",
-      "date": "2026-11-17T03:55:19.443302+00:00",
-      "score": 61
-    },
-    {
-      "title": "tradermonty / claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "title": "kajisho5 / ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.443276+00:00",
+      "date": "2026-11-17T16:02:52.913280+00:00",
       "score": 55
     },
     {
-      "title": "GoogleChrome / modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "source": "GitHub Trending",
-      "category": "Industry",
-      "kind": "repository",
-      "date": "2026-11-17T03:55:19.443248+00:00",
-      "score": 58
-    },
-    {
-      "title": "elementalsouls / Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "title": "sveltejs / svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.443223+00:00",
-      "score": 55
-    },
-    {
-      "title": "ggml-org / ggml",
-      "url": "https://github.com/ggml-org/ggml",
-      "description": "Tensor library for machine learning",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-11-17T03:55:19.443195+00:00",
-      "score": 55
-    },
-    {
-      "title": "Tencent / LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-11-17T03:55:19.443176+00:00",
-      "score": 55
-    },
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "source": "GitHub Trending",
-      "category": "Open Source",
-      "kind": "repository",
-      "date": "2026-11-17T03:55:19.443131+00:00",
+      "date": "2026-11-17T16:02:52.913256+00:00",
       "score": 55
     },
     {
@@ -78,17 +28,47 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.443103+00:00",
+      "date": "2026-11-17T16:02:52.913237+00:00",
       "score": 55
     },
     {
-      "title": "backnotprop / plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "title": "google-research / paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "source": "GitHub Trending",
+      "category": "Research",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.913216+00:00",
+      "score": 64
+    },
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.443082+00:00",
+      "date": "2026-11-17T16:02:52.913194+00:00",
+      "score": 55
+    },
+    {
+      "title": "NVIDIA / SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "source": "GitHub Trending",
+      "category": "Industry",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.913168+00:00",
+      "score": 61
+    },
+    {
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.913143+00:00",
       "score": 55
     },
     {
@@ -98,17 +78,47 @@
       "source": "GitHub Trending",
       "category": "Industry",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.443054+00:00",
+      "date": "2026-11-17T16:02:52.913119+00:00",
       "score": 58
     },
     {
-      "title": "ag-ui-protocol / ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "title": "DeanChensj / jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.443021+00:00",
+      "date": "2026-11-17T16:02:52.913092+00:00",
+      "score": 55
+    },
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.913065+00:00",
+      "score": 55
+    },
+    {
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.913045+00:00",
+      "score": 55
+    },
+    {
+      "title": "tradermonty / claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.913015+00:00",
       "score": 55
     },
     {
@@ -118,68 +128,628 @@
       "source": "GitHub Trending",
       "category": "Open Source",
       "kind": "repository",
-      "date": "2026-11-17T03:55:19.442972+00:00",
+      "date": "2026-11-17T16:02:52.912986+00:00",
       "score": 55
     },
     {
-      "title": "Show HN: Sip pacer to help you drink slower",
-      "url": "https://apps.apple.com/us/app/pour-decision-drink-less/id6499468185",
-      "description": "It's a new feature I've added to Pour Decision. The idea is: 1. Set an interval on your phone and slip it in your pocket 2. The phone vibrates in your pocket on every interval 3. Condition yourself to have sips when you feel the vibration Benefits: - You end up drinking way less ",
-      "source": "Hacker News / Show",
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "source": "GitHub Trending",
       "category": "Open Source",
-      "kind": "article",
-      "date": "2026-11-17T03:26:25+00:00",
-      "score": 45
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.912955+00:00",
+      "score": 55
     },
     {
-      "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-      "url": "https://github.com/yocontra/pulsar",
-      "description": "Article URL: https://github.com/yocontra/pulsar Comments URL: https://news.ycombinator.com/item?id=50526967 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
+      "title": "ag-ui-protocol / ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "source": "GitHub Trending",
+      "category": "Open Source",
+      "kind": "repository",
+      "date": "2026-11-17T16:02:52.912877+00:00",
+      "score": 55
+    },
+    {
+      "title": "Transformer shortages loom for strained US power grid",
+      "url": "https://techxplore.com/news/2026-11-shortages-loom-strained-power-grid.html",
+      "description": "As growth in artificial intelligence forces the United States to expand its power supply, a new study finds the country will soon hit a surprising roadblock: shortages of key materials needed to connect new data centers and power plants to the grid.",
+      "source": "Tech Xplore",
       "category": "AI",
       "kind": "article",
-      "date": "2026-11-17T03:18:53+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Find out how cooked your webapp is",
-      "url": "https://genclass.dev/scan",
-      "description": "Hey everyone! If your startup has a software component you might want to run a quick scan on GenClass and see what score you get (it’s free to scan). Try it out here: https://genclass.dev/scan . FYI moss.dev got a score of 33/100, here's the report: https://genclass.dev/moss.dev ",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-11-17T03:17:49+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Toolbelt – Free developer utilities that run in the browser",
-      "url": "https://gettoolbelt.dev/",
-      "description": "Article URL: https://gettoolbelt.dev/ Comments URL: https://news.ycombinator.com/item?id=50526860 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-17T03:02:41+00:00",
+      "date": "2026-11-17T16:00:28+00:00",
       "score": 51
     },
     {
-      "title": "Show HN: Nine is multiplayer sudoku across all Apple devices",
-      "url": "https://apps.apple.com/us/app/nine-sudoku/id6789779314",
-      "description": "I built this universal app as a challenge to myself to learn how to build with the full spectrum of Apple ecosystem capabilities. Nine is chock full of features, with FaceTime and couch multiplayer, Apple Watch companion app with live sync, and rotor based accessibility supports ",
-      "source": "Hacker News / Show",
-      "category": "Industry",
+      "title": "How wind farms affect clouds—and vice versa",
+      "url": "https://techxplore.com/news/2026-11-farms-affect-clouds-vice-versa.html",
+      "description": "In the Netherlands and northern Europe, wind farms are often built in the water, where low-level clouds are common. Clouds can affect power generation from wind farms, but the exact impacts haven't been well studied.",
+      "source": "Tech Xplore",
+      "category": "Software",
       "kind": "article",
-      "date": "2026-11-17T02:53:33+00:00",
+      "date": "2026-11-17T16:00:25+00:00",
       "score": 48
     },
     {
-      "title": "The most expensive bargaining chip in history",
-      "url": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/",
-      "description": "Article URL: https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/ Comments URL: https://news.ycombinator.com/item?id=50526621 Points: 8 # Comments: 3",
+      "title": "Show HN: Timelock.dev: Send a Message into the Future",
+      "url": "https://timelock.dev/",
+      "description": "Article URL: https://timelock.dev/ Comments URL: https://news.ycombinator.com/item?id=50532942 Points: 2 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T15:43:37+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Fardesk – fast iPhone app to manage your Claude sessions",
+      "url": "https://github.com/franzenzenhofer/fardesk-open-source",
+      "description": "Article URL: https://github.com/franzenzenhofer/fardesk-open-source Comments URL: https://news.ycombinator.com/item?id=50532890 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T15:40:53+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: I mapped LA's new speed cameras so you can count them on your route",
+      "url": "https://la-speed-cameras-nine.vercel.app",
+      "description": "Article URL: https://la-speed-cameras-nine.vercel.app Comments URL: https://news.ycombinator.com/item?id=50532884 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T15:40:35+00:00",
+      "score": 45
+    },
+    {
+      "title": "Glasses and shirt buttons will be examined to stop cheating in South Korea's college entrance exams",
+      "url": "https://techxplore.com/news/2026-11-glasses-shirt-buttons-south-korea.html",
+      "description": "Proctors will inspect every test-taker's glasses and seal their shirt buttons with stickers, and authorities will deploy 8,400 additional supervisors at South Korea's college entrance exams on Thursday.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-11-17T15:40:24+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Feasible, web analytics in one Go binary with SQLite per account",
+      "url": "https://github.com/Feasible-Analytics/app.feasible.lol",
+      "description": "Article URL: https://github.com/Feasible-Analytics/app.feasible.lol Comments URL: https://news.ycombinator.com/item?id=50532868 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T15:39:39+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Triton-ng – Write Nvidia Triton inference back ends in Rust",
+      "url": "https://github.com/rdcm/triton-ng",
+      "description": "Article URL: https://github.com/rdcm/triton-ng Comments URL: https://news.ycombinator.com/item?id=50532862 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T15:39:11+00:00",
+      "score": 54
+    },
+    {
+      "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "description": "Article URL: https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html Comments URL: https://news.ycombinator.com/item?id=50532786 Points: 11 # Comments: 4",
       "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:33:48+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: AI Spar – Turn conflicting AI answers into a structured debate",
+      "url": "https://aispar.app",
+      "description": "Over the last couple of years, I have observed many people (including myself) researching tricky topics by asking the same question to multiple AI's. If those answers conflict, we manually copy the answers back-and-forth between the AI apps to make them debate each other, to get ",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:28:42+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Plinth – Ask your AI for an app, get a link to share",
+      "url": "https://useplinth.cloud",
+      "description": "Article URL: https://useplinth.cloud Comments URL: https://news.ycombinator.com/item?id=50532627 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:24:06+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Codemany – Run GitHub Actions on Your Mac/Linux. 3x Faster, Save $$$$",
+      "url": "https://news.ycombinator.com/item?id=50532610",
+      "description": "Hi folks , I built CodeMany [1] - to run your actions on a Mac/Linux box that you own. Stop paying by the minute, as your agents scale. Own your infra, and let CodeMany manage it. Over the last year, we scaled our commits/month by 30x [2]. Over the coming year, I don't see that s",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:22:53+00:00",
+      "score": 51
+    },
+    {
+      "title": "Data centers may consume far more water than developers suggest",
+      "url": "https://techxplore.com/news/2026-11-centers-consume.html",
+      "description": "Bell Canada's AI Fabric data center near Regina, Sask., has been touted as the \"single largest private-sector capital investment\" in Canadian history.",
+      "source": "Tech Xplore",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:20:01+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Reverie – local memory for coding agents that learns your corrections",
+      "url": "https://github.com/muditsarda1122/Reverie",
+      "description": "Article URL: https://github.com/muditsarda1122/Reverie Comments URL: https://news.ycombinator.com/item?id=50532547 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
       "category": "Hardware",
       "kind": "article",
-      "date": "2026-11-17T02:23:34+00:00",
-      "score": 61
+      "date": "2026-11-17T15:19:01+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: Atli – MCP server that lets AI agents buy and install travel eSIMs",
+      "url": "https://heyatli.com/mcp",
+      "description": "Article URL: https://heyatli.com/mcp Comments URL: https://news.ycombinator.com/item?id=50532519 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:16:52+00:00",
+      "score": 51
+    },
+    {
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "description": "Hey HN, we're Yarn (W24) and we make a video editing app for startups, and we built Quebec ( https://quebec.yarn.so ), an API that gives you accurate word timestamps from speech. We needed it because cutting a word even 50ms off from its true timing can ruin talking head footage ",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:16:45+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: SigMap, an AR Wi-Fi Heatmap for iPhone",
+      "url": "https://apps.apple.com/us/app/sigmap-wifi-heatmap/id6819154750",
+      "description": "Article URL: https://apps.apple.com/us/app/sigmap-wifi-heatmap/id6819154750 Comments URL: https://news.ycombinator.com/item?id=50532425 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T15:09:25+00:00",
+      "score": 45
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "description": "Article URL: https://alloyhtml.com/example.html Comments URL: https://news.ycombinator.com/item?id=50532385 Points: 23 # Comments: 3",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:07:09+00:00",
+      "score": 55
+    },
+    {
+      "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
+      "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
+      "description": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
+      "source": "TechCrunch",
+      "category": "Robotics",
+      "kind": "article",
+      "date": "2026-11-17T15:07:06+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Jarvis like audio-visual interaction harness for coding agent",
+      "url": "https://www.bysicle.com/",
+      "description": "Tl;Dr We've been annoyed at chat based interface to develop software. Especially the layer where agent needs to explain or transmit some information to you. So, we built bicycle. It's local first Would love some feedback! Comments URL: https://news.ycombinator.com/item?id=5053233",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:03:50+00:00",
+      "score": 48
+    },
+    {
+      "title": "A US Federal Women's Prison Became a \"Rape Club\"",
+      "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+      "description": "Article URL: https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop Comments URL: https://news.ycombinator.com/item?id=50532322 Points: 44 # Comments: 6",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:03:25+00:00",
+      "score": 55
+    },
+    {
+      "title": "Show HN: FindSoftware – Tools to Build Websites",
+      "url": "https://findsoftware.frbit.cloud/",
+      "description": "Article URL: https://findsoftware.frbit.cloud/ Comments URL: https://news.ycombinator.com/item?id=50532320 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:03:08+00:00",
+      "score": 48
+    },
+    {
+      "title": "Pentagon fails 9th financial audit in a row",
+      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
+      "description": "Article URL: https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/ Comments URL: https://news.ycombinator.com/item?id=50532315 Points: 42 # Comments: 23",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:02:53+00:00",
+      "score": 58
+    },
+    {
+      "title": "Meta launches Direct, a standalone messaging app for Instagram",
+      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+      "description": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T15:01:46+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: Terraform Module for a Private LLM Stack on AWS (Ollama, Open WebUI)",
+      "url": "https://github.com/1solomonwakhungu/terraform-aws-private-llm",
+      "description": "Article URL: https://github.com/1solomonwakhungu/terraform-aws-private-llm Comments URL: https://news.ycombinator.com/item?id=50532295 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:01:26+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: Health agent access with personal control (revoke it mid-session)",
+      "url": "https://developers.lifecare.id/sandbox-data-source",
+      "description": "I'm building the consent layer for intelligent healthcare - cryptographic, revocable permission over your health data, wherever it lives. Built for patients, trusted by physicians, compliant by design. Comments URL: https://news.ycombinator.com/item?id=50532280 Points: 1 # Commen",
+      "source": "Hacker News / Show",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:00:09+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: TES Redguard (1998) running natively on Windows, Linux and macOS",
+      "url": "https://github.com/michidk/maiko/",
+      "description": "Article URL: https://github.com/michidk/maiko/ Comments URL: https://news.ycombinator.com/item?id=50532278 Points: 1 # Comments: 0",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T15:00:07+00:00",
+      "score": 48
+    },
+    {
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "description": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a spec",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+      "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+      "description": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T15:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Show HN: If Conductor and Cursor Had a Baby (Open Source, macOS)",
+      "url": "https://github.com/bestboyhq/malini",
+      "description": "When Cursor got acquired a small question appeared in my head. Then after Conductor's acquisition by Meta it quickly became more itchy. And then after a few months of asking myself \"what if agentic coding tool wasn't built for exit?\" I came up with Malini. Those both were the bes",
+      "source": "Hacker News / Show",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T14:57:42+00:00",
+      "score": 58
+    },
+    {
+      "title": "Show HN: A 3D rally game that runs in a browser tab",
+      "url": "https://dailyplay.org/rally/",
+      "description": "Article URL: https://dailyplay.org/rally/ Comments URL: https://news.ycombinator.com/item?id=50532209 Points: 2 # Comments: 1",
+      "source": "Hacker News / Show",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T14:54:55+00:00",
+      "score": 48
+    },
+    {
+      "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "description": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/ Comments URL: https://news.ycombinator.com/item?id=50532191 Points: 8 # Comments: 2",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:53:43+00:00",
+      "score": 64
+    },
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:50:58+00:00",
+      "score": 48
+    },
+    {
+      "title": "We don't need more apps. We need better open source",
+      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "description": "Article URL: https://jordankrueger.com/blog/better-open-source-not-more-apps/ Comments URL: https://news.ycombinator.com/item?id=50532086 Points: 148 # Comments: 67",
+      "source": "Hacker News",
+      "category": "Open Source",
+      "kind": "article",
+      "date": "2026-11-17T14:45:36+00:00",
+      "score": 68
+    },
+    {
+      "title": "Popular messaging apps offer less anonymity than you think, research finds",
+      "url": "https://techxplore.com/news/2026-11-popular-messaging-apps-anonymity.html",
+      "description": "Hiding behind an anonymous handle or a blank profile picture on a messaging app might feel safe, but new University of Maryland research shows that what someone posts on one chat service can easily blow their cover on another.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-11-17T14:40:05+00:00",
+      "score": 48
+    },
+    {
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "description": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T14:26:46+00:00",
+      "score": 51
+    },
+    {
+      "title": "Loopholes Are for Assholes",
+      "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
+      "description": "Article URL: https://actsofvolition.com/2026/11/loopholes-are-for-assholes/ Comments URL: https://news.ycombinator.com/item?id=50531761 Points: 66 # Comments: 27",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T14:20:32+00:00",
+      "score": 55
+    },
+    {
+      "title": "Neural networks that behave identically reveal hidden structural differences as they learn",
+      "url": "https://techxplore.com/news/2026-11-neural-networks-identically-reveal-hidden.html",
+      "description": "Learning in the brain involves changes in the connections between neurons, but its effects show up in the system's overall behavior. How do the many changes in these connections combine to alter the system's function? In a new study, Technion researchers examined this relationshi",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:20:01+00:00",
+      "score": 48
+    },
+    {
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns Comments URL: https://news.ycombinator.com/item?id=50531751 Points: 103 # Comments: 95",
+      "source": "Hacker News",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:19:59+00:00",
+      "score": 58
+    },
+    {
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "source": "TechCrunch",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T14:05:30+00:00",
+      "score": 54
+    },
+    {
+      "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+      "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+      "description": "Article URL: https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e Comments URL: https://news.ycombinator.com/item?id=50531484 Points: 48 # Comments: 50",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T14:00:47+00:00",
+      "score": 55
+    },
+    {
+      "title": "Brain scans may explain why deepfake faces appear 'hyperreal'",
+      "url": "https://techxplore.com/news/2026-11-brain-scans-deepfake-hyperreal.html",
+      "description": "AI-generated faces—known as deepfakes—increasingly flood the internet, often used to amplify common scams with fake romantic partners or supposedly trustworthy investment partners.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:00:21+00:00",
+      "score": 48
+    },
+    {
+      "title": "AI Is Giving Optical Computing Another Shot",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "description": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now total",
+      "source": "IEEE Spectrum",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:00:03+00:00",
+      "score": 48
+    },
+    {
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T14:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
+      "source": "TechCrunch",
+      "category": "Robotics",
+      "kind": "article",
+      "date": "2026-11-17T14:00:00+00:00",
+      "score": 51
+    },
+    {
+      "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+      "url": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+      "description": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T14:00:00+00:00",
+      "score": 45
+    },
+    {
+      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+      "description": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "source": "TechCrunch",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T14:00:00+00:00",
+      "score": 48
+    },
+    {
+      "title": "Researchers develop AI-powered, human-centered framework for supplier selection",
+      "url": "https://techxplore.com/news/2026-11-ai-powered-human-centered-framework.html",
+      "description": "With global supply chains facing increasingly complex and unpredictable socio-economic, environmental and regulatory conditions, many companies are facing a growing need for quick and effective supplier evaluation. To address this concern, a group of researchers at Constructor Un",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-11-17T12:20:01+00:00",
+      "score": 54
+    },
+    {
+      "title": "Apple faces French trial over alleged planned obsolescence of iPhones: Source",
+      "url": "https://techxplore.com/news/2026-11-apple-french-trial-alleged-obsolescence.html",
+      "description": "Apple will stand trial in Paris in June 2027 on suspicion of having organized the planned obsolescence of several iPhone models by preventing repairs outside official outlets, a source close to the case told AFP on Tuesday.",
+      "source": "Tech Xplore",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T12:00:14+00:00",
+      "score": 48
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "description": "Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html Comments URL: https://news.ycombinator.com/item?id=50530163 Points: 595 # Comments: 304",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T11:45:51+00:00",
+      "score": 55
+    },
+    {
+      "title": "Singapore seeks 'trusted access' to AI chips after US curbs",
+      "url": "https://techxplore.com/news/2026-11-singapore-access-ai-chips-curbs.html",
+      "description": "Singapore said Tuesday it was in talks with the United States to ensure access to advanced AI chips after Washington imposed curbs on overseas data centers meant to block Chinese firms from the technology.",
+      "source": "Tech Xplore",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-11-17T11:20:01+00:00",
+      "score": 51
+    },
+    {
+      "title": "Understand How Satellite Links Shape IoT Device Design and Testing",
+      "url": "https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/",
+      "description": "How 3GPP Releases 15, 16, and 17 brought satellite access into 5G NR, NB-IoT, and eMTC. Why satellite links suit IoT devices that send small, infrequent, and delay-tolerant messages. Where non-terrestrial networks (NTN) add value, including asset tracking, agriculture, public saf",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-11-17T11:00:04+00:00",
+      "score": 45
+    },
+    {
+      "title": "From flipping its pages to sitting on it, the phone book infiltrated American life—then vanished",
+      "url": "https://techxplore.com/news/2026-11-flipping-pages-infiltrated-american-life.html",
+      "description": "The telephone book started as a one-page list of 50 telephone subscribers in 1878 in New Haven, Connecticut. It was later, in the late 1900s, when it became the utilitarian device that was ever-present in my household.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-11-17T11:00:01+00:00",
+      "score": 45
+    },
+    {
+      "title": "Florida's stormwater ponds become floating solar farms as costs fall and demand rises",
+      "url": "https://techxplore.com/news/2026-11-florida-stormwater-ponds-solar-farms.html",
+      "description": "Of the tens of thousands of retention ponds designed to collect runoff during Florida's frequent downpours, some are also being used to generate solar power, expanding sustainable energy production in the Sunshine State.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-11-17T10:40:06+00:00",
+      "score": 45
+    },
+    {
+      "title": "Anthropic's IPO: How do you price the future of AI?",
+      "url": "https://techxplore.com/news/2026-11-anthropic-ipo-price-future-ai.html",
+      "description": "Speculation over Anthropic's stock market valuation has highlighted one of the riskiest bets in finance: trying to put a price on the future of artificial intelligence.",
+      "source": "Tech Xplore",
+      "category": "Industry",
+      "kind": "article",
+      "date": "2026-11-17T10:40:01+00:00",
+      "score": 51
+    },
+    {
+      "title": "Head of China's Baidu warns of AI 'bubble' ahead of APEC talks",
+      "url": "https://techxplore.com/news/2026-11-china-baidu-ai-apec.html",
+      "description": "Artificial intelligence adoption is not boosting profits for most companies, the head of Chinese internet giant Baidu said Tuesday, ahead of talks between Donald Trump and Xi Jinping expected to address the risks posed by the sensitive technology.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T10:29:38+00:00",
+      "score": 48
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "description": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/ Comments URL: https://news.ycombinator.com/item?id=50529612 Points: 120 # Comments: 124",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-17T10:20:40+00:00",
+      "score": 55
+    },
+    {
+      "title": "United Airlines says it resolved a technology issue that affected departing flights",
+      "url": "https://techxplore.com/news/2026-11-airlines-technology-issue-affected-departing.html",
+      "description": "United Airlines said Monday that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the Federal Aviation Administration's network prompted a nationwide ground stop.",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T10:20:01+00:00",
+      "score": 48
+    },
+    {
+      "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+      "url": "https://techxplore.com/news/2026-11-technical-issue-jpmorgan-triggers-online.html",
+      "description": "Thousands of customers reported difficulty accessing online accounts at several major U.S. banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system.",
+      "source": "Tech Xplore",
+      "category": "Research",
+      "kind": "article",
+      "date": "2026-11-17T10:10:15+00:00",
+      "score": 45
+    },
+    {
+      "title": "Chat-based AI lets users run complex alloy calculations on their own computers",
+      "url": "https://techxplore.com/news/2026-11-chat-based-ai-users-complex.html",
+      "description": "Computational materials science develops models and simulations that are indispensable for the development of complex materials, such as high-entropy alloys. Researchers at Empa in Thun have developed an AI framework that allows researchers to operate these complex tools via a si",
+      "source": "Tech Xplore",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-17T07:00:02+00:00",
+      "score": 48
     },
     {
       "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
@@ -194,7 +764,7 @@
     {
       "title": "If an App Asks for Full Disk Access or System and App Protection Override",
       "url": "https://support.apple.com/en-us/149699",
-      "description": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 23 # Comments: 11",
+      "description": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 192 # Comments: 101",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -202,174 +772,14 @@
       "score": 55
     },
     {
-      "title": "Mem Is Shutting Down",
-      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-      "description": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down Comments URL: https://news.ycombinator.com/item?id=50526537 Points: 21 # Comments: 20",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-17T02:13:41+00:00",
-      "score": 55
-    },
-    {
-      "title": "Show HN: A free interactive course on AI agent governance",
-      "url": "https://studio.sinapsdata.com.br",
-      "description": "Article URL: https://studio.sinapsdata.com.br Comments URL: https://news.ycombinator.com/item?id=50526527 Points: 11 # Comments: 5",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T02:12:13+00:00",
-      "score": 61
-    },
-    {
-      "title": "Show HN: Coding agents with native environments, identity and access",
-      "url": "https://kosem.ai/blog/coding-agents-workstation-moment",
-      "description": "Article URL: https://kosem.ai/blog/coding-agents-workstation-moment Comments URL: https://news.ycombinator.com/item?id=50526516 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T02:11:01+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-      "url": "https://robert-mcdermott.github.io/astrum/",
-      "description": "Article URL: https://robert-mcdermott.github.io/astrum/ Comments URL: https://news.ycombinator.com/item?id=50526510 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T02:10:21+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones",
-      "url": "https://wine-assembly.berrry.app/",
-      "description": "Article URL: https://wine-assembly.berrry.app/ Comments URL: https://news.ycombinator.com/item?id=50526380 Points: 13 # Comments: 4",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-11-17T01:50:54+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Omnistew – 3D multiplayer RTS written in Rust, playable in a browser",
-      "url": "https://omnistew.io/",
-      "description": "Article URL: https://omnistew.io/ Comments URL: https://news.ycombinator.com/item?id=50526356 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-17T01:48:03+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
-      "url": "https://cwtractors.com",
-      "description": "Article URL: https://cwtractors.com Comments URL: https://news.ycombinator.com/item?id=50526244 Points: 11 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-11-17T01:31:35+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: Fundlark-open source tool help early-career researcher find funding",
-      "url": "https://github.com/dryang21/Fundlark",
-      "description": "I just finished my PhD and am trying to get some funding to start off. I found that opportunities are scattered and it is a pain to find and validate. Hence,I build Fundlark to make it easier. Comments URL: https://news.ycombinator.com/item?id=50526177 Points: 3 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-17T01:21:51+00:00",
-      "score": 64
-    },
-    {
-      "title": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "description": "Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 48 # Comments: 18",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T01:18:56+00:00",
-      "score": 58
-    },
-    {
-      "title": "Show HN: Free weekly backups for Supabase Free projects (pg_dump to R2)",
-      "url": "https://github.com/liulewis/supabase-free-backup-lite",
-      "description": "Article URL: https://github.com/liulewis/supabase-free-backup-lite Comments URL: https://news.ycombinator.com/item?id=50526110 Points: 6 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-11-17T01:13:58+00:00",
-      "score": 45
-    },
-    {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "url": "https://kobi.music/research/dettato",
-      "description": "I released dettato, my open weight audio to midi transcription model. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without training on copyrighted recordings. Feel free to ask questions Comments URL: https://news.ycombinator.com/item?id=50526023 Points: 4 # C",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T01:03:05+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Hotline Computer – Rootless Linux desktop container with Nix for agents",
-      "url": "https://computer.hotline.dev/",
-      "description": "Article URL: https://computer.hotline.dev/ Comments URL: https://news.ycombinator.com/item?id=50525866 Points: 2 # Comments: 1",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T00:46:10+00:00",
-      "score": 54
-    },
-    {
-      "title": "Show HN: Play last week's Outlook outage as the on-call responder",
-      "url": "https://app.midflight.dev/drills/microsoft-365-outlook-outage",
-      "description": "Article URL: https://app.midflight.dev/drills/microsoft-365-outlook-outage Comments URL: https://news.ycombinator.com/item?id=50525717 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Open Source",
-      "kind": "article",
-      "date": "2026-11-17T00:28:23+00:00",
-      "score": 45
-    },
-    {
-      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-      "description": "Article URL: https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/ Comments URL: https://news.ycombinator.com/item?id=50525658 Points: 66 # Comments: 14",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-17T00:23:21+00:00",
-      "score": 58
-    },
-    {
       "title": "Why 3dfx 1 cards had such a washed out color output?",
       "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "description": "Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 18 # Comments: 0",
+      "description": "Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 231 # Comments: 81",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-11-17T00:16:24+00:00",
       "score": 55
-    },
-    {
-      "title": "Show HN: Doku, a browser-based Sudoku app I built",
-      "url": "https://doku-psi.vercel.app/",
-      "description": "Article URL: https://doku-psi.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50525263 Points: 1 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T23:47:30+00:00",
-      "score": 48
-    },
-    {
-      "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
-      "url": "https://github.com/debarshibasak/listodo",
-      "description": "Article URL: https://github.com/debarshibasak/listodo Comments URL: https://news.ycombinator.com/item?id=50525250 Points: 2 # Comments: 0",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T23:45:49+00:00",
-      "score": 51
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -382,44 +792,14 @@
       "score": 54
     },
     {
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "url": "https://github.com/0nelight/sutra-os",
-      "description": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 38 # Comments: 16",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T23:25:41+00:00",
-      "score": 55
-    },
-    {
-      "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
-      "url": "https://standardsupport.dev/",
-      "description": "Article URL: https://standardsupport.dev/ Comments URL: https://news.ycombinator.com/item?id=50524768 Points: 1 # Comments: 2",
-      "source": "Hacker News / Show",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T23:00:44+00:00",
-      "score": 51
-    },
-    {
-      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "description": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 154 # Comments: 81",
+      "description": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 522 # Comments: 207",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-11-16T23:00:34+00:00",
       "score": 55
-    },
-    {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "description": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 327 # Comments: 197",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T22:58:20+00:00",
-      "score": 61
     },
     {
       "title": "Credit without debit: A new way for hackers to target bank accounts",
@@ -430,26 +810,6 @@
       "kind": "article",
       "date": "2026-11-16T22:20:10+00:00",
       "score": 45
-    },
-    {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "description": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 88 # Comments: 21",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T22:19:23+00:00",
-      "score": 58
-    },
-    {
-      "title": "United Airlines experiencing a widespread system outage, airline says",
-      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "description": "https://news.ycombinator.com/item?id=50524260 Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 199 # Comments: 106",
-      "source": "Hacker News",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T22:14:38+00:00",
-      "score": 58
     },
     {
       "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
@@ -474,31 +834,11 @@
     {
       "title": "BugMeNot has closed",
       "url": "https://www.bugmenot.com/",
-      "description": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 380 # Comments: 190",
+      "description": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 656 # Comments: 295",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-11-16T21:32:17+00:00",
-      "score": 55
-    },
-    {
-      "title": "OpenCode Browse",
-      "url": "https://opencode.ai/product/browse",
-      "description": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 153 # Comments: 68",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T21:20:37+00:00",
-      "score": 55
-    },
-    {
-      "title": "My Quest to push native Three.js quality match AAA Game Engines",
-      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-      "description": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 106 # Comments: 41",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T21:07:43+00:00",
       "score": 55
     },
     {
@@ -512,9 +852,19 @@
       "score": 57
     },
     {
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "description": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 207 # Comments: 176",
+      "source": "Hacker News",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-11-16T20:48:08+00:00",
+      "score": 55
+    },
+    {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "url": "https://www.cs.cmu.edu/learn/",
-      "description": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 897 # Comments: 144",
+      "description": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1988 # Comments: 268",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
@@ -522,34 +872,14 @@
       "score": 55
     },
     {
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "url": "https://news.ycombinator.com/item?id=50522776",
-      "description": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T20:29:48+00:00",
-      "score": 65
-    },
-    {
       "title": "Chemistry is Actually Geometry",
       "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "description": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 142 # Comments: 68",
+      "description": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 291 # Comments: 125",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
       "date": "2026-11-16T20:22:18+00:00",
       "score": 55
-    },
-    {
-      "title": "Rust changed me as a developer",
-      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-      "description": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 207 # Comments: 132",
-      "source": "Hacker News",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T20:16:50+00:00",
-      "score": 58
     },
     {
       "title": "California state AG sues OpenAI over rogue agent incidents",
@@ -612,274 +942,24 @@
       "score": 45
     },
     {
-      "title": "A single sensor offers ultraprecise reconstruction of light information",
-      "url": "https://techxplore.com/news/2026-11-sensor-ultraprecise-reconstruction.html",
-      "description": "Research teams led by Professors Jong-Soo Lee of DGIST, Hoon Hahn Yoon of GIST, and Hyun-Soo Ra of Kyungpook National University have developed an ultra-high-precision computational spectrometer based on a single photodetector. The technology is expected to pave the way for comme",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T18:40:01+00:00",
-      "score": 45
-    },
-    {
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "description": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 734 # Comments: 609",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "description": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 310 # Comments: 312",
       "source": "Hacker News",
       "category": "Software",
       "kind": "article",
-      "date": "2026-11-16T18:31:30+00:00",
+      "date": "2026-11-16T17:27:46+00:00",
       "score": 55
     },
     {
-      "title": "New shipping model coordinates loaded and empty container movements to help cut costs",
-      "url": "https://techxplore.com/news/2026-11-shipping-movements.html",
-      "description": "A mathematical approach to help shipping companies manage cargo container movements between ports is reported in the European Journal of Industrial Engineering. The approach could reduce costs and inefficiencies caused by global imbalances in container supply.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T18:30:01+00:00",
-      "score": 51
-    },
-    {
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-      "description": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T18:21:14+00:00",
-      "score": 45
-    },
-    {
-      "title": "Measuring GitHub popularity could reveal which software flaws need fixes first",
-      "url": "https://techxplore.com/news/2026-11-github-popularity-reveal-software-flaws.html",
-      "description": "The number of cyberattacks is growing rapidly and there are too many software vulnerabilities to fix them all. Researchers at Leiden University have developed a new method to help identify which vulnerabilities deserve attention first: the GitHub Popularity Metric.",
-      "source": "Tech Xplore",
-      "category": "Software",
-      "kind": "article",
-      "date": "2026-11-16T18:20:10+00:00",
-      "score": 51
-    },
-    {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "description": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T18:11:10+00:00",
-      "score": 51
-    },
-    {
-      "title": "Striped semiconductor panel improves hydrogen production by separating water-splitting reaction sites",
-      "url": "https://techxplore.com/news/2026-11-striped-semiconductor-panel-hydrogen-production.html",
-      "description": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have developed an ordered patterning strategy that integrates p-type and n-type BiVO₄ stripes on a conductive substrate. This strategy enables efficient Z-scheme charge separation and signifi",
-      "source": "Tech Xplore",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-11-16T18:00:05+00:00",
-      "score": 48
-    },
-    {
-      "title": "Scientists propose descriptor-driven design paradigm for battery cathode materials",
-      "url": "https://techxplore.com/news/2026-11-scientists-descriptor-driven-paradigm-battery.html",
-      "description": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have established a new paradigm for designing oxide cathode materials. They have moved beyond empirical trial and error toward goal-oriented design using physicochemical descriptors.",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T17:40:08+00:00",
-      "score": 45
-    },
-    {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "description": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-      "source": "TechCrunch",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "description": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 418 # Comments: 91",
+      "source": "Hacker News",
       "category": "Open Source",
       "kind": "article",
-      "date": "2026-11-16T17:36:43+00:00",
-      "score": 61
-    },
-    {
-      "title": "What does an 'AI‑generated' label in advertising actually tell us?",
-      "url": "https://techxplore.com/news/2026-11-aigenerated-advertising.html",
-      "description": "Advertising is about persuasion. It exists to sell products and lifestyles, ideas and stories.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T17:30:10+00:00",
-      "score": 48
-    },
-    {
-      "title": "Existing seismic networks can record sonic booms from supersonic flights",
-      "url": "https://techxplore.com/news/2026-11-seismic-networks-sonic-booms-supersonic.html",
-      "description": "Faster-than-sound commercial flight could be on its way back after more than half a century—if the industry solves one rather loud problem: regulating sonic booms. A team of Penn State researchers may have found that a big part of the answer already exists in seismic monitoring n",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T17:20:14+00:00",
-      "score": 45
-    },
-    {
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "description": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T17:10:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "source": "TechCrunch",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T17:02:43+00:00",
-      "score": 51
-    },
-    {
-      "title": "The Microsoft outage is an urgent wake‑up call for greater digital resilience",
-      "url": "https://techxplore.com/news/2026-11-microsoft-outage-urgent-wakeup-greater.html",
-      "description": "Friday the 13th turned out to be very unlucky indeed for Microsoft. A major outage of the tech giant's services put a halt to digital communication for millions across the world.",
-      "source": "Tech Xplore",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T17:00:26+00:00",
-      "score": 48
-    },
-    {
-      "title": "A shared signal for humans and robots: Flexible display uses both color and near-infrared to communicate",
-      "url": "https://techxplore.com/news/2026-11-humans-robots-flexible-display-infrared.html",
-      "description": "A joint research team from the Korea Advanced Institute of Science and Technology (KAIST) and Yonsei University has developed a flexible display that can communicate information to both humans and robots. Human workers can interpret information through visible color changes, whil",
-      "source": "Tech Xplore",
-      "category": "Robotics",
-      "kind": "article",
-      "date": "2026-11-16T17:00:10+00:00",
-      "score": 48
-    },
-    {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T17:00:00+00:00",
+      "date": "2026-11-16T16:53:39+00:00",
       "score": 58
-    },
-    {
-      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-      "description": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T17:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Self-illuminating fibers reveal soft robot movements without batteries or complex electronic circuits",
-      "url": "https://techxplore.com/news/2026-11-illuminating-fibers-reveal-soft-robot.html",
-      "description": "A research team led by Professor Soon Moon Jeong of the Department of Advanced Technology at the Graduate School of Engineering Practice at DGIST, has developed a new sensing technology for soft robots that emits light whenever the robot moves, providing an intuitive visual repre",
-      "source": "Tech Xplore",
-      "category": "Robotics",
-      "kind": "article",
-      "date": "2026-11-16T16:20:05+00:00",
-      "score": 48
-    },
-    {
-      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-      "description": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T16:06:30+00:00",
-      "score": 55
-    },
-    {
-      "title": "Researchers develop next-generation bifacial tandem solar cells",
-      "url": "https://techxplore.com/news/2026-11-generation-bifacial-tandem-solar-cells.html",
-      "description": "To increase the amount of electricity generated by solar cells, it is essential to develop technologies that capture and harness not only direct sunlight but also light reflected and scattered by the ground and surrounding objects. In this regard, two approaches have attracted co",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T16:02:10+00:00",
-      "score": 48
-    },
-    {
-      "title": "Audible turns to AI to help users discover audiobooks",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "description": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "source": "TechCrunch",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T15:52:19+00:00",
-      "score": 48
-    },
-    {
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "description": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "source": "TechCrunch",
-      "category": "Hardware",
-      "kind": "article",
-      "date": "2026-11-16T15:02:34+00:00",
-      "score": 51
-    },
-    {
-      "title": "Why solar researchers are working to devise a silver reduction playbook",
-      "url": "https://techxplore.com/news/2026-11-solar-silver-reduction-playbook.html",
-      "description": "Solar power may have become one of the world's cheapest sources of renewable electricity, but an increasingly expensive precious metal is creating a challenge for the industry.",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T15:00:14+00:00",
-      "score": 48
-    },
-    {
-      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-      "description": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-      "source": "TechCrunch",
-      "category": "Industry",
-      "kind": "article",
-      "date": "2026-11-16T14:48:13+00:00",
-      "score": 51
-    },
-    {
-      "title": "What makes 'super shoes' so fast?",
-      "url": "https://techxplore.com/news/2026-11-super-fast.html",
-      "description": "It's 3 a.m. in the Austrian Alps, and Jeremy McCulloch is alone in the dark. The 90-kilometer (56-mile) Pitztal Glacier Ultratrail race started at 11 p.m. to get runners off the exposed peaks before the valley's afternoon thunderstorms. The course climbs 17,000 feet (5,200 meters",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T14:40:10+00:00",
-      "score": 45
-    },
-    {
-      "title": "Less data, faster discovery: Researchers rethink AI's role in developing new materials",
-      "url": "https://techxplore.com/news/2026-11-faster-discovery-rethink-ai-role.html",
-      "description": "Developing new materials often starts with understanding their electronic structure, or how electrons are arranged and behave within them. Calculating these electronic structures typically requires expensive simulations on supercomputers. That's led researchers to train artificia",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T14:30:01+00:00",
-      "score": 51
-    },
-    {
-      "title": "New antifogging solution keeps surfaces transparent in extreme condensation",
-      "url": "https://techxplore.com/news/2026-11-antifogging-solution-surfaces-transparent-extreme.html",
-      "description": "Many of us know the frustration of having our eyeglasses, sports goggles or even the door of a frozen food case fog up. But as sensors and cameras become part of our everyday lives, fogging is no longer simply an annoyance; it can impair the transmission of critical visual inform",
-      "source": "Tech Xplore",
-      "category": "Research",
-      "kind": "article",
-      "date": "2026-11-16T14:20:02+00:00",
-      "score": 45
     },
     {
       "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
@@ -889,26 +969,6 @@
       "category": "Robotics",
       "kind": "article",
       "date": "2026-11-16T14:00:02+00:00",
-      "score": 48
-    },
-    {
-      "title": "Machine vision model removes shadows from images to depict their true colors in any lighting condition",
-      "url": "https://techxplore.com/news/2026-11-machine-vision-shadows-images-depict.html",
-      "description": "Despite rapid improvement in computer vision models, which can perform accurate facial recognition or read the text printed on signs, their ability to distinguish the subtle visual qualities of objects, colors and light remains no match for the human eye, technology experts say.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T14:00:01+00:00",
-      "score": 48
-    },
-    {
-      "title": "Quantum neural networks with high-dimensional quantum neurons",
-      "url": "https://techxplore.com/news/2026-11-quantum-neural-networks-high-dimensional.html",
-      "description": "How can we scale up a quantum neural network? One way is to add more qubits as neurons. But a study titled \"Quantum neural network equipped with backpropagation on a qudit processor\" published in National Science Review shows another way.",
-      "source": "Tech Xplore",
-      "category": "AI",
-      "kind": "article",
-      "date": "2026-11-16T13:40:04+00:00",
       "score": 48
     },
     {
@@ -930,606 +990,6 @@
       "kind": "article",
       "date": "2026-11-16T10:00:01+00:00",
       "score": 54
-    },
-    {
-      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-      "url": "https://arxiv.org/abs/2611.17338",
-      "description": "LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 54
-    },
-    {
-      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-      "url": "https://arxiv.org/abs/2611.17339",
-      "description": "Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwe",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-      "url": "https://arxiv.org/abs/2611.17340",
-      "description": "Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-      "url": "https://arxiv.org/abs/2611.17341",
-      "description": "Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrie",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "An Operationalization of Opaque Serial Depth",
-      "url": "https://arxiv.org/abs/2611.17495",
-      "description": "Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a ",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-      "url": "https://arxiv.org/abs/2611.17501",
-      "description": "Recommendation and Ranking (R&amp;R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-      "url": "https://arxiv.org/abs/2611.17515",
-      "description": "Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 54
-    },
-    {
-      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-      "url": "https://arxiv.org/abs/2611.17524",
-      "description": "A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. ",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-      "url": "https://arxiv.org/abs/2611.17532",
-      "description": "Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximat",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-      "url": "https://arxiv.org/abs/2611.17539",
-      "description": "Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed dur",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
-      "url": "https://arxiv.org/abs/2611.17564",
-      "description": "Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI civic reasoning, in which peopl",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
-      "url": "https://arxiv.org/abs/2611.17583",
-      "description": "A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits on average reaches only 75% accuracy. The difference lies in which distinctions each representation preserves. We examine this relationship in a uniform ",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
-      "url": "https://arxiv.org/abs/2611.17610",
-      "description": "Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-age",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
-      "url": "https://arxiv.org/abs/2611.17616",
-      "description": "Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving clusterings. Threshold triggers fire a pre-specified ",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
-      "url": "https://arxiv.org/abs/2611.17620",
-      "description": "High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference time, subtracting the vector during generation, or",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-      "url": "https://arxiv.org/abs/2611.17621",
-      "description": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input co",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
-      "url": "https://arxiv.org/abs/2611.17632",
-      "description": "Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then scored like a benchmark by its mean pass rate, which ",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "What LLM Agents See and What Users Say",
-      "url": "https://arxiv.org/abs/2611.17639",
-      "description": "Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory from linguistics: an agent may act only if each claim ",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
-      "url": "https://arxiv.org/abs/2611.17662",
-      "description": "Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or assisted. However, these heuristics may stop runs that",
-      "source": "arXiv AI",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2611.17680",
-      "description": "Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remains unclear. We introduce the first real-world diagno",
-      "source": "arXiv AI",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
-      "url": "https://arxiv.org/abs/2611.17398",
-      "description": "The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application. However, most alignment techniques focus on training models to conform to human preferences or constitutional principles s",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
-      "url": "https://arxiv.org/abs/2611.17412",
-      "description": "Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of long series is slow. Learned app",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Classification with Large-Step Gradient Descent: Unifying Self-Stabilization and Convergence Rates",
-      "url": "https://arxiv.org/abs/2611.17459",
-      "description": "Neural networks are often trained with gradient descent (GD) using step sizes that exceed classical stability thresholds, a regime where standard convergence theory no longer applies. Despite exhibiting non-monotonic loss and oscillatory dynamics, this regime frequently leads to ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
-      "url": "https://arxiv.org/abs/2611.17460",
-      "description": "AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority. When completion requires violating a rule, the agent must decide ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models",
-      "url": "https://arxiv.org/abs/2611.17462",
-      "description": "Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once. Fine-tuning is expensive and produces a new model for every new objecti",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
-      "url": "https://arxiv.org/abs/2611.17463",
-      "description": "Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel temperature and final chemical co",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Improved Regret via Variance-Aware Policy Optimization in Adversarial MDPs",
-      "url": "https://arxiv.org/abs/2611.17469",
-      "description": "We study episodic adversarial MDPs with unknown dynamics and full-information rewards and achieve regret with leading term $\\widetilde O(\\sqrt{H^3SAK})$. Here $H$ is the horizon, $S$ the total number of states across decision layers, $A$ the number of actions, and $K$ the number ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
-      "url": "https://arxiv.org/abs/2611.17472",
-      "description": "Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them. Mixture-of-experts models already combine many experts, but a single router decides ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "ERGo: Energy-Efficient Hybrid Graph Neural Network Training on Processing-In-Memory Architectures",
-      "url": "https://arxiv.org/abs/2611.17478",
-      "description": "Processing-in-memory (PIM) has been proposed as an alternative computing paradigm for training Deep Neural Networks, including Graph Neural Networks (GNNs). Despite these advancements, training GNN workloads on PIM devices necessitates off-chip memory access. This off-chip access",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 54
-    },
-    {
-      "title": "SURFACE: Preference Distribution Matching on Pareto Fronts via Scalarization Steering",
-      "url": "https://arxiv.org/abs/2611.17484",
-      "description": "Constructing a finite Pareto representation requires allocating a limited number of solutions across the Pareto front (PF). A desired preference distribution specifies this allocation by assigning more solutions to some PF regions and fewer to others. Scalarization generates Pare",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Identifying Latent Neural Dynamics with Recognition-Parametrised Gaussian Process Dynamical Systems",
-      "url": "https://arxiv.org/abs/2611.17487",
-      "description": "Neural circuits are densely interconnected systems, and many neural computations are thought to be mediated by the dynamical evolution of activity within these recurrent networks, a hypothesis often referred to as \"computation through dynamics\". Under this view, understanding com",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "PF-Exec: Large-Scale UAV Relay Load Balancing with an Anchored Potential Direction Decider and a Per-Dimension Gain-Learning Executor",
-      "url": "https://arxiv.org/abs/2611.17492",
-      "description": "Relay load balancing in large-scale UAV networks requires joint decisions on association, bandwidth, power and hovering position, while the dimension grows with the number of UAVs and each UAV sees only its local state. This paper splits the decision into two layers. An anchored ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Adversarially Batched Online Learning",
-      "url": "https://arxiv.org/abs/2611.17500",
-      "description": "We introduce adversarially batched online learning, where the learner may update its decision rule only at a restricted set of time steps. Equivalently, the time horizon is partitioned into batches, within which the learner must use a fixed policy. We study this model for four ca",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "A Synthetic Benchmark for Target-Centric Causal Discovery in Industrial Processes",
-      "url": "https://arxiv.org/abs/2611.17556",
-      "description": "Causal discovery promises to find which recorded variables drive a process target such as product quality, yield or energy use. Process data with known causes are rare, and in existing benchmarks the difficulty of identifying the causes of a target is either fixed by the recorded",
-      "source": "arXiv ML",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Generative Design with Real-time Physics Explainability: Towards Product Definition in the Age of AI",
-      "url": "https://arxiv.org/abs/2611.17560",
-      "description": "In this article, we explore opportunities from using generative AI in mechanical engineering. On the one hand, generative methods based on invertible neural networks have been recently proposed for the solution of inverse design problems, allowing to infer design parameters from ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Beyond a Single Sign: BiTE for Branch-Preserving Binary Threshold Expansion",
-      "url": "https://arxiv.org/abs/2611.17576",
-      "description": "Binary neural networks (BNNs) reduce model storage and replace many arithmetic operations with efficient bitwise computations, but the single-sign activation limits their representational capacity. Each preactivation direction is compared with one threshold and reduced to one of ",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Fair and Efficient Distributed EV Charging Coordination Using Threshold Cryptography and Machine Learning",
-      "url": "https://arxiv.org/abs/2611.17577",
-      "description": "Distributed coordination of electric vehicle (EV) charging with the alternating direction method of multipliers (ADMM) keeps EV constraints private but assumes that every participant follows the algorithm. This assumption fails in practice, where a biased operator or a man-in-the",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning",
-      "url": "https://arxiv.org/abs/2611.17600",
-      "description": "Multimodal tabular learning involves classification and regression on tables combining structured numerical and categorical features with unstructured text and images. These unstructured fields are commonly represented by pretrained encoder embeddings reduced with principal compo",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Offline KL-Regularized Reinforcement Learning with Stochastic Transitions",
-      "url": "https://arxiv.org/abs/2611.17603",
-      "description": "KL-regularized reinforcement learning is the objective behind RL fine-tuning of language models, and its data are often collected by the reference policy itself. However, beyond bandits and deterministic transitions, little is known about how much offline data it needs. In this w",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Neural Simulation-Based Inference for Computational Cognitive Models: A Tutorial",
-      "url": "https://arxiv.org/abs/2611.17608",
-      "description": "Computational cognitive modeling is an increasingly essential methodology to elucidate the mechanisms underlying human and animal cognition. By fitting models to empirical data, researchers can perform parameter estimation, model comparison, and model-based neural analyses to ass",
-      "source": "arXiv ML",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 54
-    },
-    {
-      "title": "Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
-      "url": "https://arxiv.org/abs/2611.17394",
-      "description": "Improving a pretrained vision-language-action (VLA) model requires demonstrations that address its weaknesses and provide effective supervision for learning. Coding agents can autonomously generate demonstrations through environment interaction, yet successful execution alone doe",
-      "source": "arXiv Robotics",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search",
-      "url": "https://arxiv.org/abs/2611.17442",
-      "description": "A rescue robot entering a building with thirty seconds on the clock should sprint toward the single most promising room; given ten minutes, it should instead explore a broader tour. Yet vision-language-navigation (VLN) models are typically evaluated under a fixed episode limit th",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
-      "url": "https://arxiv.org/abs/2611.17529",
-      "description": "Image-goal planning with a frozen visual world model depends on how predicted observations are scored against the goal. Mean-squared error (MSE) between embeddings from a pretrained visual encoder can provide a useful signal near a goal, yet favor states across an obstacle that a",
-      "source": "arXiv Robotics",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics",
-      "url": "https://arxiv.org/abs/2611.17549",
-      "description": "Multi-turn conversational human-robot interaction (HRI) continues to be a challenging problem in robotics, as many existing systems rely on rigid, command-driven interfaces that can be unintuitive for users. Recent advances in Large Language Models (LLMs) provide a promising dire",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 54
-    },
-    {
-      "title": "Grounding Object-to-Object Hazard Reasoning into 3D Risk Fields for Task-Conditioned Safety",
-      "url": "https://arxiv.org/abs/2611.17566",
-      "description": "Safety in robotics does not solely depend on geometric constraints, but also on semantics: the given task, environment properties, and interactions between objects in the scene. We present a framework based on vision-language models (VLMs) to infer task- and scene-dependent safet",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "Natural Swing-Up of an Underpowered Double Pendulum",
-      "url": "https://arxiv.org/abs/2611.17575",
-      "description": "Robots with weak motors must ride their natural dynamics rather than fight them. We swing up a direct-drive planar two-link robot, whose motors deliver only about 6\\,\\% of its shoulder gravity torque, along its nonlinear normal modes, two-dimensional invariant manifolds consistin",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot",
-      "url": "https://arxiv.org/abs/2611.17598",
-      "description": "Long-horizon navigation from indoors to outdoors remains an open problem for humanoid robots: one instruction covers rooms, doors and roads, and the camera moves with the gait. Worken, AGIBOT's measure of productive robot work, depends on robots that reach their workplaces autono",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
-      "url": "https://arxiv.org/abs/2611.17619",
-      "description": "Human demonstrations are becoming the main source of data for dexterous manipulation, and real-to-sim-to-real pipelines multiply each demonstration in simulation. These pipelines rebuild the interaction from vision, which recovers how the hand moves. Which fingers touch, when, an",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "On the Utility of Pre-Trained Visual Representations for Policy Learning of Contact-Rich Insertion Tasks",
-      "url": "https://arxiv.org/abs/2611.17631",
-      "description": "Visuomotor imitation learning has become a predominant paradigm for real-world robotic manipulation, yet it remains data-inefficient and brittle to task-irrelevant visual shifts. Pre-trained visual representations promise to ease this burden by distilling priors from internet-sca",
-      "source": "arXiv Robotics",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics",
-      "url": "https://arxiv.org/abs/2611.17638",
-      "description": "Personalized bioelectronic devices for wound therapy require not only conformal fabrication on complex body surfaces but also functional adaptation of their electrical characteristics to individual wound geometries. Here, we present an AI-guided robotic in situ printing platform ",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "Imitation Policies Learn a Proprioceptive Anchor: A Predictive Law for Perception Noise and Its Closed Loop Cost",
-      "url": "https://arxiv.org/abs/2611.17658",
-      "description": "Imitation policies for robot manipulation are often trained on noisy object positions, and they learn to discount the noisy reading. We show how much they discount it, and why. Because demonstrators steer toward the object, the robot's own state carries information about where th",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 45
-    },
-    {
-      "title": "EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development",
-      "url": "https://arxiv.org/abs/2611.17660",
-      "description": "The development of intelligent chassis increasingly requires the integration of environmental and perception information with high-fidelity vehicle dynamics to support environment-aware intelligent chassis control. However, existing autonomous-driving simulators and professional ",
-      "source": "arXiv Robotics",
-      "category": "Hardware",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads",
-      "url": "https://arxiv.org/abs/2611.17720",
-      "description": "End-to-end autonomous driving is predominantly evaluated through ego-vehicle safety and task completion. Its deployment in urban traffic, however, creates sustained interactions among vehicles whose collective effects remain insufficiently evaluated. We introduce Ego2Flow, a clos",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth",
-      "url": "https://arxiv.org/abs/2611.17730",
-      "description": "Depth and 3D foundation models can predict geometry from RGB images, allowing zero-shot object navigation without a depth sensor. However, when predicted depth is mapped as if it came from a sensor, view-dependent errors accumulate in the map, remove exploration goals, and end th",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "When Does Cross-View Consistency Matter in Multi-View Appearance Augmentation? A Controlled Study for Visuomotor Policies",
-      "url": "https://arxiv.org/abs/2611.17751",
-      "description": "Multi-view visual augmentation often seeks consistency across cameras, but it is unclear which forms of consistency matter for downstream control. We use simulation-state replay to manipulate cross-view coupling while preserving the per-camera perturbation distributions, physical",
-      "source": "arXiv Robotics",
-      "category": "Research",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models",
-      "url": "https://arxiv.org/abs/2611.17775",
-      "description": "World models that support planning, control, and interpretable reasoning require latent representations that genuinely encode action. Yet the large-scale video data from which such models are learned overwhelmingly lack action annotations. Latent-action models infer action-like v",
-      "source": "arXiv Robotics",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "Multimodal Person Concept Model for Person Identification under Varying Observation Conditions",
-      "url": "https://arxiv.org/abs/2611.17802",
-      "description": "Service robots in domestic and office environments must identify users to provide personalized services based on their preferences and previous interactions. This is challenging because only a few observations may be available for learning, while observation conditions change owi",
-      "source": "arXiv Robotics",
-      "category": "AI",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 48
-    },
-    {
-      "title": "Per-Agent-Safe Navigation of Globally Driven Robot Collectives via Affine Field Design",
-      "url": "https://arxiv.org/abs/2611.17859",
-      "description": "Safe navigation of robot collectives requires coordinating motion and deformation so that the collective can traverse constrained environments while ensuring each robot's safety. Existing controllers for swarmalator collectives largely rely on local control, where each robot rece",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints",
-      "url": "https://arxiv.org/abs/2611.18003",
-      "description": "Reinforcement learning has enabled robust humanoid locomotion, yet training recipes (rewards, architectures, hyperparameters) remain hard to reuse across robots with different native joint coordinates, since policies output native joint angles while action scales, bounds, gains, ",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
-    },
-    {
-      "title": "A Generalizable Approach to Safety-Aware Robotic Behavior Planning with an Explicit Constraint Space",
-      "url": "https://arxiv.org/abs/2611.18026",
-      "description": "Large language and vision-language models have substantially advanced robotic behavior planning from natural-language instructions and visual observations. However, safe manipulation in tabletop environments remains challenging because the safety constraints required for a task d",
-      "source": "arXiv Robotics",
-      "category": "Robotics",
-      "kind": "research paper",
-      "date": "2026-11-16T05:00:00+00:00",
-      "score": 51
     },
     {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
@@ -1799,6 +1259,86 @@
       "category": "AI",
       "kind": "article",
       "date": "2026-11-03T00:00:00+00:00",
+      "score": 55
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-11-03T00:00:00+00:00",
+      "score": 61
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "description": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster wh",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-11-01T14:00:01+00:00",
+      "score": 45
+    },
+    {
+      "title": "When Electric Cars Were for Women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "description": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had re",
+      "source": "IEEE Spectrum",
+      "category": "Hardware",
+      "kind": "article",
+      "date": "2026-10-31T13:00:02+00:00",
+      "score": 45
+    },
+    {
+      "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
+      "url": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
+      "description": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports ",
+      "source": "IEEE Spectrum",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-30T12:29:43+00:00",
+      "score": 48
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "description": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the adv",
+      "source": "IEEE Spectrum",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-29T19:18:20+00:00",
+      "score": 48
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "Software",
+      "kind": "article",
+      "date": "2026-10-29T13:37:07+00:00",
+      "score": 61
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-29T00:00:00+00:00",
+      "score": 58
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "description": "",
+      "source": "Hugging Face",
+      "category": "AI",
+      "kind": "article",
+      "date": "2026-10-29T00:00:00+00:00",
       "score": 55
     }
   ]
